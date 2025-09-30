@@ -58,6 +58,7 @@ The drug discovery platform I belonged to had recently transitioned from low- to
 - Raw .txt files renamed with plate name, replicate and reading
 - Excel spreadsheet containing the plate description
 - Choice of parameters for the analysis (if defaults need to be overwritten)
+- <img width="614" height="645" alt="image" src="https://github.com/user-attachments/assets/6a77c625-ccec-4650-b020-4898484e0714" />
 
 # Output
 
@@ -68,11 +69,19 @@ The drug discovery platform I belonged to had recently transitioned from low- to
   - Device acquisition parameters
   - Plate layout before and after name condition cleaning
   - Signal vs time graphing
-    - Whole plate 
+    - Whole plate
+    - <img width="1576" height="1096" alt="image" src="https://github.com/user-attachments/assets/8d6e4542-dd00-42f1-b3f6-779089605f45" />
+
     - Individual conditions
+    - <img width="1579" height="803" alt="image" src="https://github.com/user-attachments/assets/33ff5728-009e-46f8-9631-897b37587069" />
+
   - Dose-response analysis results:
     - Curves
+    - <img width="720" height="410" alt="image" src="https://github.com/user-attachments/assets/a1bd2712-b51d-4acd-9005-9502c8feea11" />
     - Curve metrics
+   
+    - <img width="1235" height="849" alt="image" src="https://github.com/user-attachments/assets/1662c1c5-8f6f-4d63-8c1e-fa324ffe653c" />
+
     - Tables
   - Z-factor calculations
   - Quality control tables
