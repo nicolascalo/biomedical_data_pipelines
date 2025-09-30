@@ -89,5 +89,3 @@ The drug discovery platform I belonged to had recently transitioned from low- to
 - Area under the curve settings
 - Manual override for baseline timeframe
 - Rolling average parameters
-
-
