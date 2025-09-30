@@ -1,3 +1,7 @@
+# Graphical summary
+
+<img width="1862" height="411" alt="image" src="https://github.com/user-attachments/assets/37e41ae0-0e6d-4f10-b9e8-2d8d976017dd" />
+
 # Context
 
 The drug discovery platform I belonged to had recently transitioned from low- to high-throughput pharmacological screening for its drug candidates. Manual processing of the screening data had become unsustainable (one week of work for a single experiment), warranting the development of an automated data processing and analysis pipeline. 
