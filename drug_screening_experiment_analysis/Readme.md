@@ -1,0 +1,93 @@
+# Context
+
+The drug discovery platform I belonged to had recently transitioned from low- to high-throughput pharmacological screening for its drug candidates. Manual processing of the screening data had become unsustainable (one week of work for a single experiment), warranting the development of an automated data processing and analysis pipeline. 
+
+# Features of the pipeline
+
+## Open source and free-to-use software ecosystem
+
+- R and RStudio (for parametrized R-markdown reporting)
+- Plotly for interactive graphs
+- ggplot2 for static graphs
+
+
+## Ease of use for users with limited skills in computers use
+
+- Direct processing of unmodified exported raw data files from the screening device
+- Only limited file renaming needed 
+- Plate layout provided by the user by an easy to fill medium (excel spreadsheet)
+- One click analysis with preloaded default settings
+- Output of a software-unbound html interactive report that contains the complete analysis
+- Automated installation of needed packages and dependencies
+- Automated detection of positive and negative controls
+- Automated detection of single/multi wavelength (BRET) experiments
+
+## Reproducibility and traceability of results 
+
+- Embedding of the raw data files and source code inside the report
+- Graphical and numeric details of all the processing steps
+- Details of the screening device parameters extracted from raw data files
+- Details of the analysis parameters
+- Possibility of excluding data points from the analysis but still displaying them 
+
+## Data processing and display
+
+- Rolling average of the data (optional)
+- Wavelength splitting and ratio (if applicable)
+- Aggregation of plate replicates and successive readings
+- Data normalization to baseline and vehicle conditions
+- Interplate data normalization based on a positive control
+- Graphing of the individual well data for each processing step
+- Calculation of kinetics metrics for each individual treatment:
+  - e.g., peak height, time to peak, area under the fluorescence curve, etc.
+  - reference point:
+    - baseline at the beginning of the experiment (baseline)
+    - time of treatment (t0phase) 
+- Interactive display of the resulting dude response curve
+- Calculation of dose-response curve metrics when applicable (EC50, AUC of the dose response curve, etc.)
+- Interactive display of the dose response curve metrics
+- Quality control of the experiment (z-factor)
+- Filterable and downloadable tables of all the produced data (individual and aggregated replicates)
+
+# Input
+
+- Raw .txt files renamed with plate name, replicate and reading
+- Excel spreadsheet containing the plate description
+- Choice of parameters for the analysis (if defaults need to be overwritten)
+
+# Output
+
+- Html report containing for each wavelength and wavelength ratio:
+  - Source code of the script (disabled in this repository)
+  - Comments from users 
+  - Assay volumes (if included by the user)
+  - Device acquisition parameters
+  - Plate layout before and after name condition cleaning
+  - Signal vs time graphing
+    - Whole plate 
+    - Individual conditions
+  - Dose-response analysis results:
+    - Curves
+    - Curve metrics
+    - Tables
+  - Z-factor calculations
+  - Quality control tables
+  - Data processing and analysis parameters
+  - Raw data files (disabled in this repository)
+- Prepopulated .pzfx Graphpad Prism files with the dose response curve data
+- .csv and binary files for the processed data
+
+# Parametrization of the report
+
+- Parameters of the curve fitting algorithm
+- Data normalization procedure (ratio or delta)
+- Graphs/tables to output
+- Data to export
+- drug batch aggregation
+- Manual override of positive controls
+- 1st peak detection instead of highest peak
+- Area under the curve settings
+- Manual override for baseline timeframe
+- Rolling average parameters
+
+
