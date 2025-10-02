@@ -16,7 +16,7 @@ A pipeline to process and analyze experimental data comming from high-throughput
 ## Drug Discovery - Campaign Data Compilation
 A pipeline to aggregate and analyze complete datasets of high-throughput screening experiments
 
-<img width="2000" height="441" alt="image" src="https://github.com/user-attachments/assets/17e70fd0-b886-4c43-98f3-41a009540125" />
+<img width="2000" height="447" alt="image" src="https://github.com/user-attachments/assets/e56b0fa3-a69c-4b84-a99b-736a2d7b0803" />
 
 ## Sanger DNA sequencing for phage display plasmids  (WIP)
 ## Next Generation Sequencing (NGS) data processing and analysis pipelines for phage display plasmids (WIP)
