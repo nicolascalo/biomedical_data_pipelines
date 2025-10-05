@@ -11,7 +11,7 @@ More detailed explanations of the pipelines are included in their respective fol
 ## Drug Discovery - High-throughput Screening Experiment Analysis
 A pipeline to process and analyze experimental data comming from high-throughput drug screening experiments
 
-<img width="1862" height="411" alt="495678831-37e41ae0-0e6d-4f10-b9e8-2d8d976017dd" src="https://github.com/user-attachments/assets/5f2f672b-7a61-4c9c-9a54-816c0809ceaf" />
+<img width="2000" height="524" alt="image" src="https://github.com/user-attachments/assets/c902cab5-fb99-46a0-840f-8b88b692c0ff" />
 
 ## Drug Discovery - Campaign Data Compilation
 A pipeline to aggregate and analyze complete datasets of high-throughput screening experiments
