@@ -22,6 +22,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - R and RStudio (for parametrized R-markdown reporting)
 - Plotly for interactive graphs
 - ggplot2 for static graphs
+- DT for interactive tables
 
 
 ## Ease of use for users with limited skills in computers use
@@ -34,6 +35,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Automated installation of needed packages and dependencies
 - Automated detection of positive and negative controls
 - Automated detection of single/multi wavelength (BRET) experiments
+- Possibility to copy and export filtered tables directly from the report as .xls, .csv or .pdf files
 
 ## Reproducibility of the analysis and traceability of the raw data
 
@@ -65,7 +67,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 
 # Results
 
-Fully self-contained interactive html report allowing easy exploration and distribution of raw and processed data by the user.
+Fully self-contained interactive html report allowing easy exploration and sharing of raw and processed data by the user.
 
 # Pipeline input, output and parameters
 
