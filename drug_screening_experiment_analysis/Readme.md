@@ -12,7 +12,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Open source and free-to-use software ecosystem
 - Ease of use for users with limited skills in computers use but possibility of tuning the parameters of the analysis
 - Reproducibility of the analysis and traceability of the raw data
-- Automated data processing and display of the results
+- Automated data processing and interactive display of the results
 
   
 # Action
@@ -43,7 +43,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Details of the analysis parameters
 - Possibility of excluding data points from the analysis but still displaying them 
 
-## Automated data processing and display of the results
+## Automated data processing and interactive display of the results
 
 - Rolling average of the data (optional)
 - Wavelength splitting and ratio (if applicable)
