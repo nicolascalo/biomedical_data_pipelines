@@ -2,11 +2,20 @@
 
 <img width="1862" height="411" alt="image" src="https://github.com/user-attachments/assets/37e41ae0-0e6d-4f10-b9e8-2d8d976017dd" />
 
-# Context
+# Situation
 
 The drug discovery platform I belonged to had recently transitioned from low- to high-throughput pharmacological screening for its drug candidates. Manual processing of the screening data had become unsustainable (one week of work for a single experiment), warranting the development of an automated data processing and analysis pipeline. 
 
-# Features of the pipeline
+# Task
+
+Creating an analysis pipeline answering the following requirements:
+- Open source and free-to-use software ecosystem
+- Ease of use for users with limited skills in computers use but possibility of tuning the parameters of the analysis
+- Reproducibility of the analysis and traceability of the raw data
+- Automated data processing and display of the results
+
+  
+# Action
 
 ## Open source and free-to-use software ecosystem
 
@@ -26,7 +35,7 @@ The drug discovery platform I belonged to had recently transitioned from low- to
 - Automated detection of positive and negative controls
 - Automated detection of single/multi wavelength (BRET) experiments
 
-## Reproducibility and traceability of results 
+## Reproducibility of the analysis and traceability of the raw data
 
 - Embedding of the raw data files and source code inside the report
 - Graphical and numeric details of all the processing steps
@@ -34,7 +43,7 @@ The drug discovery platform I belonged to had recently transitioned from low- to
 - Details of the analysis parameters
 - Possibility of excluding data points from the analysis but still displaying them 
 
-## Data processing and display
+## Automated data processing and display of the results
 
 - Rolling average of the data (optional)
 - Wavelength splitting and ratio (if applicable)
@@ -53,14 +62,21 @@ The drug discovery platform I belonged to had recently transitioned from low- to
 - Quality control of the experiment (z-factor)
 - Filterable and downloadable tables of all the produced data (individual and aggregated replicates)
 
-# Input
+
+# Results
+
+Fully self-contained interactive html report allowing easy exploration and distribution of raw and processed data by the user.
+
+# Pipeline input, output and parameters
+
+## Input
 
 - Raw .txt files renamed with plate name, replicate and reading
 - Excel spreadsheet containing the plate description
 - Choice of parameters for the analysis (if defaults need to be overwritten)
 - <img width="614" height="645" alt="image" src="https://github.com/user-attachments/assets/6a77c625-ccec-4650-b020-4898484e0714" />
 
-# Output
+## Output
 
 - Html report containing for each wavelength and wavelength ratio:
   - Source code of the script (disabled in this repository)
@@ -90,7 +106,7 @@ The drug discovery platform I belonged to had recently transitioned from low- to
 - Prepopulated .pzfx Graphpad Prism files with the dose response curve data
 - .csv and binary files for the processed data
 
-# Parametrization of the report
+## Parametrization of the report
 
 - Parameters of the curve fitting algorithm
 - Data normalization procedure (ratio or delta)
