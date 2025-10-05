@@ -8,7 +8,7 @@ The drug discovery platform I belonged to had recently transitioned from low- to
 
 # Task
 
-Creating an analysis pipeline answering the following requirements:
+Creating an analysis pipeline for the processing of individual drug screening experiments answering the following requirements:
 - Open source and free-to-use software ecosystem
 - Ease of use for users with limited skills in computers use but possibility of tuning the parameters of the analysis
 - Reproducibility of the analysis and traceability of the raw data
