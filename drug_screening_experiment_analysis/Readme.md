@@ -1,6 +1,6 @@
 # Graphical summary
 
-<img width="1862" height="411" alt="image" src="https://github.com/user-attachments/assets/37e41ae0-0e6d-4f10-b9e8-2d8d976017dd" />
+<img width="2000" height="551" alt="image" src="https://github.com/user-attachments/assets/235e9646-6d7d-4b79-af7e-8bdf2ae74fcc" />
 
 # Situation
 
