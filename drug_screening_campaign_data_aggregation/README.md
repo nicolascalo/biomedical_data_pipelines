@@ -6,11 +6,21 @@ The file included in this folder has been anonimized, which introduced some arti
 
 <img width="2000" height="447" alt="496859446-e56b0fa3-a69c-4b84-a99b-736a2d7b0803" src="https://github.com/user-attachments/assets/b8af36f1-b5a4-48fd-b990-bc9095f2e0f5" />
 
-# Context
+# Situation
 
 Over a drug discovery campaign, hundreds if not thousands of dose-response curves are generated in order to establish a complete dataset. It is then usefull to generate a structured document gathering both the aggregated and individual experimental data for easy sharing and reviewing by decision makers and coworkers.
 
-# Features of the pipeline
+
+# Task
+
+Creating an analysis pipeline for the aggregation and integration of individual drug screening experiments answering the following requirements:
+- Open source and free-to-use software ecosystem
+- Reproducibility of the analysis and traceability of the raw data
+- Automated data processing and compilation of the results in a single master pdf file
+
+  
+# Action
+
 
 ## Open source and free-to-use software ecosystem
 
@@ -31,12 +41,18 @@ Over a drug discovery campaign, hundreds if not thousands of dose-response curve
 - Various representations of the aggregated data (tables, graphs)
 - Exhaustive graphing of all the individual dose-response curves in regard to their respective controls
 
-# Input
+# Results
+
+A single bookmarked .pdf file containing the integrated data and associated classification/statistics, along with the underlying dose-response curves and their metrics used to compute these statistics
+
+# Pipeline input and output
+
+## Input
 
 - Processed .txt files obtained by the screening data analysis pipeline
 - Choice of parameters for the analysis (if defaults need to be overwritten)
 
-# Output
+## Output
 
 - Bookmarked pdf document report containing:
   - Title page
