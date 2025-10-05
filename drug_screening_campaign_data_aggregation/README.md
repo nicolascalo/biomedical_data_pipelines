@@ -4,7 +4,7 @@ The file included in this folder has been anonimized, which introduced some arti
 
 # Graphical summary
 
-<img width="2000" height="447" alt="496859446-e56b0fa3-a69c-4b84-a99b-736a2d7b0803" src="https://github.com/user-attachments/assets/b8af36f1-b5a4-48fd-b990-bc9095f2e0f5" />
+<img width="2000" height="616" alt="image" src="https://github.com/user-attachments/assets/70dc05a0-df9e-4505-89ad-4be3f0b7e7b2" />
 
 # Situation
 
