@@ -92,7 +92,7 @@ Creating an analysis pipeline for the automated processing of individual DNA seq
 # :bar_chart: Results
 
 - Fully self-contained interactive html report allowing easy exploration and sharing of raw and processed data by the user.
-- Drastic reduction in result trunover, from 1 day to a minute from the complete processing of 96 samples 
+- Drastic reduction in result trunover, from 1 day to a minute from the complete processing of 96 samples.
 
 # :arrow_right::arrow_right::arrow_right: Pipeline input and output
 
