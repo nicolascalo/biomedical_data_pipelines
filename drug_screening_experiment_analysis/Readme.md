@@ -45,7 +45,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Details of the analysis parameters
 - Possibility of excluding data points from the analysis but still displaying them 
 
-## :gear::bar_chart: Automated data processing and interactive display of the results
+## :gear::chart_with_upwards_trend: Automated data processing and interactive display of the results
 
 - Rolling average of the data (optional)
 - Wavelength splitting and ratio (if applicable)
