@@ -13,7 +13,6 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Ease of use for users with limited skills in computers use but possibility of tuning the parameters of the analysis
 - Reproducibility of the analysis and traceability of the raw data
 - Automated data processing and interactive display of the results
-
   
 # :point_right: Action
 
@@ -23,7 +22,6 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Plotly for interactive graphs
 - ggplot2 for static graphs
 - DT for interactive tables
-
 
 ## :girl::boy: Ease of use for users with limited skills in computers use
 
@@ -63,7 +61,6 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Interactive display of the dose response curve metrics
 - Quality control of the experiment (z-factor)
 - Filterable and downloadable tables of all the produced data (individual and aggregated replicates)
-
 
 # :bar_chart: Results
 
