@@ -18,12 +18,12 @@ A pipeline to aggregate and analyze complete datasets of high-throughput screeni
 
 <img width="2000" height="616" alt="image" src="https://github.com/user-attachments/assets/d090020c-203f-4a7a-8a13-2650234a0514" />
 
-## :pill: Drug Discovery - :space_invader: Sanger DNA sequencing for phage display plasmids
+## :pill: Drug Discovery - :microbe: Sanger DNA sequencing for phage display plasmids
 A pipeline to analyze insert sequences from phage display plasmids sequenced using the Sanger method
 
 <img width="1724" height="680" alt="image" src="https://github.com/user-attachments/assets/7683c98c-284d-4cd4-959b-45dbe44e6dc8" />
 
-## :pill: Drug Discovery - :space_invader: Next Generation Sequencing (NGS) for phage display plasmids (WIP)
+## :pill: Drug Discovery - :microbe: Next Generation Sequencing (NGS) for phage display plasmids (WIP)
 A pipeline to analyze insert sequences from phage display plasmids sequenced using high-throughput Next Generation Sequencing (NGS)
 
 ## Flow cytometry-based cell characterisation and ligand/receptor interactions (WIP)
