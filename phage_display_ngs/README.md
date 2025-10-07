@@ -26,7 +26,7 @@ Creating an analysis pipeline for the automated processing of DNA libraries from
 - BBtools for the bioinformatics tools
   - https://github.com/bbushnell/BBTools
   - https://bbmap.org/
-- R and RStudio for pipeline orchestration
+- R for pipeline orchestration
 - Plotly for interactive representation of the data
 
 ## :male_detective: Reproducibility of the analysis and traceability of the raw data
