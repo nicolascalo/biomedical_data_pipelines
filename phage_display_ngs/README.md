@@ -18,7 +18,8 @@ Creating an analysis pipeline for the automated processing of DNA libraries from
 - Free-to-use software ecosystem and Windows operating system compatibility
 - Reproducibility of the analysis and traceability of the raw data
 - Automated data processing and result analysis
-  - Data from Illumina MiSeq systems with ~ XXX million of 300-400 bp paired reads per sample
+  - Data from Illumina MiSeq systems with ~ 20 million of 300-600 bp paired reads per sample
+  - <img width="1753" height="508" alt="image" src="https://github.com/user-attachments/assets/a452b55e-2c87-4475-8ae7-c7ac4028532f" />
   - Libraries with multiplexed samples/targets/ligands
   - "Generic" pipeline applicable to any DNA library using the pHEN plasmid backbone
 - Sequence quality check 
@@ -42,6 +43,8 @@ Creating an analysis pipeline for the automated processing of DNA libraries from
 ## :gear::chart_with_upwards_trend: Automated data processing and result analysis
 
 ### :twisted_rightwards_arrows: Pre-processing
+<img width="1649" height="750" alt="image" src="https://github.com/user-attachments/assets/ef9d72bb-9a8a-44f3-9018-6fffe738895f" />
+
 - Read pairing
 - Quality checks of insert-decorating adapter/primer/barcode/Unique Molecular Identifier (UMI) sequences
 - Sample sorting based on barcode sequence
@@ -49,6 +52,7 @@ Creating an analysis pipeline for the automated processing of DNA libraries from
 - Trimming of adapter/primer/barcode/UMI sequences
 
 ### :abacus: Insert sequence analysis
+<img width="1698" height="769" alt="image" src="https://github.com/user-attachments/assets/a3288664-d527-430a-b6d0-2e3aa46df19b" />
 
 - DNA frameshift analysis
 - Translation to protein sequence
@@ -73,8 +77,7 @@ Fully self-contained interactive html report allowing easy exploration and shari
 
 - Raw .fastq files from the DNA sequencing provider
 - Excel spreadsheet with library details:
-  - Sample list and corresponding barcodes
-  - ...
+  - Sample list with corresponding barcodes, primer sequences, sample annotation, etc.
 
 ## :outbox_tray: Output
 
@@ -83,5 +86,6 @@ Fully self-contained interactive html report allowing easy exploration and shari
   - Drug discovery campaign - DNA sequence analysis
   - Drug discovery campaign - Protein sequence analysis
 - Intermediary processing files
-- Quality check reports of all the anaylzed sequences
-- Analysis results exported as .tsv files
+- Quality check reports (e.g., FastQC) of all the analyzed sequences
+- Analysis results exported as .txt files
+- Plots of phage abundance and enrichment over the sequencing rounds
