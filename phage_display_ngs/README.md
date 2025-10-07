@@ -1,8 +1,6 @@
+# :paintbrush: Graphical summary
 
-# Graphical summary
-
-
-# Situation
+# :exclamation: Situation
 
 The drug discovery platform I belonged to used phage display technology to engineer and select new drug candidates for a receptor of interest.
 
@@ -10,7 +8,7 @@ Phage display requires the generation of a plasmid library encoding the ligand o
 
 Using high-throughput sequencing on these libraries allows to follow in an unbiased and comprehensive manner the prevalence over rounds of the different clones, and to identify putative drug candidates based on their eventual enrichment among the whole phage population. 
 
-# Task
+# :ballot_box_with_check: Task
 
 Creating an analysis pipeline for the automated processing of DNA libraries from Next Generation Sequencing (NGS) answering the following requirements:
 - Free-to-use software ecosystem and Windows operating system compatibility
@@ -21,9 +19,9 @@ Creating an analysis pipeline for the automated processing of DNA libraries from
   - "Generic" pipeline applicable to any DNA library using the pHEN plasmid backbone
 - Sequence quality check 
 
-# Action
+# :point_right: Action
 
-## Open source and free-to-use software ecosystem
+## :computer: Open source and free-to-use software ecosystem
 
 - BBtools for the bioinformatics tools
   - https://github.com/bbushnell/BBTools
@@ -31,22 +29,22 @@ Creating an analysis pipeline for the automated processing of DNA libraries from
 - R and RStudio for pipeline orchestration
 - Plotly for interactive representation of the data
 
-## Reproducibility of the analysis and traceability of the raw data
+## :male_detective: Reproducibility of the analysis and traceability of the raw data
 
 - Primer/adapter/sequence info necessary for the analysis provided in an accessory excel spreadsheet 
 - Tracking of the data origin in the output tables
 - Intermediary analysis steps saved as text files
 
-## Automated data processing and result analysis
+## :gear::chart_with_upwards_trend: Automated data processing and result analysis
 
-### Pre-processing
+### :twisted_rightwards_arrows: Pre-processing
 - Read pairing
 - Quality checks of insert-decorating adapter/primer/barcode/Unique Molecular Identifier (UMI) sequences
 - Sample sorting based on barcode sequence
 - Sequence deduping based on UMI
 - Trimming of adapter/primer/barcode/UMI sequences
 
-### Insert sequence analysis
+### :abacus: Insert sequence analysis
 
 - DNA frameshift analysis
 - Translation to protein sequence
@@ -61,20 +59,20 @@ Creating an analysis pipeline for the automated processing of DNA libraries from
 - Flagging of sequences consistently enriched in all rounds
 - Sequence matching to know analogs
 
-# Results
+# :bar_chart: Results
 
 Fully self-contained interactive html report allowing easy exploration and sharing of raw and processed data by the user.
 
-# Pipeline input and output
+# :arrow_right::arrow_right::arrow_right: Pipeline input, output and parameters
 
-## Input
+## :inbox_tray: Input
 
 - Raw .fastq files from the DNA sequencing provider
 - Excel spreadsheet with library details:
   - Sample list and corresponding barcodes
   - ...
 
-## Output
+## :outbox_tray: Output
 
 - Interactive html graphing of the data processing and results clustered by:
   - Sequencing run
