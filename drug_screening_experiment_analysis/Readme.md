@@ -23,7 +23,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - ggplot2 for static graphs
 - DT for interactive tables
 
-## :girl::boy: Ease of use for users with limited skills in computers use
+## :girl::boy: Ease of use for people uncomfortable with computers
 
 - Direct processing of unmodified exported raw data files from the screening device
 - Only limited file renaming needed 
