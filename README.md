@@ -23,7 +23,7 @@ A pipeline to analyze insert sequences from phage display plasmids sequenced usi
 
 <img width="1724" height="680" alt="image" src="https://github.com/user-attachments/assets/7683c98c-284d-4cd4-959b-45dbe44e6dc8" />
 
-## :pill: Drug Discovery - :microbe: Next Generation Sequencing (NGS) for phage display plasmids (WIP)
+## :pill: Drug Discovery - :microbe::microbe::microbe::microbe: Next Generation Sequencing (NGS) for phage display plasmids (WIP)
 A pipeline to analyze insert sequences from phage display plasmids sequenced using high-throughput Next Generation Sequencing (NGS)
 
 ## Flow cytometry-based cell characterisation and ligand/receptor interactions (WIP)
