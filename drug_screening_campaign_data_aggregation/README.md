@@ -43,7 +43,8 @@ Creating an analysis pipeline for the aggregation and integration of individual 
 
 # :bar_chart: Results
 
-A single bookmarked .pdf file containing the integrated data and associated classification/statistics, along with the underlying dose-response curves and their metrics used to compute these statistics
+- A bookmarked .pdf file containing the integrated data and associated classification/statistics, along with the underlying dose-response curves and their metrics used to compute these statistics
+- Ability for the drug discovery plat-form to obtain a single master document for each screening campaign that can drive decision making
 
 # :arrow_right: Pipeline input and output
 
