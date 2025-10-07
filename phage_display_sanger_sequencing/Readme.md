@@ -1,10 +1,8 @@
-
-# Graphical summary
+# :paintbrush: Graphical summary
 
 <img width="1724" height="680" alt="image" src="https://github.com/user-attachments/assets/2d87f88c-47e6-4f4b-9c37-20f7cb5d408d" />
 
-
-# Situation
+# :exclamation: Situation
 
 The drug discovery platform I belonged to used phage display technology to engineer and select new drug candidates for a receptor of interest.
 
@@ -12,7 +10,7 @@ Phage display requires the generation of a plasmid library encoding the ligand o
 
 Manual processing of data involved sample-by-sample trimming of the DNA sequence, translation into amino acid sequence, and quality check of the results upstream and downstream of the plasmid insert. This process was time consuming and error-prone when handling dozens or hundreds of sequences. 
 
-# Task
+# :ballot_box_with_check: Task
 
 Creating an analysis pipeline for the automated processing of individual DNA sequences from Sanger sequencing answering the following requirements:
 - Open source and free-to-use software ecosystem
@@ -20,14 +18,14 @@ Creating an analysis pipeline for the automated processing of individual DNA seq
 - Reproducibility of the analysis and traceability of the raw data
 - Automated data processing and interactive display of the results
 
-# Action
+# :point_right: Action
 
-## Open source and free-to-use software ecosystem
+## :computer: Open source and free-to-use software ecosystem
 
 - R and RStudio (for parametrized R-markdown reporting)
 - DT for interactive tables
 
-## Ease of use for users with limited skills in computers use
+## :girl::boy: Ease of use for users with limited skills in computers use
 
 - "One click" analysis of the results
 - Direct processing of unmodified .fasta raw data files from the sequencing provider
@@ -46,19 +44,18 @@ Creating an analysis pipeline for the automated processing of individual DNA seq
 - Addition of the unmodified protein backbone to the result set for easy comparison
 - Automated protein sequence alignment
 
-## Reproducibility of the analysis and traceability of the raw data
+## :male_detective: Reproducibility of the analysis and traceability of the raw data
 
 - Embedding of the raw data with corresponding raw file names and source code inside the report (not available on the exemple files of this repository)
 - Details of all the processing steps
 
-## Automated data processing and interactive display of the results
+## :gear::chart_with_upwards_trend: Automated data processing and interactive display of the results
 
-### Tables for:
+### :notebook: Tables for:
 - Sequences belonging to the backbone of interest (XXXX-based clones)
 - Non-functional sequences (Junk clones)
 
-
-#### Visble by default
+#### :sunny: Visble by default
 - Analog Name (if found in the internal script database) 
 - Vector Type (if found in the internal script database) 
 - Backbone of the sequence :
@@ -80,7 +77,7 @@ Creating an analysis pipeline for the automated processing of individual DNA seq
   - Number of sequence replicates in the whole dataset based on amino acid physico-chemical properties
 - Sequence position where there is amino acid diversity
 
-#### Hidden by default
+#### :new_moon: Hidden by default
 - File Type
 - Sequencing Plate (imputed from the file name)
 - Sequence Dna
@@ -92,19 +89,20 @@ Creating an analysis pipeline for the automated processing of individual DNA seq
 - Peptide grouping based on amino acid physico-chemical properties
 - Aligned protein sequence
 
-# Results
+# :bar_chart: Results
 
-Fully self-contained interactive html report allowing easy exploration and sharing of raw and processed data by the user.
+- Fully self-contained interactive html report allowing easy exploration and sharing of raw and processed data by the user.
+- Drastic reduction in result trunover, from 1 day to a minute from the complete processing of 96 samples 
 
-# Pipeline input and output
+# :arrow_right::arrow_right::arrow_right: Pipeline input and output
 
-## Input
+## :inbox_tray: Input
 
 - Raw .fasta files from the DNA sequencing provider (organized in subfolders if desired)
 - Name of the protein backbone (to modify inside the script before running it)
 - Name of the analysis (to modify inside the script before running it)
 
-## Output
+## :outbox_tray: Output
 
 - Html report
 - Tables exported as .tsv files
