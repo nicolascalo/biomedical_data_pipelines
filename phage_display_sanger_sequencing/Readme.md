@@ -25,7 +25,7 @@ Creating an analysis pipeline for the automated processing of individual DNA seq
 - R and RStudio (for parametrized R-markdown reporting)
 - DT for interactive tables
 
-## :girl::boy: Ease of use for users with limited skills in computers use
+## :girl::boy: Ease of use for people uncomfortable with computers
 
 - "One click" analysis of the results
 - Direct processing of unmodified .fasta raw data files from the sequencing provider
