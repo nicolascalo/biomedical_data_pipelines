@@ -8,8 +8,9 @@ The file included in this folder has been anonimized, which introduced some arti
 
 # :exclamation: Situation
 
-Over a drug discovery campaign, hundreds if not thousands of dose-response curves are generated in order to establish a complete dataset. It is then usefull to generate a structured document gathering both the aggregated and individual experimental data for easy sharing and reviewing by decision makers and coworkers.
+Over a drug discovery campaign, hundreds if not thousands of dose-response curves are generated in order to establish a complete dataset.
 
+It is then usefull to generate a structured document gathering both the aggregated and individual experimental data for easy sharing and reviewing by decision makers and coworkers.
 
 # :ballot_box_with_check: Task
 
@@ -17,10 +18,8 @@ Creating an analysis pipeline for the aggregation and integration of individual 
 - Open source and free-to-use software ecosystem
 - Reproducibility of the analysis and traceability of the raw data
 - Automated data processing and compilation of the results in a single master pdf file
-
   
 # :point_right: Action
-
 
 ## :computer: Open source and free-to-use software ecosystem
 
