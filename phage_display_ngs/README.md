@@ -8,10 +8,9 @@ Phage display requires the generation of a plasmid library encoding the ligand o
 
 <img width="1920" height="1222" alt="image" src="https://github.com/user-attachments/assets/437a8508-e2cf-4ad4-8b0b-d942a127b811" />
 By Thomas Shafee - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=79128254
-
-
-
-Using high-throughput sequencing on these libraries allows to follow in an unbiased and comprehensive manner the prevalence over rounds of the different clones, and to identify putative drug candidates based on their eventual enrichment among the whole phage population. 
+<br />
+<br />
+Using high-throughput sequencing on these libraries allows to titrate in an unbiased and comprehensive manner the different clones over rounds, and to identify putative drug candidates based on their eventual enrichment among the whole phage population. 
 
 # :ballot_box_with_check: Task
 
