@@ -67,7 +67,8 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 
 # :bar_chart: Results
 
-Fully self-contained interactive html report allowing easy exploration and sharing of raw and processed data by the user.
+- Fully self-contained interactive html report allowing easy exploration and sharing of raw and processed data by the user.
+- Drastic reduction in result trunover, from 1 week to minutes from the complete processing of a single experiment 
 
 # :arrow_right: Pipeline input, output and parameters
 
