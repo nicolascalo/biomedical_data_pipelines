@@ -1,17 +1,17 @@
-# Disclaimer
+# :bangbang: Disclaimer
 
 The file included in this folder has been anonimized, which introduced some artifacts in the final document
 
-# Graphical summary
+# :paintbrush: Graphical summary
 
 <img width="2000" height="616" alt="image" src="https://github.com/user-attachments/assets/70dc05a0-df9e-4505-89ad-4be3f0b7e7b2" />
 
-# Situation
+# :exclamation: Situation
 
 Over a drug discovery campaign, hundreds if not thousands of dose-response curves are generated in order to establish a complete dataset. It is then usefull to generate a structured document gathering both the aggregated and individual experimental data for easy sharing and reviewing by decision makers and coworkers.
 
 
-# Task
+# :ballot_box_with_check: Task
 
 Creating an analysis pipeline for the aggregation and integration of individual drug screening experiments answering the following requirements:
 - Open source and free-to-use software ecosystem
@@ -19,20 +19,20 @@ Creating an analysis pipeline for the aggregation and integration of individual 
 - Automated data processing and compilation of the results in a single master pdf file
 
   
-# Action
+# :point_right: Action
 
 
-## Open source and free-to-use software ecosystem
+## :computer: Open source and free-to-use software ecosystem
 
 - R and RStudio (for parametrized R-markdown reporting)
 - LaTex-based pdf generation
 - ggplot2 for static graphs
 
-## Reproducibility and traceability of results 
+## :male_detective: Reproducibility and traceability of results 
 
 - Complete compilation of all individual dose response curves and associated metrics, along with traceability information for the contained individual experiments
 
-## Data processing and display
+## :gear::chart_with_upwards_trend: Data processing and display
 
 - Normalization of individual experimental using included positive and negative controls
 - Automated determination of the concentration range to integrate
@@ -41,18 +41,18 @@ Creating an analysis pipeline for the aggregation and integration of individual 
 - Various representations of the aggregated data (tables, graphs)
 - Exhaustive graphing of all the individual dose-response curves in regard to their respective controls
 
-# Results
+# :bar_chart: Results
 
 A single bookmarked .pdf file containing the integrated data and associated classification/statistics, along with the underlying dose-response curves and their metrics used to compute these statistics
 
-# Pipeline input and output
+# :arrow_right: Pipeline input and output
 
-## Input
+## :inbox_tray: Input
 
 - Processed .txt files obtained by the screening data analysis pipeline
 - Choice of parameters for the analysis (if defaults need to be overwritten)
 
-## Output
+## :outbox_tray: Output
 
 - Bookmarked pdf document report containing:
   - Title page
