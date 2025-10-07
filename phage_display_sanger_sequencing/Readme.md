@@ -8,7 +8,12 @@ The drug discovery platform I belonged to used phage display technology to engin
 
 Phage display requires the generation of a plasmid library encoding the ligand of interest whose protein sequence has been randomized on selected regions of interest. It is then necessary to check the library quality using Sanger sequencing on individualy recovered phage clones.
 
-Manual processing of data involved sample-by-sample trimming of the DNA sequence, translation into amino acid sequence, and quality check of the results upstream and downstream of the plasmid insert. This process was time consuming and error-prone when handling dozens or hundreds of sequences. 
+<img width="1290" height="564" alt="image" src="https://github.com/user-attachments/assets/df504107-5124-456a-b7b3-dd85c8b1b646" />
+
+By Thomas Shafee - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=79128254
+<br />
+<br />
+Manual processing of sequences obtained by the Sanger method involved sample-by-sample trimming of the DNA sequence, translation into amino acid sequence, and quality check of the results upstream and downstream of the plasmid insert. This process was time consuming and error-prone when handling dozens or hundreds of sequences. 
 
 # :ballot_box_with_check: Task
 
