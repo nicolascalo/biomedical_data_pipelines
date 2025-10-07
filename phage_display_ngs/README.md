@@ -52,7 +52,7 @@ Creating an analysis pipeline for the automated processing of DNA libraries from
 - Stop codon identification
 - Extraction of the target diversity protein sequence
 - Tally of the different sequence
-- Imputation of missing values if detected in the output of the previous round but not in the input of the next one
+- Imputation of missing values (if clone detected in previous output but not in current input)
 - Normalization of data versus the library size
 - Calculation of sequence enrichment within each round (output/input)
 - Calculation of overall sequence enrichment round over round
