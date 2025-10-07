@@ -4,7 +4,9 @@
 
 # :exclamation: Situation
 
-The drug discovery platform I belonged to had recently transitioned from low- to high-throughput pharmacological screening for its drug candidates. Manual processing of the screening data had become unsustainable (one week of work for a single experiment), warranting the development of an automated data processing and analysis pipeline. 
+The drug discovery platform I belonged to had recently transitioned from low- to high-throughput pharmacological screening for its drug candidates
+
+Manual processing of the screening data had become unsustainable (one week of work for a single experiment), warranting the development of an automated data processing and analysis pipeline. 
 
 # :ballot_box_with_check: Task
 
