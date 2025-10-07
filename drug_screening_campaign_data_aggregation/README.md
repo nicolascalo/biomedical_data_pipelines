@@ -1,6 +1,6 @@
 # :bangbang: Disclaimer
 
-The file included in this folder has been anonimized, which introduced some artifacts in the final document
+The file included in this folder has been anonimized, which introduced some artifacts in the provided exmeple document.
 
 # :paintbrush: Graphical summary
 
