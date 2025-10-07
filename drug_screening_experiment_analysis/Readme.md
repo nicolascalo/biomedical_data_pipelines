@@ -1,12 +1,12 @@
-# Graphical summary
+# :paintbrush: Graphical summary
 
 <img width="2000" height="551" alt="image" src="https://github.com/user-attachments/assets/235e9646-6d7d-4b79-af7e-8bdf2ae74fcc" />
 
-# Situation
+# :exclamation: Situation
 
 The drug discovery platform I belonged to had recently transitioned from low- to high-throughput pharmacological screening for its drug candidates. Manual processing of the screening data had become unsustainable (one week of work for a single experiment), warranting the development of an automated data processing and analysis pipeline. 
 
-# Task
+# :ballot_box_with_check: Task
 
 Creating an analysis pipeline for the processing of individual drug screening experiments answering the following requirements:
 - Open source and free-to-use software ecosystem
@@ -15,9 +15,9 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Automated data processing and interactive display of the results
 
   
-# Action
+# :point_right: Action
 
-## Open source and free-to-use software ecosystem
+## :computer: Open source and free-to-use software ecosystem
 
 - R and RStudio (for parametrized R-markdown reporting)
 - Plotly for interactive graphs
@@ -25,7 +25,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - DT for interactive tables
 
 
-## Ease of use for users with limited skills in computers use
+## :girl::boy: Ease of use for users with limited skills in computers use
 
 - Direct processing of unmodified exported raw data files from the screening device
 - Only limited file renaming needed 
@@ -37,7 +37,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Automated detection of single/multi wavelength (BRET) experiments
 - Possibility to copy and export filtered tables directly from the report as .xls, .csv or .pdf files
 
-## Reproducibility of the analysis and traceability of the raw data
+## :male_detective: Reproducibility of the analysis and traceability of the raw data
 
 - Embedding of the raw data files and source code inside the report
 - Graphical and numeric details of all the processing steps
@@ -45,7 +45,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Details of the analysis parameters
 - Possibility of excluding data points from the analysis but still displaying them 
 
-## Automated data processing and interactive display of the results
+## :gear::bar_chart: Automated data processing and interactive display of the results
 
 - Rolling average of the data (optional)
 - Wavelength splitting and ratio (if applicable)
@@ -65,20 +65,20 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Filterable and downloadable tables of all the produced data (individual and aggregated replicates)
 
 
-# Results
+# :bar_chart: Results
 
 Fully self-contained interactive html report allowing easy exploration and sharing of raw and processed data by the user.
 
-# Pipeline input, output and parameters
+# :arrow_right: Pipeline input, output and parameters
 
-## Input
+## :inbox_tray: Input
 
 - Raw .txt files renamed with plate name, replicate and reading
 - Excel spreadsheet containing the plate description
 - Choice of parameters for the analysis (if defaults need to be overwritten)
 - <img width="614" height="645" alt="image" src="https://github.com/user-attachments/assets/6a77c625-ccec-4650-b020-4898484e0714" />
 
-## Output
+## :outbox_tray: Output
 
 - Html report containing for each wavelength and wavelength ratio:
   - Source code of the script (disabled in this repository)
@@ -108,7 +108,7 @@ Fully self-contained interactive html report allowing easy exploration and shari
 - Prepopulated .pzfx Graphpad Prism files with the dose response curve data
 - .csv and binary files for the processed data
 
-## Parametrization of the report
+## :keyboard: Parametrization of the report
 
 - Parameters of the curve fitting algorithm
 - Data normalization procedure (ratio or delta)
