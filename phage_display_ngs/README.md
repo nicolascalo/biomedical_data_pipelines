@@ -1,5 +1,7 @@
 # :paintbrush: Graphical summary
 
+<img width="1664" height="681" alt="image" src="https://github.com/user-attachments/assets/697fb9af-5e38-46d5-85a3-582e0beca7a9" />
+
 # :exclamation: Situation
 
 The drug discovery platform I belonged to used phage display technology to engineer and select new drug candidates for a receptor of interest.
