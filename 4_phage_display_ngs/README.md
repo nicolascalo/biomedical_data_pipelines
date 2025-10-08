@@ -1,3 +1,7 @@
+# :bangbang: Disclaimer
+
+Due to the confidential nature of this work, I am not able to provide raw data, detailed sample annotations or files from intermediary processing steps, as the data they contain (such as DNA or protein sequences) could be used to identify the target/ligand being studied. Nonetheless, graphical summaries of NGS data processing and an exemple of clone enrichment analysis is provided.   
+
 # :paintbrush: Graphical summary
 
 <img width="1664" height="681" alt="image" src="https://github.com/user-attachments/assets/697fb9af-5e38-46d5-85a3-582e0beca7a9" />
