@@ -4,6 +4,9 @@ Due to the proprietary nature of the code of this immunogenicity prediction pipe
 
 # :paintbrush: Graphical summary
 
+<img width="1859" height="675" alt="image" src="https://github.com/user-attachments/assets/44d77aef-105d-4d4f-9f0a-788830743834" />
+
+
 # :exclamation: Situation
 
 All biologics destined to be used as drugs for human patients have an inherent risk of triggering an immune response in their users. The immune system monitors the presence of foreign/non-self antigens in the body through antigen-presenting cells that phagocyte and digest protein/peptides from their environment, load them on MHC class II, and show them to T lymphocytes. Lymphocyte activation will occur upon good complementarity between their T-cell receptors and the presented peptide.
