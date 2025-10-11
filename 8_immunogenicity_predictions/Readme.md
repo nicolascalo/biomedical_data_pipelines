@@ -60,7 +60,7 @@ Creating an analysis pipeline for the immunogenicity prediction of protein seque
 
 - NetMHCIIpan analysis of the sequences
 - Processing of the result files to merge tables of each HLA variant 
-- Calculation of a composite total score and hotspot score for the full protein depending on the predicted strength of interaction across the full sequence with the different HLA variants
+- Calculation of a composite total score and hotspot score for the full protein depending on the predicted strength of interaction across its complete sequence with the different HLA variants
 
 # :bar_chart: Results
 
