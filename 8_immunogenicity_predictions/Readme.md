@@ -45,12 +45,13 @@ Creating an analysis pipeline for the immunogenicity prediction of protein seque
 
 ### :microscope: Data mining from public repositories
 
-- chEMBL
+- chEMBL API
   - https://www.ebi.ac.uk/chembl/api/data/molecule?
   - Querry for approved biotherapeutics
   - Removal of withdrawn drugs
-- IMGT/mAb-DB
-  - Retrieval of antibody species
+- UniProtKB
+  - E.g., https://www.uniprot.org/uniprotkb?query=Murine+Hormones&facets=model_organism%3A10090
+  - Retrieval of murine secreted proteins manually
 
 ### :twisted_rightwards_arrows: Pre-processing
 
