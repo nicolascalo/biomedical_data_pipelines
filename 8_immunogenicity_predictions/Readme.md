@@ -6,7 +6,6 @@ Due to the proprietary nature of the code of this immunogenicity prediction pipe
 
 <img width="1859" height="675" alt="image" src="https://github.com/user-attachments/assets/44d77aef-105d-4d4f-9f0a-788830743834" />
 
-
 # :exclamation: Situation
 
 All biologics destined to be used as drugs for human patients have an inherent risk of triggering an immune response in their users. The immune system monitors the presence of foreign/non-self antigens in the body through antigen-presenting cells that phagocyte and digest protein/peptides from their environment, load them on MHC class II, and show them to T lymphocytes. Lymphocyte activation will occur upon good complementarity between their T-cell receptors and the presented peptide.
@@ -38,8 +37,8 @@ Creating an analysis pipeline for the immunogenicity prediction of protein seque
 ## :male_detective: Reproducibility of the analysis and traceability of the raw data
 
 - Analysis parameter included in the processed result files
-- List of origin included in the name of the individual files
-- Intermediary analysis steps saved as text files
+- Data analysis lineage included in the name of the output files
+- Intermediary analyses saved as text files at each prcessing step
 
 ## :gear::chart_with_upwards_trend: Automated data processing and result analysis
 
@@ -50,8 +49,10 @@ Creating an analysis pipeline for the immunogenicity prediction of protein seque
   - Querry for approved biotherapeutics
   - Removal of withdrawn drugs
 - UniProtKB
-  - https://www.uniprot.org/uniprotkb?query=Murine+Hormones&facets=model_organism%3A10090 for instance
-  - Retrieval of murine secreted proteins manually
+  - Retrieval of reviewed murine secreted proteins manually
+    - Murine growth factors: https://www.uniprot.org/uniprotkb?query=growth+factor&facets=model_organism%3A10090%2Creviewed%3Atrue
+    - Murine cytokines: https://www.uniprot.org/uniprotkb?query=cytokine&facets=model_organism%3A10090%2Creviewed%3Atrue
+    - Murine hormones: https://www.uniprot.org/uniprotkb?query=hormone&facets=model_organism%3A10090%2Creviewed%3Atrue
 
 ### :twisted_rightwards_arrows: Pre-processing
 
@@ -60,7 +61,7 @@ Creating an analysis pipeline for the immunogenicity prediction of protein seque
 ### :abacus: Protein sequence immunogenicity prediction
 
 - NetMHCIIpan analysis of the sequences
-- Processing of the result files to merge tables of each HLA variant 
+- Processing of the output files to merge the data for of each HLA variant into a single table 
 - Calculation of a composite total score and hotspot score for the full protein depending on the predicted strength of interaction across its complete sequence with the different HLA variants
 
 # :bar_chart: Results
