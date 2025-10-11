@@ -50,7 +50,7 @@ Creating an analysis pipeline for the immunogenicity prediction of protein seque
   - Querry for approved biotherapeutics
   - Removal of withdrawn drugs
 - UniProtKB
-  - E.g., https://www.uniprot.org/uniprotkb?query=Murine+Hormones&facets=model_organism%3A10090
+  - https://www.uniprot.org/uniprotkb?query=Murine+Hormones&facets=model_organism%3A10090 for instance
   - Retrieval of murine secreted proteins manually
 
 ### :twisted_rightwards_arrows: Pre-processing
