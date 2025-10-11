@@ -1,0 +1,4 @@
+filename	netmhciipan_version	peptide_length	brackets	identity	score_total	hotspot_max	sequence	prediction_type
+OrionAnalogs_CCR9_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hCCL25-1P06	0	0	YQASEDCCLAYHYPIGWAVLRRAWTYRIQEVSGSCNLPAAIFYLPKRHRKVCGNPKSREVQRAMKLLDARNKV	ba
+OrionAnalogs_CCR9_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hCCL25-E5AE	4	4	QGVFAEDCCLAYHYPIGWAVLRRAWTYRIQEVSGSCNLPAAIFYLPKRHRKVCGNPKSREVQRAMKLLDARNKV	ba
+OrionAnalogs_CCR9_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hCCL25-E5AE-G1S	4	4	QSVFAEDCCLAYHYPIGWAVLRRAWTYRIQEVSGSCNLPAAIFYLPKRHRKVCGNPKSREVQRAMKLLDARNKV	ba

@@ -1,0 +1,2 @@
+filename	netmhciipan_version	peptide_length	brackets	identity	score_total	hotspot_max	sequence	prediction_type
+chembl_phase_34_biotherapeutics_UTOMILUMAB_21103.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	21103	50	16	SYELTQPPSVSVSPGQTASITCSGDNIGDQYAHWYQQKPGQSPVLVIYQDKNRPSGIPERFSGSNSGNTATLTISGTQAMDEADYYCATYTGFGSLAVFGGGTKLTVLGQPKAAPSVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADSSPVKAGVETTTPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS	ba

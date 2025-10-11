@@ -1,0 +1,857 @@
+pref_name	biotherapeutic_biocomponents_component_type	usan_stem	usan_stem_definition	usan_substem	biotherapeutic_biocomponents_organism	biotherapeutic_description	biotherapeutic_biocomponents_component_id_list	biotherapeutic_category	IMGT_mAb_DB_species
+INDIUM IN 111 SATUMOMAB PENDETIDE	protein	-mab; -tide	monoclonal antibodies; peptides	-mab; -tide	Mus musculus	Satumomab pendetide (mouse mab)	24743	Mus musculus	NA
+INDIUM IN 111 SATUMOMAB PENDETIDE	protein	-mab; -tide	monoclonal antibodies; peptides	-mab; -tide	Mus musculus	Satumomab pendetide (mouse mab)	24742	Mus musculus	NA
+TASONERMIN	protein	-ermin	growth factors: tumor necrosis factors	-ermin (-nermin)	NA	NA	26555	Uncategorized	NA
+AGALSIDASE ALFA	protein	-ase	enzymes	-ase	NA	NA	25740	Uncategorized	NA
+EPTOTERMIN ALFA	protein	-ermin; -ermin	growth factors: bone morphogenetic proteins; growth factors: transforming growth factors	-ermin (-otermin); -ermin (-termin)	NA	NA	26052	Uncategorized	NA
+EPOETIN DELTA	protein	-poetin	erythropoietins	-poetin	NA	NA	26047	Uncategorized	NA
+DIBOTERMIN ALFA	protein	-ermin; -ermin	growth factors: bone morphogenetic proteins; growth factors: transforming growth factors	-ermin (-otermin); -ermin (-termin)	NA	NA	25969	Uncategorized	NA
+ZICONOTIDE	protein	-tide	peptides	-tide	NA	NA	25490	Peptide	NA
+ANTITHROMBIN ALFA	protein	NA	NA	NA	NA	Antithrombin-III precursor (ATIII) (PRO0309)	25755	Uncategorized	NA
+CORIFOLLITROPIN ALFA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	NA	26610	Homo sapiens	Homo sapiens
+CORIFOLLITROPIN ALFA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	NA	25899	Homo sapiens	Homo sapiens
+CONESTAT ALFA	protein	-stat	enzyme inhibitors	-stat	NA	NA	24737	Uncategorized	NA
+CATRIDECACOG	protein	NA	NA	NA	NA	NA	25891	Uncategorized	NA
+TUROCTOCOG ALFA	protein	NA	NA	NA	NA	NA	25485	Uncategorized	NA
+LIPEGFILGRASTIM	protein	-peg-; -stim	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; colony-stimulating factors: granulocyte colony-stimulating factors (G-CSF)	-peg-; -stim (-grastim)	NA	NA	26277	Uncategorized	NA
+SIMOCTOCOG ALFA	protein	NA	NA	NA	NA	NA	26548	Uncategorized	NA
+FOLLITROPIN DELTA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	NA	26610	Uncategorized	NA
+FOLLITROPIN DELTA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	NA	26129	Uncategorized	NA
+NONACOG BETA PEGOL	protein	peg-	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	peg-	NA	NA	26363	Uncategorized	NA
+LANADELUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	26273	Homo sapiens	Homo sapiens
+LANADELUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	26274	Homo sapiens	Homo sapiens
+GALCANEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26137	Humanized	Humanized
+GALCANEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26136	Humanized	Humanized
+ELAPEGADEMASE	protein	-ase; -peg-	enzymes; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-ase; -peg-	NA	NA	24990	Uncategorized	NA
+CEMIPLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25893	Homo sapiens	Homo sapiens
+CEMIPLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25894	Homo sapiens	Homo sapiens
+FREMANEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26130	Humanized	Humanized
+FREMANEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26131	Humanized	Humanized
+MOGAMULIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Mogamulizumab (humanized mab)	26283	Humanized	Humanized
+MOGAMULIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Mogamulizumab (humanized mab)	26282	Humanized	Humanized
+BUROSUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25886	Homo sapiens	Homo sapiens
+BUROSUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25887	Homo sapiens	Homo sapiens
+ERENUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	26053	Homo sapiens	Homo sapiens
+ERENUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	26054	Homo sapiens	Homo sapiens
+EMAPALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25001	Homo sapiens	Homo sapiens
+EMAPALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25002	Homo sapiens	Homo sapiens
+IMLIFIDASE	protein	-ase	enzymes	-ase	NA	NA	26201	Uncategorized	NA
+PEGZILARGINASE	protein	-ase; peg-	enzymes; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-ase; peg-	NA	NA	26758	Uncategorized	NA
+ETRANACOGENE DEZAPARVOVEC	protein	NA	NA	NA	NA	NA	27396	Uncategorized	NA
+SELVACOVATEIN	protein	NA	NA	NA	NA	NA	27745	Uncategorized	NA
+INSULIN ICODEC	protein	NA	NA	NA	NA	NA	27625	Insulins	NA
+INSULIN ICODEC	protein	NA	NA	NA	NA	NA	27624	Insulins	NA
+BEVACIZUMAB GAMMA	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	27771	Humanized	Humanized
+BEVACIZUMAB GAMMA	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	27177	Humanized	Humanized
+AXATILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25687	Humanized	Humanized
+AXATILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25686	Humanized	Humanized
+MOXETUMOMAB PASUDOTOX	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Moxetumomab pasudotox (mouse mab)	26288	Mus musculus	Mus musculus
+MOXETUMOMAB PASUDOTOX	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Moxetumomab pasudotox (mouse mab)	26289	Mus musculus	Mus musculus
+RAVULIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26442	Humanized	Humanized
+RAVULIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26439	Humanized	Humanized
+TAGRAXOFUSP	protein	-fusp	fusion proteins	-fusp	NA	NA	26553	Homo sapiens	Homo sapiens
+ANDEXANET ALFA	protein	NA	NA	NA	NA	Andexanet alfa	25751	Uncategorized	NA
+SERACTIDE ACETATE	protein	-tide	peptides: synthetic corticotropins	-tide (-actide)	NA	Corticotropin-lipotropin precursor (Pro-opiomelanocortin) (POMC)	25663	Peptide	NA
+APROTININ	protein	NA	NA	NA	NA	Pancreatic trypsin inhibitor precursor (Basic protease inhibitor) (BPI)	25604	Uncategorized	NA
+PEGINESATIDE ACETATE	protein	peg-; -tide	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; peptides: erythropoiesis stimulating agents and/or erythropoietin mimetic peptides	peg-; -tide (-esatide)	NA	NA	24775	Uncategorized	NA
+GONADORELIN	protein	-relin	prehormones or hormone-release stimulating peptides	-relin	NA	Progonadoliberin I precursor	25671	Uncategorized	NA
+THYROTROPIN	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Thyrotropin beta chain precursor (Thyroid-stimulating hormone beta subunit) (TSH-beta)	25668	Uncategorized	NA
+THYROTROPIN	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Thyrotropin beta chain precursor (Thyroid-stimulating hormone beta subunit) (TSH-beta)	25667	Uncategorized	NA
+CORTICOTROPIN ZINC HYDROXIDE	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Corticotropin-lipotropin precursor (Pro-opiomelanocortin) (POMC)	25606	Uncategorized	NA
+INSULIN PORK	protein	NA	NA	NA	NA	Porcine insulin	25675	Insulins	NA
+INSULIN PORK	protein	NA	NA	NA	NA	Porcine insulin	26210	Insulins	NA
+ALBUMIN, CHROMATED CR 51 SERUM	protein	NA	NA	NA	NA	Serum albumin precursor	25596	Uncategorized	NA
+FIBRINOGEN I 125	protein	NA	NA	NA	NA	Fibrinogen alpha/alpha-E chain precursor	25599	Uncategorized	NA
+FIBRINOGEN I 125	protein	NA	NA	NA	NA	Fibrinogen alpha/alpha-E chain precursor	25600	Uncategorized	NA
+FIBRINOGEN I 125	protein	NA	NA	NA	NA	Fibrinogen alpha/alpha-E chain precursor	25598	Uncategorized	NA
+INSULIN PURIFIED PORK	protein	NA	NA	NA	NA	Purified porcine insulin	25675	Porcine	NA
+INSULIN PURIFIED PORK	protein	NA	NA	NA	NA	Purified porcine insulin	26210	Porcine	NA
+INSULIN PURIFIED BEEF	protein	NA	NA	NA	NA	Purified bovine insulin	25675	Bovine	NA
+INSULIN PURIFIED BEEF	protein	NA	NA	NA	NA	Purified bovine insulin	25674	Bovine	NA
+GONADORELIN HYDROCHLORIDE	protein	-relin	prehormones or hormone-release stimulating peptides	-relin	NA	Progonadoliberin I precursor	25539	Uncategorized	NA
+UROKINASE	protein	-ase	enzymes	-ase	NA	Urokinase-type plasminogen activator precursor (uPA) (U-plasminogen activator)	25670	Uncategorized	NA
+UROKINASE	protein	-ase	enzymes	-ase	NA	Urokinase-type plasminogen activator precursor (uPA) (U-plasminogen activator)	25669	Uncategorized	NA
+SOMATREM	protein	som-	growth hormone derivatives	som-	NA	Somatotropin precursor (Growth hormone) (GH)	25665	Uncategorized	NA
+TERIPARATIDE ACETATE	protein	-tide	peptides: parathyroid hormone related peptide	-tide (-paratide)	NA	Parathyroid hormone precursor (Parathyrin) (PTH)	25666	Peptide	NA
+SERMORELIN ACETATE	protein	-relin	prehormones or hormone-release stimulating peptides: growth hormone-release stimulating peptides	-relin (-morelin)	NA	Somatoliberin [Precursor]	25664	Uncategorized	NA
+PEGADEMASE BOVINE	protein	-ase; peg-	enzymes; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-ase; peg-	NA	Adenosine deaminase (Adenosine aminohydrolase)	25662	Uncategorized	NA
+ALGLUCERASE	protein	-ase	enzymes	-ase	NA	Glucosylceramidase precursor (Beta-glucocerebrosidase) (Acid beta-glucosidase)	25603	Uncategorized	NA
+FOLLITROPIN ALFA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Follitropin beta chain precursor (Follicle-stimulating hormone beta subunit) (FSH-beta)	26610	Uncategorized	NA
+FOLLITROPIN ALFA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Follitropin beta chain precursor (Follicle-stimulating hormone beta subunit) (FSH-beta)	26129	Uncategorized	NA
+LEPIRUDIN	protein	-irudin	anticoagulants (hirudin type)	-irudin	NA	Hirudin variant-1 (Lepirudin)	26276	Uncategorized	NA
+TECHNETIUM (99MTC) APCITIDE	protein	-tide	peptides	-tide	NA	NA	24597	Peptide	NA
+NESIRITIDE	protein	-tide	peptides: atrial natriuretic type substances	-tide (-ritide)	NA	Natriuretic peptides B [Precursor]	24739	Peptide	NA
+SECRETIN SYNTHETIC PORCINE	protein	-retin	retinol derivatives	-retin	NA	Secretin [Precursor] [Fragment]	25677	Uncategorized	NA
+MECASERMIN RINFABATE	protein	-ermin	growth factors: insulin-like growth factors	-ermin (-sermin)	NA	Insulin-like growth factor IA [Precursor]; Insulin-like growth factor-binding protein 3 [Precursor]	24769	Uncategorized	NA
+TECHNETIUM TC 99M ARCITUMOMAB	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Arcitumomab 99Tc (mouse Fab')	24614	Mus musculus	NA
+TECHNETIUM TC 99M ARCITUMOMAB	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Arcitumomab 99Tc (mouse Fab')	24613	Mus musculus	NA
+INTERFERON ALFACON-1	protein	NA	NA	NA	NA	Interferon alpha-2 precursor (Interferon alpha-A) (LeIF A)	26211	Uncategorized	NA
+ABARELIX	protein	-relix	hormone-release inhibiting peptides	-relix	NA	ABARELIX	24470	Uncategorized	NA
+TESAMORELIN	protein	-relin	prehormones or hormone-release stimulating peptides: growth hormone-release stimulating peptides	-relin (-morelin)	NA	(3E)-hex-3-enoylsomatoliberin (human GHRH)	24564	Uncategorized	NA
+ANGIOTENSIN II	protein	NA	NA	NA	NA	ANGIOTENSIN II	25178	Uncategorized	NA
+BREMELANOTIDE	protein	-tide	peptides: melanocortin receptor agonists	-tide (-melanotide)	NA	BREMELANOTIDE	24462	Peptide	NA
+CORTICOTROPIN	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Corticotropin-lipotropin precursor (Pro-opiomelanocortin) (POMC)	25606	Uncategorized	NA
+GLUCAGON HYDROCHLORIDE	protein	NA	NA	NA	NA	NA	25673	Uncategorized	NA
+GONADOTROPIN, CHORIONIC	protein	-trop-	atropine derivatives	-trop-	NA	Choriogonadotropin beta chain [Precursor]; Glycoprotein hormones alpha chain [Precursor];	26610	Uncategorized	NA
+GONADOTROPIN, CHORIONIC	protein	-trop-	atropine derivatives	-trop-	NA	Choriogonadotropin beta chain [Precursor]; Glycoprotein hormones alpha chain [Precursor];	26609	Uncategorized	NA
+ALBUMIN, IODINATED I 125 SERUM	protein	io-	iodine-containing contrast media	io-	NA	Serum albumin precursor	25596	Uncategorized	NA
+SOMATROPIN	protein	-pin; som-; -trop-	tricyclic compounds; growth hormone derivatives; atropine derivatives	-pin; som-; -trop-	NA	Somatotropin precursor (Growth hormone) (GH)	26549	Homo sapiens	Homo sapiens
+CALCITONIN SALMON	protein	calci-; sal-	vitamin D analogs; anti-inflammatory agents (salicylic acid derivatives)	calci-; sal-	NA	NA	25672	Uncategorized	NA
+ALBUMIN, IODINATED I 131 SERUM	protein	io-	iodine-containing contrast media	io-	NA	Serum albumin precursor	25596	Uncategorized	NA
+TECHNETIUM TC 99M ALBUMIN AGGREGATED	protein	NA	NA	NA	NA	Serum albumin precursor	25596	Uncategorized	NA
+FOLLITROPIN	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	NA	26610	Uncategorized	NA
+FOLLITROPIN	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	NA	26129	Uncategorized	NA
+FILGRASTIM	protein	-stim	colony-stimulating factors: granulocyte colony-stimulating factors (G-CSF)	-stim (-grastim)	NA	Granulocyte colony-stimulating factor precursor (G-CSF) (Pluripoietin)	26376	Homo sapiens	Homo sapiens
+SARGRAMOSTIM	protein	-stim; -stim	colony-stimulating factors: granulocyte macrophage colony-stimulating factors (GM-CSF); colony-stimulating factors: macrophage colony-stimulating factors (M-CSF)	-stim (-gramostim); -stim (-mostim)	NA	Granulocyte-macrophage colony-stimulating factor [Precursor]	26621	Uncategorized	NA
+DORNASE ALFA	protein	-ase	enzymes	-ase	NA	Deoxyribonuclease I precursor (DNase I) (Dornase alfa)	25593	Uncategorized	NA
+INTERFERON BETA-1B	protein	NA	NA	NA	NA	Interferon beta precursor (IFN-beta) (Fibroblast interferon)	26213	Uncategorized	NA
+ABCIXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Abciximab (chimeric Fab)	24655	Chimeric	Chimeric
+ABCIXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Abciximab (chimeric Fab)	24654	Chimeric	Chimeric
+INSULIN LISPRO	protein	NA	NA	NA	NA	Insulin lispro recombinant	26209	Insulins	NA
+INSULIN LISPRO	protein	NA	NA	NA	NA	Insulin lispro recombinant	26210	Insulins	NA
+INTERFERON BETA-1A	protein	NA	NA	NA	NA	Interferon beta precursor (IFN-beta) (Fibroblast interferon)	26212	Uncategorized	NA
+CORTICORELIN OVINE TRIFLUTATE	protein	-relin; -vin-	prehormones or hormone-release stimulating peptides; vinca alkaloids	-relin; -vin-	NA	Corticoliberin precursor (Corticotropin-releasing factor) (CRF)	25605	Uncategorized	NA
+FOLLITROPIN BETA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	NA	26610	Uncategorized	NA
+FOLLITROPIN BETA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	NA	26129	Uncategorized	NA
+BECAPLERMIN	protein	-ermin	growth factors: platelet derived growth factors	-ermin (-plermin)	NA	Platelet-derived growth factor, B chain precursor (PDGF B-chain) (Platelet-derived growth factor beta polypeptide)	25812	Uncategorized	NA
+DACLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Daclizumab (humanized mab)	25964	Humanized	Humanized
+DACLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Daclizumab (humanized mab)	25965	Humanized	Humanized
+EPTIFIBATIDE	protein	-tide	peptides: platelet aggregation inhibitor (GPIIb/IIIa receptor antagonist)	-tide (-fibatide)	NA	NA	26048	Peptide	NA
+THYROTROPIN ALFA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Thyrotropin beta chain precursor (Thyroid-stimulating hormone beta subunit) (TSH-beta)	26610	Uncategorized	NA
+THYROTROPIN ALFA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Thyrotropin beta chain precursor (Thyroid-stimulating hormone beta subunit) (TSH-beta)	26562	Uncategorized	NA
+INSULIN ASPART	protein	NA	NA	NA	NA	Insulin aspart	26202	Insulins	NA
+INSULIN ASPART	protein	NA	NA	NA	NA	Insulin aspart	26210	Insulins	NA
+INTERFERON GAMMA-1B	protein	NA	NA	NA	NA	Interferon gamma precursor (IFN-gamma) (Immune interferon)	25602	Uncategorized	NA
+INSULIN LISPRO PROTAMINE RECOMBINANT	protein	NA	NA	NA	NA	Insulin lispro protamine recombinant	26209	Insulins	NA
+INSULIN LISPRO PROTAMINE RECOMBINANT	protein	NA	NA	NA	NA	Insulin lispro protamine recombinant	26210	Insulins	NA
+CHORIOGONADOTROPIN ALFA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Choriogonadotropin beta chain [Precursor]; Glycoprotein hormones alpha chain [Precursor];	26610	Uncategorized	NA
+CHORIOGONADOTROPIN ALFA	protein	-pin; -trop-	tricyclic compounds; atropine derivatives	-pin; -trop-	NA	Choriogonadotropin beta chain [Precursor]; Glycoprotein hormones alpha chain [Precursor];	26609	Uncategorized	NA
+INSULIN GLARGINE	protein	NA	NA	NA	NA	Insulin glargine recombinant	26205	Insulins	NA
+INSULIN GLARGINE	protein	NA	NA	NA	NA	Insulin glargine recombinant	26206	Insulins	NA
+BIVALIRUDIN	protein	-irudin	anticoagulants (hirudin type)	-irudin	NA	NA	25822	Uncategorized	NA
+ANAKINRA	protein	-kinra	interleukin receptor antagonists: interleukin-1 (IL-1) receptor antagonists	-kinra (-nakinra)	NA	Interleukin-1 receptor antagonist protein precursor (IL-1ra) (IRAP)	25750	Homo sapiens	Homo sapiens
+DROTRECOGIN ALFA (ACTIVATED)	protein	NA	NA	NA	NA	NA	25977	Uncategorized	NA
+DROTRECOGIN ALFA (ACTIVATED)	protein	NA	NA	NA	NA	NA	25976	Uncategorized	NA
+PEGVISOMANT	protein	peg-	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	peg-	NA	Somatotropin precursor (Growth hormone) (GH)	26379	Uncategorized	NA
+PEGFILGRASTIM	protein	peg-; -stim	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; colony-stimulating factors: granulocyte colony-stimulating factors (G-CSF)	peg-; -stim (-grastim)	NA	Granulocyte colony-stimulating factor precursor (G-CSF) (Pluripoietin)	26376	Homo sapiens	Homo sapiens
+ALEFACEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: lymphocyte function-associated antigen 3 (LFA) receptors	-cept (-lefacept)	NA	Lymphocyte function-associated antigen 3 precursor (Ag3) (Antigen CD58)	24556	Homo sapiens	Homo sapiens
+ENFUVIRTIDE	protein	-tide; -vir-	peptides: antiviral peptides; antivirals	-tide (-virtide); -vir-	NA	Acetyl-L-tyrosyl-L-threonyl-L-seryl-L-leucyl-L-isoleucyl-L-histidyl-L-seryl­L-leucyl-L-isoleucyl-L-alpha-glutamyl-L-alpha-giutamyl-L-seryl-L-glutaminyl­L-asparaginyl-L-glutaminyl-L-glutaminyI-L-alpha-glutamyl-L-Iysyl-L-asparaginyl­L-alpha-glutamyl-L-glutaminyl-L-alpha-glutamyl-L-leucyl-L-leucyl-L-alpha-glutamyl-L-leucyl­L-alpha-aspartyl-L-Iysyl-L-tryptophyl-L-alanyl-L-seryl-L-leucyl-L-tryptophyl­L-asparaginyl-L-tryptophyl-L-phenylalaninamide	26046	Uncategorized	NA
+BEVACIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G 1 (human-mouse monoclonal rhuMAb-VEGF 7-chain anti-human vascular endothelial growth factor), disulfide with human-mouse monoclonal rhuMAb-VEGF light chain, dimer	27771	Humanized	Humanized
+BEVACIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G 1 (human-mouse monoclonal rhuMAb-VEGF 7-chain anti-human vascular endothelial growth factor), disulfide with human-mouse monoclonal rhuMAb-VEGF light chain, dimer	25817	Humanized	Humanized
+SECRETIN SYNTHETIC HUMAN	protein	-retin	retinol derivatives	-retin	NA	Secretin precursor	25676	Uncategorized	NA
+INSULIN GLULISINE	protein	NA	NA	NA	NA	Insulin glulisine recombinant	26207	Insulins	NA
+INSULIN GLULISINE	protein	NA	NA	NA	NA	Insulin glulisine recombinant	26210	Insulins	NA
+INSULIN DETEMIR	protein	NA	NA	NA	NA	NA	26204	Insulins	NA
+INSULIN DETEMIR	protein	NA	NA	NA	NA	NA	26210	Insulins	NA
+MECASERMIN	protein	-ermin	growth factors: insulin-like growth factors	-ermin (-sermin)	NA	Insulin-like growth factor IA [Precursor]	26281	Uncategorized	NA
+PALIFERMIN	protein	-ermin	growth factors: fibroblast growth factors	-ermin (-fermin)	Homo sapiens	[23-methionine]-23-163-fibroblast growth factor 7 (human clone 32/49 reduced)	26374	Uncategorized	NA
+ABATACEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: T-cell receptors	-cept (-tacept)	Homo sapiens	1-25-oncostatin M (human precursor) fusion protein with CTLA-4 (antigen) (human) fusion protein with immunoglobulin G1 (human heavy chain fragment), bimolecular (146-146')-disulfide	25678	Homo sapiens	Homo sapiens
+RILONACEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: interleukin receptors	-cept (-nacept)	NA	[653-glycine][human interleukin-1 receptor accessory protein-(1-339)-peptide (extracellular domain fragment) fusion protein with human type 1 interleukin-1 receptor-(5-316)-peptide (extracellular domain fragment) fusion protein with human immunoglobulin G1-(229 C-terminal residues)-peptide (Fc fragment)], (659-659':662-662')-bisdisulfide dimer	26443	Homo sapiens	Homo sapiens
+ROMIPLOSTIM	protein	-stim	colony-stimulating factors	-stim	Homo sapiens	L-methionyl[human immunogloblin heavy constant gamma 1-(227 C-terminal residues)-peptide (Fc fragment)] fusion protein with 41 amino acids peptide, (7-7':10,10')-bisdisulfide dimer	26492	Homo sapiens	Homo sapiens
+CANAKINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Immunoglobulin G1, anti-[Homo sapiens interleukin 1, beta (IL1B)] human monoclonal ACZ885; gamma1 heavy chain (Homo sapiens VH-IGHG1*03) (221-214’)-disulfide with kappa light chain (Homo sapiens V-KAPPA-IGKC*01); (227-227’’:230-230’’)-bisdisulfide dimer	25888	Homo sapiens	Homo sapiens
+CANAKINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Immunoglobulin G1, anti-[Homo sapiens interleukin 1, beta (IL1B)] human monoclonal ACZ885; gamma1 heavy chain (Homo sapiens VH-IGHG1*03) (221-214’)-disulfide with kappa light chain (Homo sapiens V-KAPPA-IGKC*01); (227-227’’:230-230’’)-bisdisulfide dimer	25889	Homo sapiens	Homo sapiens
+COLLAGENASE CLOSTRIDIUM HISTOLYTICUM	protein	-ase; -ium	enzymes; quaternary ammonium derivatives	-ase; -ium	NA	NA	25898	Uncategorized	NA
+TESAMORELIN ACETATE	protein	-relin	prehormones or hormone-release stimulating peptides: growth hormone-release stimulating peptides	-relin (-morelin)	NA	NA	24795	Uncategorized	NA
+OCRIPLASMIN	protein	-plasmin	plasmin proteins and derivatives	-plasmin	NA	NA	26367	Uncategorized	NA
+OCRIPLASMIN	protein	-plasmin	plasmin proteins and derivatives	-plasmin	NA	NA	26366	Uncategorized	NA
+AFLIBERCEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: vascular endothelial growth factor (VEGF) receptors	-cept (-bercept)	NA	Aflibercept (immunoadhesin)	25680	Homo sapiens	Homo sapiens
+ASPARAGINASE ERWINIA CHRYSANTHEMI	protein	-ase	enzymes	-ase	NA	NA	25684	Uncategorized	NA
+TEDUGLUTIDE	protein	-tide	peptides: glucagon-like peptide (GLP) analogs	-tide (-glutide)	NA	TEDUGLUTIDE	26559	GLP analogs	Homo sapiens
+GLUCARPIDASE	protein	-ase	enzymes	-ase	NA	NA	26139	Uncategorized	NA
+INSULIN DEGLUDEC	protein	NA	NA	NA	NA	NA	26203	Insulins	NA
+INSULIN DEGLUDEC	protein	NA	NA	NA	NA	NA	26210	Insulins	NA
+LIXISENATIDE	protein	-tide	peptides: exendin-4-derivatives	-tide (-enatide)	NA	NA	26278	Heloderma suspectum	Heloderma suspectum
+RAMUCIRUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Ramucirumab (human mab)	26434	Homo sapiens	Homo sapiens
+RAMUCIRUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Ramucirumab (human mab)	26435	Homo sapiens	Homo sapiens
+VEDOLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Vedolizumab (humanized mab)	25488	Humanized	Humanized
+VEDOLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Vedolizumab (humanized mab)	25487	Humanized	Humanized
+SILTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Siltuximab (chimeric mab)	26505	Chimeric	Chimeric
+SILTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Siltuximab (chimeric mab)	26506	Chimeric	Chimeric
+AFAMELANOTIDE	protein	-tide	peptides: melanocortin receptor agonists	-tide (-melanotide)	NA	NA	25679	Peptide	NA
+PEMBROLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Pembrolizumab (humanized mab)	26431	Humanized	Humanized
+PEMBROLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Pembrolizumab (humanized mab)	26430	Humanized	Humanized
+NIVOLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Nivolumab (human mab)	26362	Homo sapiens	Homo sapiens
+NIVOLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Nivolumab (human mab)	26361	Homo sapiens	Homo sapiens
+EVOLOCUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Evolocumab (human mab)	26122	Homo sapiens	Homo sapiens
+EVOLOCUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Evolocumab (human mab)	26058	Homo sapiens	Homo sapiens
+ELOTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Elotuzumab (humanized mab)	26039	Humanized	Humanized
+ELOTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Elotuzumab (humanized mab)	26038	Humanized	Humanized
+ALIROCUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Alirocumab (human mab)	25745	Homo sapiens	Homo sapiens
+ALIROCUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Alirocumab (human mab)	25744	Homo sapiens	Homo sapiens
+DARATUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Daratumumab (human mab)	25967	Homo sapiens	Homo sapiens
+DARATUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Daratumumab (human mab)	25966	Homo sapiens	Homo sapiens
+SECUKINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Secukinumab (human mab)	26502	Homo sapiens	Homo sapiens
+SECUKINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Secukinumab (human mab)	26503	Homo sapiens	Homo sapiens
+IDARUCIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26199	Humanized	Humanized
+IDARUCIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26198	Humanized	Humanized
+OLARATUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Olaratumab (human mab)	26368	Homo sapiens	Homo sapiens
+OLARATUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Olaratumab (human mab)	26369	Homo sapiens	Homo sapiens
+IXEKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Ixekizumab (humanized mab)	26272	Humanized	Humanized
+IXEKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Ixekizumab (humanized mab)	26216	Humanized	Humanized
+BEZLOTOXUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Bezlotoxumab (human mab)	25818	Homo sapiens	Homo sapiens
+BEZLOTOXUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Bezlotoxumab (human mab)	25819	Homo sapiens	Homo sapiens
+ATEZOLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25937	Humanized	Humanized
+ATEZOLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25757	Humanized	Humanized
+DURVALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Durvalumab (human mab)	25980	Homo sapiens	Homo sapiens
+DURVALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Durvalumab (human mab)	25979	Homo sapiens	Homo sapiens
+AVELUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25809	Homo sapiens	Homo sapiens
+AVELUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	26071	Homo sapiens	Homo sapiens
+ANGIOTENSIN II ACETATE	protein	NA	NA	NA	NA	NA	25752	Uncategorized	NA
+BENRALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	Homo sapiens	Benralizumab (humanized mab)	25816	Humanized	Humanized
+BENRALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	Homo sapiens	Benralizumab (humanized mab)	25815	Humanized	Humanized
+GUSELKUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Guselkumab (human mab)	26193	Homo sapiens	Homo sapiens
+GUSELKUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Guselkumab (human mab)	26140	Homo sapiens	Homo sapiens
+CERLIPONASE ALFA	protein	-ase	enzymes	-ase	NA	NA	25895	Uncategorized	NA
+IBALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Ibalizumab (humanized mab)	26195	Humanized	Humanized
+IBALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Ibalizumab (humanized mab)	26194	Humanized	Humanized
+CAPLACIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Caplacizumab (humanized mab)	25890	Humanized	Humanized
+VELMANASE ALFA	protein	-ase	enzymes	-ase	NA	NA	25875	Uncategorized	NA
+BROLUCIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25885	Humanized	Humanized
+RISANKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26447	Humanized	Humanized
+RISANKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26488	Humanized	Humanized
+LUSPATERCEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: transforming growth factor receptors	-cept (-tercept)	Homo sapiens	Luspatercept	26280	Homo sapiens	Homo sapiens
+POLATUZUMAB VEDOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	Polatuzumab vedotin (humanized mab)	26432	Humanized	Humanized
+POLATUZUMAB VEDOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	Polatuzumab vedotin (humanized mab)	26433	Humanized	Humanized
+CRIZANLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25961	Humanized	Humanized
+CRIZANLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25962	Humanized	Humanized
+ISATUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	26214	Chimeric	Chimeric
+ISATUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	26215	Chimeric	Chimeric
+EPTINEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26051	Humanized	Humanized
+EPTINEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26050	Humanized	Humanized
+ANSUVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25707	Humanized	Humanized
+ANSUVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25708	Humanized	Humanized
+TEPROTUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Teprotumumab (human mab)	24405	Homo sapiens	Homo sapiens
+TEPROTUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Teprotumumab (human mab)	24406	Homo sapiens	Homo sapiens
+SATRALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26498	Humanized	Humanized
+SATRALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26499	Humanized	Humanized
+TAFASITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25432	Humanized	Humanized
+TAFASITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25431	Humanized	Humanized
+ATOLTIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25277	Homo sapiens	Homo sapiens
+ATOLTIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25275	Homo sapiens	Homo sapiens
+MAFTIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25382	Homo sapiens	Homo sapiens
+MAFTIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25383	Homo sapiens	Homo sapiens
+ODESIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25399	Homo sapiens	Homo sapiens
+ODESIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25397	Homo sapiens	Homo sapiens
+BIMEKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25481	Humanized	Humanized
+BIMEKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25480	Humanized	Humanized
+DOSTARLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25972	Humanized	Humanized
+DOSTARLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25973	Humanized	Humanized
+LONAPEGSOMATROPIN	protein	-peg-; -pin; -trop-	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; tricyclic compounds; atropine derivatives	-peg-; -pin; -trop-	NA	NA	26279	Uncategorized	NA
+TRALOKINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Tralokinumab (human mab)	26563	Homo sapiens	Homo sapiens
+TRALOKINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Tralokinumab (human mab)	26564	Homo sapiens	Homo sapiens
+ANIFROLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Anifrolumab (human mab)	25753	Homo sapiens	Homo sapiens
+ANIFROLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Anifrolumab (human mab)	25754	Homo sapiens	Homo sapiens
+EVINACUMAB	protein	-mab; -vin-	monoclonal antibodies: fully human; vinca alkaloids	-mab (-umab); -vin-	NA	NA	26057	Homo sapiens	Homo sapiens
+EVINACUMAB	protein	-mab; -vin-	monoclonal antibodies: fully human; vinca alkaloids	-mab (-umab); -vin-	NA	NA	26056	Homo sapiens	Homo sapiens
+TEZEPELUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	26561	Homo sapiens	Homo sapiens
+TEZEPELUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	26560	Homo sapiens	Homo sapiens
+VOSORITIDE	protein	-tide	peptides: atrial natriuretic type substances	-tide (-ritide)	NA	NA	25489	Peptide	NA
+EFGARTIGIMOD ALFA	protein	ef-; -imod	Fc fusion protein; immunomodulators	ef-; -imod	NA	NA	25981	Homo sapiens	Homo sapiens
+AMIVANTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25749	Homo sapiens	Homo sapiens
+AMIVANTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25748	Homo sapiens	Homo sapiens
+AMIVANTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25682	Homo sapiens	Homo sapiens
+AMIVANTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25683	Homo sapiens	Homo sapiens
+LONCASTUXIMAB TESIRINE	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	25299	Chimeric	Chimeric
+LONCASTUXIMAB TESIRINE	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	25238	Chimeric	Chimeric
+UBLITUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	24927	Chimeric	Chimeric
+UBLITUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	24928	Chimeric	Chimeric
+DAXIBOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	25768	Uncategorized	NA
+DAXIBOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	26676	Uncategorized	NA
+EFLAPEGRASTIM	protein	ef-; -peg-; -stim	Fc fusion protein; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; colony-stimulating factors: granulocyte colony-stimulating factors (G-CSF)	ef-; -peg-; -stim (-grastim)	NA	NA	25008	Homo sapiens	Homo sapiens
+NIRSEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27171	Humanized	Humanized
+NIRSEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27172	Humanized	Humanized
+FARICIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26931	Homo sapiens Humanized	Homo sapiens Humanized
+FARICIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25351	Homo sapiens Humanized	Homo sapiens Humanized
+FARICIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25353	Homo sapiens Humanized	Homo sapiens Humanized
+FARICIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26126	Homo sapiens Humanized	Homo sapiens Humanized
+TEPLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Teplizumab (humanized mab)	24590	Humanized	Humanized
+TEPLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Teplizumab (humanized mab)	24591	Humanized	Humanized
+RELATLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25105	Homo sapiens	Homo sapiens
+RELATLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25104	Homo sapiens	Homo sapiens
+SUTIMLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25993	Chimeric Humanized	Chimeric Humanized
+SUTIMLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25995	Chimeric Humanized	Chimeric Humanized
+SPESOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26250	Chimeric Humanized	Chimeric Humanized
+SPESOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26248	Chimeric Humanized	Chimeric Humanized
+LEBRIKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Lebrikizumab (humanized mab)	24403	Humanized	Humanized
+LEBRIKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Lebrikizumab (humanized mab)	24404	Humanized	Humanized
+MIRIKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25058	Humanized	Humanized
+MIRIKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25057	Humanized	Humanized
+ROZANOLIXIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26862	Chimeric Humanized	Chimeric Humanized
+ROZANOLIXIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26860	Chimeric Humanized	Chimeric Humanized
+TISLELIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25441	Humanized	Humanized
+TISLELIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25440	Humanized	Humanized
+TORIPALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26319	Humanized	Humanized
+TORIPALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26316	Humanized	Humanized
+RETIFANLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25916	Chimeric Humanized	Chimeric Humanized
+RETIFANLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25915	Chimeric Humanized	Chimeric Humanized
+APADAMTASE ALFA	protein	-ase	enzymes	-ase	NA	NA	25926	Uncategorized	NA
+PALOPEGTERIPARATIDE	protein	-peg-; -tide	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; peptides: parathyroid hormone related peptide	-peg-; -tide (-paratide)	NA	NA	25583	Uncategorized	NA
+CONCIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25716	Humanized	Humanized
+CONCIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25715	Humanized	Humanized
+DONANEMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27305	Humanized	Humanized
+DONANEMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27301	Humanized	Humanized
+COSIBELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26150	Homo sapiens	Homo sapiens
+COSIBELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26151	Homo sapiens	Homo sapiens
+CROVALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25759	Chimeric Humanized	Chimeric Humanized
+CROVALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25758	Chimeric Humanized	Chimeric Humanized
+SOTATERCEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: transforming growth factor receptors	-cept (-tercept)	NA	Sotatercept (immunoadhesin)	25532	Homo sapiens	Homo sapiens
+ZOLBETUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Claudiximab (chimeric mab)	25947	Chimeric	Chimeric
+ZOLBETUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Claudiximab (chimeric mab)	25948	Chimeric	Chimeric
+MARSTACIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25053	Homo sapiens	Homo sapiens
+MARSTACIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25054	Homo sapiens	Homo sapiens
+ZENOCUTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26464	Humanized	Humanized
+ZENOCUTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	27327	Humanized	Humanized
+ZENOCUTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26463	Humanized	Humanized
+ZENOCUTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26461	Humanized	Humanized
+ZANIDATAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27214	Humanized	Humanized
+ZANIDATAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26459	Humanized	Humanized
+ZANIDATAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26456	Humanized	Humanized
+TARLATAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25798	Chimeric Humanized	Chimeric Humanized
+PRAMLINTIDE	protein	-tide	peptides: amylin derivatives or mimics	-tide (-lintide)	NA	PRAMLINTIDE	24365	Peptide	NA
+INTERFERON ALFA-2B	protein	NA	NA	NA	NA	Interferon alpha-2 precursor (Interferon alpha-A) (LeIF A)	26379	Uncategorized	NA
+MUROMONAB-CD3	protein	-nab-	cannabinol derivatives	-nab-	Mus musculus	Muromonab-CD3 (mouse mab)	24687	Mus musculus	Mus musculus
+MUROMONAB-CD3	protein	-nab-	cannabinol derivatives	-nab-	Mus musculus	Muromonab-CD3 (mouse mab)	24686	Mus musculus	Mus musculus
+ALDESLEUKIN	protein	-kin	interleukins: interleukin-2 analogues and derivatives	-kin (-leukin)	NA	Interleukin-2 precursor (IL-2) (T-cell growth factor)	25721	Homo sapiens	Homo sapiens
+IMIGLUCERASE	protein	-ase	enzymes	-ase	NA	Glucosylceramidase precursor (Beta-glucocerebrosidase) (Acid beta-glucosidase)	26200	Uncategorized	NA
+RITUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Rituximab (chimeric mab)	26490	Chimeric	Chimeric
+RITUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Rituximab (chimeric mab)	26491	Chimeric	Chimeric
+OPRELVEKIN	protein	-kin	interleukins: interleukin-11 analogues and derivatives	-kin (-elvekin)	NA	Interleukin-11 precursor (IL-11) (Adipogenesis inhibitory factor)	24701	Uncategorized	NA
+TRASTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G1-kappa, anti-[Homo sapiens ERBB2 (epidermal growth factor receptor 2, HER-2, p185c-erbB2, NEU, EGFR2)], humanized monoclonal antibody conjugated to maytansinoid DM1; gamma1 heavy chain (1-449) [humanized VH (Homo sapiens IGHV3-66*01 (81.60%) -(IGHD)-IGHJ6*01 T123>L) [8.8.13] (1-120) - Homo sapiens IGHG1*03 (121-449) CH1 R120>K], (223-214')-disulfide with kappa light chain (1’-214’) [humanized V-KAPPA (Homo sapiens IGKV1-39*01 (86.30%) -IGKJ1*01) [6.3.9] (1'-107') - Homo sapiens IGKC*01 (108'-214')]; (229-229"""":232-232"""")-bisdisulfide dimer; conjugated, on an average of 3 to 4 lysyl, to maytansinoid DM1 via a succinimidyl-4-(N-maleimidomethyl) cyclohexane-1-carboxylate (SMCC) linker.	27422	Humanized	Humanized
+TRASTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G1-kappa, anti-[Homo sapiens ERBB2 (epidermal growth factor receptor 2, HER-2, p185c-erbB2, NEU, EGFR2)], humanized monoclonal antibody conjugated to maytansinoid DM1; gamma1 heavy chain (1-449) [humanized VH (Homo sapiens IGHV3-66*01 (81.60%) -(IGHD)-IGHJ6*01 T123>L) [8.8.13] (1-120) - Homo sapiens IGHG1*03 (121-449) CH1 R120>K], (223-214')-disulfide with kappa light chain (1’-214’) [humanized V-KAPPA (Homo sapiens IGKV1-39*01 (86.30%) -IGKJ1*01) [6.3.9] (1'-107') - Homo sapiens IGKC*01 (108'-214')]; (229-229"""":232-232"""")-bisdisulfide dimer; conjugated, on an average of 3 to 4 lysyl, to maytansinoid DM1 via a succinimidyl-4-(N-maleimidomethyl) cyclohexane-1-carboxylate (SMCC) linker.	25484	Humanized	Humanized
+BASILIXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Basiliximab (chimeric mab)	25810	Chimeric	Chimeric
+BASILIXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Basiliximab (chimeric mab)	25811	Chimeric	Chimeric
+ETANERCEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: tumor necrosis factor receptors	-cept (-nercept)	NA	Tumor necrosis factor receptor superfamily member 1B precursor (Tumor necrosis factor receptor 2) (p80)	26055	Homo sapiens	Homo sapiens
+DENILEUKIN DIFTITOX	protein	-kin	interleukins: interleukin-2 analogues and derivatives	-kin (-leukin)	NA	Diphtheria toxin precursor (DT) (NAD(+)--diphthamide ADP-ribosyltransferase)	27682	Corynebacterium diphtheriae Homo sapiens	Corynebacterium diphtheriae Homo sapiens
+DENILEUKIN DIFTITOX	protein	-kin	interleukins: interleukin-2 analogues and derivatives	-kin (-leukin)	NA	Diphtheria toxin precursor (DT) (NAD(+)--diphthamide ADP-ribosyltransferase)	27156	Corynebacterium diphtheriae Homo sapiens	Corynebacterium diphtheriae Homo sapiens
+PEGINTERFERON ALFA-2B	protein	peg-	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	peg-	NA	Interferon alpha-2 precursor (Interferon alpha-A) (LeIF A)	26379	Uncategorized	NA
+RIMABOTULINUMTOXINB	protein	NA	NA	NA	NA	Botulinum neurotoxin type B precursor (BoNT/B) (Bontoxilysin B)	26444	Uncategorized	NA
+RIMABOTULINUMTOXINB	protein	NA	NA	NA	NA	Botulinum neurotoxin type B precursor (BoNT/B) (Bontoxilysin B)	26445	Uncategorized	NA
+DARBEPOETIN ALFA	protein	-poetin	erythropoietins	-poetin	NA	Erythropoietin precursor (Epoetin)	25968	Homo sapiens	Homo sapiens
+ALEMTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G 1 (human-rat monodonal CAMPATH-1H 71-chain anti-human antigen CD52), disulfide with human-rat monoclonal CAMPATH-1H light chain, dimer	25741	Humanized	Humanized
+ALEMTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G 1 (human-rat monodonal CAMPATH-1H 71-chain anti-human antigen CD52), disulfide with human-rat monoclonal CAMPATH-1H light chain, dimer	25742	Humanized	Humanized
+RASBURICASE	protein	-ase	enzymes	-ase	NA	Uricase (Urate oxidase)	26438	Uncategorized	NA
+AGALSIDASE BETA	protein	-ase	enzymes	-ase	NA	NA	25740	Uncategorized	NA
+PEGINTERFERON ALFA-2A	protein	peg-	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	peg-	NA	Interferon alpha-2 precursor (Interferon alpha-A) (LeIF A)	26377	Homo sapiens	Homo sapiens
+OMALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G, anti-(human immunoglobulin E Fc region) (human-mouse monoclonal E25 clone pSVIE26 y-chain), disulfide with human-mouse monoclonal E25 clone pSVIE26 x-chain, dimer	26371	Humanized	Humanized
+OMALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G, anti-(human immunoglobulin E Fc region) (human-mouse monoclonal E25 clone pSVIE26 y-chain), disulfide with human-mouse monoclonal E25 clone pSVIE26 x-chain, dimer	26372	Humanized	Humanized
+LARONIDASE	protein	-ase	enzymes	-ase	NA	Alpha-L-iduronidase precursor	26275	Uncategorized	NA
+TOSITUMOMAB	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Tositumomab (mouse mab)	24711	Mus musculus	Mus musculus
+TOSITUMOMAB	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Tositumomab (mouse mab)	24710	Mus musculus	Mus musculus
+CETUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Immunoglobulin G 1 (human-mouse monoclonal C225 yt-chain anti-human epidermal growth factor receptor), disulfide with human-mouse monoclonal C225 x-chain, dimer	25896	Chimeric	Chimeric
+CETUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Immunoglobulin G 1 (human-mouse monoclonal C225 yt-chain anti-human epidermal growth factor receptor), disulfide with human-mouse monoclonal C225 x-chain, dimer	25897	Chimeric	Chimeric
+ZICONOTIDE ACETATE	protein	-tide	peptides	-tide	NA	Ziconotide acetate	25537	Peptide	NA
+EXENATIDE	protein	-tide	peptides: exendin-4-derivatives	-tide (-enatide)	NA	EXENATIDE	26123	Peptide	NA
+GALSULFASE	protein	-ase	enzymes	-ase	Homo sapiens	N-acetylgalactosamine 4-sulfatase (human CSL4S-342 cell)	26138	Uncategorized	NA
+ALGLUCOSIDASE ALFA	protein	-ase	enzymes	-ase	Homo sapiens	Human lysosomal prepro-alpha-glucosidase-(57-952)-peptide 199-arginine-223-histidine variant	25743	Uncategorized	NA
+RANIBIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G1, anti-(human vascular endothelial growth factor) Fab fragment (human-mouse monoclonal rhuFAB V2 gamma1-chain), disulfide with human-mouse monoclonal rhuFAB V2 kappa-chain	26437	Humanized	Humanized
+RANIBIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Immunoglobulin G1, anti-(human vascular endothelial growth factor) Fab fragment (human-mouse monoclonal rhuFAB V2 gamma1-chain), disulfide with human-mouse monoclonal rhuFAB V2 kappa-chain	26436	Humanized	Humanized
+PARATHYROID HORMONE	protein	NA	NA	NA	NA	NA	26375	Uncategorized	NA
+ECALLANTIDE	protein	-tide	peptides	-tide	Homo sapiens	[Glu20,Ala21,Arg36,Ala38,His39,Pro40,Trp42]tissue factor pathway inhibitor (human)-(20-79)-peptide (modified on reactive bond region Kunitz inhibitor 1 domain containing fragment)	24563	Peptide	NA
+VELAGLUCERASE ALFA	protein	-ase	enzymes	-ase	NA	human glucosylceramidase (EC 3.2.1.45 or beta-glucocerebrosidase), glycoform alpha	25603	Uncategorized	NA
+PEGLOTICASE	protein	-ase; peg-	enzymes; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-ase; peg-	NA	Tetramer alpha4 of des-(1-5)-[6-threonine,45-threonine,290-lysine,300-serine]uricase (EC 1.7.3.3, urate oxidase) from Sus scrofa (porcine), non acetylated, of which some of the lysine 6-amine residues are engaged in a carbamate linkage with a monomethylic ether of polyoxyethylene (macrogol)	26378	Porcine	NA
+BELATACEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: T-cell receptors	-cept (-tacept)	NA	Belatacept (immunoadhesin)	25814	Homo sapiens	Homo sapiens
+BRENTUXIMAB VEDOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: chimeric	-dotin; -mab (-ximab)	NA	Brentuximab Vedotin (chimeric mab)	25824	Chimeric	Chimeric
+BRENTUXIMAB VEDOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: chimeric	-dotin; -mab (-ximab)	NA	Brentuximab Vedotin (chimeric mab)	25825	Chimeric	Chimeric
+OBINUTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Obinutuzumab (humanized mab)	26365	Humanized	Humanized
+OBINUTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Obinutuzumab (humanized mab)	26364	Humanized	Humanized
+TRASTUZUMAB EMTANSINE	protein	-mab; -mab; -tansine	monoclonal antibodies: fully human; monoclonal antibodies: humanized; maytansinoid derivatives	-mab (-umab); -mab (-zumab); -tansine	NA	Trastuzumab Emtansine (humanized mab)	27422	Humanized	Humanized
+TRASTUZUMAB EMTANSINE	protein	-mab; -mab; -tansine	monoclonal antibodies: fully human; monoclonal antibodies: humanized; maytansinoid derivatives	-mab (-umab); -mab (-zumab); -tansine	NA	Trastuzumab Emtansine (humanized mab)	26835	Humanized	Humanized
+DULAGLUTIDE	protein	-tide	peptides: glucagon-like peptide (GLP) analogs	-tide (-glutide)	NA	NA	25978	GLP analogs	Homo sapiens
+BLINATUMOMAB	protein	-mab	monoclonal antibodies	-mab	Homo sapiens	Blinatumumab (human BiTE)	25823	Mus musculus	Mus musculus
+NECITUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Necitumumab (human mab)	26290	Homo sapiens	Homo sapiens
+NECITUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Necitumumab (human mab)	26291	Homo sapiens	Homo sapiens
+DINUTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Dinutuximab (chimeric human-mouse mab	25970	Chimeric	Chimeric
+DINUTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Dinutuximab (chimeric human-mouse mab	25971	Chimeric	Chimeric
+ASFOTASE ALFA	protein	-ase	enzymes	-ase	NA	Asfotase alfa	25756	Homo sapiens	Homo sapiens
+SEBELIPASE ALFA	protein	-ase	enzymes	-ase	Homo sapiens	Sebelipase alfa	26501	Uncategorized	NA
+OBILTOXAXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	24907	Chimeric	Chimeric
+OBILTOXAXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	24906	Chimeric	Chimeric
+SARILUMAB	protein	-aril-; -mab	antiviral (arildone derivatives); monoclonal antibodies: fully human	-aril-; -mab (-umab)	Homo sapiens	Sarilumab (human mab)	26496	Homo sapiens	Homo sapiens
+SARILUMAB	protein	-aril-; -mab	antiviral (arildone derivatives); monoclonal antibodies: fully human	-aril-; -mab (-umab)	Homo sapiens	Sarilumab (human mab)	26495	Homo sapiens	Homo sapiens
+SEMAGLUTIDE	protein	-tide	peptides: glucagon-like peptide (GLP) analogs	-tide (-glutide)	NA	NA	26504	GLP analogs	NA
+ABALOPARATIDE	protein	-tide	peptides: parathyroid hormone related peptide	-tide (-paratide)	NA	Abaloparatide	25540	Peptide	NA
+BRODALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Brodalumab (human mab)	25826	Homo sapiens	Homo sapiens
+BRODALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Brodalumab (human mab)	25827	Homo sapiens	Homo sapiens
+EMICIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26041	Humanized	Humanized
+EMICIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26043	Humanized	Humanized
+EMICIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26042	Humanized	Humanized
+PRABOTULINUMTOXIN A	protein	-oxin	fluoroquinolone derivatives, nonantibacterial indication (e.g., antineoplastic antibiotics)	-oxin	NA	NA	25321	Uncategorized	NA
+PRABOTULINUMTOXIN A	protein	-oxin	fluoroquinolone derivatives, nonantibacterial indication (e.g., antineoplastic antibiotics)	-oxin	NA	NA	25828	Uncategorized	NA
+PRABOTULINUMTOXIN A	protein	-oxin	fluoroquinolone derivatives, nonantibacterial indication (e.g., antineoplastic antibiotics)	-oxin	NA	NA	25320	Uncategorized	NA
+PRABOTULINUMTOXIN A	protein	-oxin	fluoroquinolone derivatives, nonantibacterial indication (e.g., antineoplastic antibiotics)	-oxin	NA	NA	25769	Uncategorized	NA
+PRABOTULINUMTOXIN A	protein	-oxin	fluoroquinolone derivatives, nonantibacterial indication (e.g., antineoplastic antibiotics)	-oxin	NA	NA	25322	Uncategorized	NA
+PRABOTULINUMTOXIN A	protein	-oxin	fluoroquinolone derivatives, nonantibacterial indication (e.g., antineoplastic antibiotics)	-oxin	NA	NA	26673	Uncategorized	NA
+TRASTUZUMAB DERUXTECAN	protein	-mab; -mab; -tecan	monoclonal antibodies: fully human; monoclonal antibodies: humanized; antineoplastics (camptothecin derivatives)	-mab (-umab); -mab (-zumab); -tecan	NA	NA	27422	Humanized	Humanized
+TRASTUZUMAB DERUXTECAN	protein	-mab; -mab; -tecan	monoclonal antibodies: fully human; monoclonal antibodies: humanized; antineoplastics (camptothecin derivatives)	-mab (-umab); -mab (-zumab); -tecan	NA	NA	26838	Humanized	Humanized
+ROMOSOZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Romosozumab (humanized mab)	26493	Humanized	Humanized
+ROMOSOZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Romosozumab (humanized mab)	26494	Humanized	Humanized
+ENFORTUMAB VEDOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human	-dotin; -mab (-umab)	Homo sapiens	Enfortumab vedotin (human mab)	26045	Homo sapiens	Homo sapiens
+ENFORTUMAB VEDOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human	-dotin; -mab (-umab)	Homo sapiens	Enfortumab vedotin (human mab)	26044	Homo sapiens	Homo sapiens
+MARGETUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Margetuximab (chimeric mab)	24834	Chimeric	Chimeric
+MARGETUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Margetuximab (chimeric mab)	24833	Chimeric	Chimeric
+NAXITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25392	Chimeric	Chimeric
+NAXITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25391	Chimeric	Chimeric
+SACITUZUMAB GOVITECAN	protein	-mab; -mab; -tecan	monoclonal antibodies: fully human; monoclonal antibodies: humanized; antineoplastics (camptothecin derivatives)	-mab (-umab); -mab (-zumab); -tecan	NA	NA	27743	Humanized	Humanized
+SACITUZUMAB GOVITECAN	protein	-mab; -mab; -tecan	monoclonal antibodies: fully human; monoclonal antibodies: humanized; antineoplastics (camptothecin derivatives)	-mab (-umab); -mab (-zumab); -tecan	NA	NA	27742	Humanized	Humanized
+BELANTAMAB MAFODOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies	-dotin; -mab	NA	NA	25281	Humanized	Humanized
+BELANTAMAB MAFODOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies	-dotin; -mab	NA	NA	25280	Humanized	Humanized
+AVALGLUCOSIDASE ALFA	protein	-ase	enzymes	-ase	Homo sapiens	NA	25743	Uncategorized	NA
+ADUCANUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Aducanumab (human mab)	24856	Homo sapiens	Homo sapiens
+ADUCANUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Aducanumab (human mab)	24855	Homo sapiens	Homo sapiens
+TISOTUMAB VEDOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human	-dotin; -mab (-umab)	NA	NA	26003	Homo sapiens	Homo sapiens
+TISOTUMAB VEDOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human	-dotin; -mab (-umab)	NA	NA	26002	Homo sapiens	Homo sapiens
+MIRVETUXIMAB SORAVTANSINE	protein	-mab; -tansine	monoclonal antibodies: chimeric; maytansinoid derivatives	-mab (-ximab); -tansine	NA	NA	24920	Chimeric	Chimeric
+MIRVETUXIMAB SORAVTANSINE	protein	-mab; -tansine	monoclonal antibodies: chimeric; maytansinoid derivatives	-mab (-ximab); -tansine	NA	NA	24919	Chimeric	Chimeric
+OLIPUDASE ALFA	protein	-ase	enzymes	-ase	NA	NA	26370	Uncategorized	NA
+MOSUNETUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26286	Humanized	Humanized
+MOSUNETUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26865	Humanized	Humanized
+MOSUNETUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26287	Humanized	Humanized
+MOSUNETUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26284	Humanized	Humanized
+TIRZEPATIDE	protein	-tide	peptides: glucose-dependent insulinotropic polypeptide (GIP) receptor agonists	-tide (-patide)	NA	NA	27165	Peptide	NA
+TEBENTAFUSP	protein	-fusp	fusion proteins	-fusp	NA	NA	25433	Humanized	Humanized
+TEBENTAFUSP	protein	-fusp	fusion proteins	-fusp	NA	NA	25434	Humanized	Humanized
+TECLISTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26254	Homo sapiens Chimeric	Homo sapiens Chimeric
+TECLISTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25504	Homo sapiens Chimeric	Homo sapiens Chimeric
+TECLISTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26926	Homo sapiens Chimeric	Homo sapiens Chimeric
+TECLISTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26558	Homo sapiens Chimeric	Homo sapiens Chimeric
+LECANEMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25838	Chimeric Humanized	Chimeric Humanized
+LECANEMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25836	Chimeric Humanized	Chimeric Humanized
+PEGUNIGALSIDASE ALFA	protein	-ase; peg-	enzymes; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-ase; peg-	NA	NA	25908	Uncategorized	NA
+ELRANATAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27378	Homo sapiens Humanized	Homo sapiens Humanized
+ELRANATAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27377	Homo sapiens Humanized	Homo sapiens Humanized
+ELRANATAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26221	Homo sapiens Humanized	Homo sapiens Humanized
+ELRANATAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26219	Homo sapiens Humanized	Homo sapiens Humanized
+GLOFITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27536	Humanized	Humanized
+GLOFITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27535	Humanized	Humanized
+GLOFITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25719	Humanized	Humanized
+GLOFITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25720	Humanized	Humanized
+CIPAGLUCOSIDASE ALFA	protein	-ase	enzymes	-ase	NA	NA	25459	Uncategorized	NA
+EPCORITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27391	Homo sapiens Chimeric	Homo sapiens Chimeric
+EPCORITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26327	Homo sapiens Chimeric	Homo sapiens Chimeric
+EPCORITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26331	Homo sapiens Chimeric	Homo sapiens Chimeric
+EPCORITAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27591	Homo sapiens Chimeric	Homo sapiens Chimeric
+POZELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25414	Homo sapiens	Homo sapiens
+POZELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25413	Homo sapiens	Homo sapiens
+TALQUETAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26927	Chimeric Humanized	Chimeric Humanized
+TALQUETAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26254	Chimeric Humanized	Chimeric Humanized
+TALQUETAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26926	Chimeric Humanized	Chimeric Humanized
+TALQUETAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26251	Chimeric Humanized	Chimeric Humanized
+INSULIN HUMAN	protein	NA	NA	NA	NA	Recombinant human insulin	26208	Insulins	NA
+INSULIN HUMAN	protein	NA	NA	NA	NA	Recombinant human insulin	26210	Insulins	NA
+FAVEZELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27458	Humanized	Humanized
+FAVEZELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27456	Humanized	Humanized
+DAZUKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27296	Humanized	Humanized
+DAZUKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27213	Humanized	Humanized
+DATOPOTAMAB DERUXTECAN	protein	-mab; -tecan	monoclonal antibodies; antineoplastics (camptothecin derivatives)	-mab; -tecan	NA	NA	27206	Humanized	Humanized
+DATOPOTAMAB DERUXTECAN	protein	-mab; -tecan	monoclonal antibodies; antineoplastics (camptothecin derivatives)	-mab; -tecan	NA	NA	27204	Humanized	Humanized
+NISEVOKITUG	protein	NA	NA	NA	NA	NA	27031	Homo sapiens	Homo sapiens
+NISEVOKITUG	protein	NA	NA	NA	NA	NA	27033	Homo sapiens	Homo sapiens
+ROCATINLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26829	Homo sapiens	Homo sapiens
+ROCATINLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26827	Homo sapiens	Homo sapiens
+AMLITELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25542	Homo sapiens Humanized	Homo sapiens Humanized
+AMLITELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25498	Homo sapiens Humanized	Homo sapiens Humanized
+ZIGAKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27148	Humanized	Humanized
+ZIGAKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27082	Humanized	Humanized
+STAPOKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26704	Humanized	Humanized
+STAPOKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26703	Humanized	Humanized
+TULISOKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26879	Humanized	Humanized
+TULISOKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26877	Humanized	Humanized
+UMESOLERBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26887	Homo sapiens	Homo sapiens
+UMESOLERBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26885	Homo sapiens	Homo sapiens
+CLAZAKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Clazakizumab (humanized mab)	26543	Humanized	Humanized
+CLAZAKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Clazakizumab (humanized mab)	26542	Humanized	Humanized
+ABAGOVOMAB	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Abagovomab (mouse mab)	24702	Mus musculus	Mus musculus
+ABAGOVOMAB	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Abagovomab (mouse mab)	24703	Mus musculus	Mus musculus
+PATRITUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Patritumab (human mab)	26754	Homo sapiens	Homo sapiens
+PATRITUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Patritumab (human mab)	26755	Homo sapiens	Homo sapiens
+OTELIXIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Otelixizumab (chimeric and humanized mab)	24379	Chimeric Humanized	Chimeric Humanized
+OTELIXIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Otelixizumab (chimeric and humanized mab)	24380	Chimeric Humanized	Chimeric Humanized
+FARLETUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Farletuzumab (humanized mab)	26095	Humanized	Humanized
+FARLETUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Farletuzumab (humanized mab)	26573	Humanized	Humanized
+BAVITUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Bavituximab (chimeric mab)	24565	Chimeric	Chimeric
+BAVITUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Bavituximab (chimeric mab)	24566	Chimeric	Chimeric
+TIGATUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Tigatuzumab (humanized mab)	24642	Humanized	Humanized
+TIGATUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Tigatuzumab (humanized mab)	24643	Humanized	Humanized
+ITOLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Itolizumab (humanized mab)	26467	Humanized	Humanized
+ITOLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Itolizumab (humanized mab)	26466	Humanized	Humanized
+ETROLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Etrolizumab (humanized mab)	24492	Humanized	Humanized
+ETROLIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Etrolizumab (humanized mab)	24491	Humanized	Humanized
+MOTAVIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Motavizumab (humanized mab)	24584	Humanized	Humanized
+MOTAVIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Motavizumab (humanized mab)	24583	Humanized	Humanized
+RACOTUMOMAB	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Racotumomab (mouse mab)	24664	Mus musculus	Mus musculus
+RACOTUMOMAB	protein	-mab	monoclonal antibodies	-mab	Mus musculus	Racotumomab (mouse mab)	24665	Mus musculus	Mus musculus
+FUTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Futuximab (chimeric mab)	24854	Chimeric	Chimeric
+FUTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Futuximab (chimeric mab)	24853	Chimeric	Chimeric
+LAMPALIZUMAB	protein	-ampa-; -mab; -mab	ionotropic non-NMDA (N-methyl D-aspartate) glutamate receptors [AMPA (alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor) and/or KA (kainite antagonist) receptors]; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-ampa-; -mab (-umab); -mab (-zumab)	NA	Lampalizumab (humanized mab)	24827	Humanized	Humanized
+LAMPALIZUMAB	protein	-ampa-; -mab; -mab	ionotropic non-NMDA (N-methyl D-aspartate) glutamate receptors [AMPA (alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor) and/or KA (kainite antagonist) receptors]; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-ampa-; -mab (-umab); -mab (-zumab)	NA	Lampalizumab (humanized mab)	24826	Humanized	Humanized
+GANTENERUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Gantenerumab (human mab)	24484	Homo sapiens	Homo sapiens
+GANTENERUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Gantenerumab (human mab)	24485	Homo sapiens	Homo sapiens
+FICLATUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Ficlatuzumab (humanized mab)	24418	Humanized	Humanized
+FICLATUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Ficlatuzumab (humanized mab)	24419	Humanized	Humanized
+GIRENTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Girentuximab (chimeric mab)	24675	Chimeric	Chimeric
+GIRENTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	Girentuximab (chimeric mab)	24669	Chimeric	Chimeric
+SOLANEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Solanezumab (humanized mab)	24478	Humanized	Humanized
+SOLANEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Solanezumab (humanized mab)	24479	Humanized	Humanized
+SIRUKUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Sirukumab (human mab)	24751	Homo sapiens	Homo sapiens
+SIRUKUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Sirukumab (human mab)	24752	Homo sapiens	Homo sapiens
+LIGELIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Ligelizumab (humanized mab)	24888	Humanized	Humanized
+LIGELIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Ligelizumab (humanized mab)	24887	Humanized	Humanized
+LARAZOTIDE ACETATE	protein	-tide	peptides: zonulin antagonists	-tide (-zotide)	NA	LARAZOTIDE ACETATE	24784	Peptide	NA
+PEXIGANAN	protein	-ganan	antimicrobial, bactericidal permeability increasing polypeptide	-ganan	NA	PEXIGANAN	24521	Uncategorized	NA
+AVIPTADIL	protein	-dil	vasodilators (undefined group)	-dil	NA	NA	26087	Uncategorized	NA
+OMIGANAN	protein	-ganan	antimicrobial, bactericidal permeability increasing polypeptide	-ganan	NA	OMIGANAN	24677	Uncategorized	NA
+BIMAGRUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Bimagrumab (human mab)	24817	Homo sapiens	Homo sapiens
+BIMAGRUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Bimagrumab (human mab)	24816	Homo sapiens	Homo sapiens
+BRIAKINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Briakinumab (human mab)	24471	Homo sapiens	Homo sapiens
+BRIAKINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Briakinumab (human mab)	24472	Homo sapiens	Homo sapiens
+ISEGANAN	protein	-ganan	antimicrobial, bactericidal permeability increasing polypeptide	-ganan	NA	ISEGANAN	24602	Uncategorized	NA
+CARPERITIDE	protein	-tide	peptides: atrial natriuretic type substances	-tide (-ritide)	NA	CARPERITIDE	24444	Peptide	NA
+ULARITIDE	protein	-tide	peptides: atrial natriuretic type substances	-tide (-ritide)	NA	ULARITIDE	24427	Peptide	NA
+VALSPODAR	protein	-dar	multidrug resistance inhibitors: ciclosporin D derivatives	-dar (-spodar)	NA	VALSPODAR	24367	Uncategorized	NA
+THYMALFASIN	protein	NA	NA	NA	NA	THYMALFASIN	24432	Uncategorized	NA
+CILENGITIDE	protein	-tide	peptides	-tide	NA	CILENGITIDE	24469	Peptide	NA
+IBRITUMOMAB TIUXETAN	protein	-mab; -xetan	monoclonal antibodies; chelating agents	-mab; -xetan	Mus musculus	Immunoglobulin G1, anti-(human CD20 (antigen)) (mouse monoclonal IDEC­Y2B8 71-chain), disulfide with mouse monoclonal IDEC-Y2B8 x-chain, dimer, iV-[2-[bis(carboxymethyl)amino]-3-(4-isothiocyanatophenyl) propyl]­iV-[2-[bis(carboxymethyl) amino]propyl]glycine conjugate	26197	Mus musculus	Mus musculus
+IBRITUMOMAB TIUXETAN	protein	-mab; -xetan	monoclonal antibodies; chelating agents	-mab; -xetan	Mus musculus	Immunoglobulin G1, anti-(human CD20 (antigen)) (mouse monoclonal IDEC­Y2B8 71-chain), disulfide with mouse monoclonal IDEC-Y2B8 x-chain, dimer, iV-[2-[bis(carboxymethyl)amino]-3-(4-isothiocyanatophenyl) propyl]­iV-[2-[bis(carboxymethyl) amino]propyl]glycine conjugate	26196	Mus musculus	Mus musculus
+ATACICEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified	-cept	NA	Atacicept (immunoadhesin)	25538	Homo sapiens	Homo sapiens
+CRENEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Crenezumab (humanized mab)	24512	Humanized	Humanized
+CRENEZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Crenezumab (humanized mab)	24513	Humanized	Humanized
+EFUNGUMAB	protein	ef-; -mab	Fc fusion protein; monoclonal antibodies: fully human	ef-; -mab (-umab)	Homo sapiens	Efungumab (human scFv)	24473	Homo sapiens	Homo sapiens
+FIGITUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Figitumumab (human mab)	24389	Homo sapiens	Homo sapiens
+FIGITUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Figitumumab (human mab)	24390	Homo sapiens	Homo sapiens
+FULRANUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Fulranumab (human mab)	24959	Homo sapiens	Homo sapiens
+FULRANUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Fulranumab (human mab)	24415	Homo sapiens	Homo sapiens
+GANITUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Ganitumab (human mab)	24651	Homo sapiens	Homo sapiens
+GANITUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Ganitumab (human mab)	24652	Homo sapiens	Homo sapiens
+GEVOKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Gevokizumab (humanized mab)	24493	Humanized	Humanized
+GEVOKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Gevokizumab (humanized mab)	24494	Humanized	Humanized
+OLOKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Olokizumab (humanized mab)	24615	Humanized	Humanized
+OLOKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Olokizumab (humanized mab)	24616	Humanized	Humanized
+ONARTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Onartuzumab (humanized mab)	24502	Humanized	Humanized
+ONARTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Onartuzumab (humanized mab)	24501	Humanized	Humanized
+ONARTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Onartuzumab (humanized mab)	24500	Humanized	Humanized
+OPORTUZUMAB MONATOX	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Oportuzumab monatox (humanized scFv)	26688	Humanized	Humanized
+RILOTUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Rilotumumab (human mab)	24395	Homo sapiens	Homo sapiens
+RILOTUMUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Rilotumumab (human mab)	24396	Homo sapiens	Homo sapiens
+TABALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Tabalumab (human mab)	24511	Homo sapiens	Homo sapiens
+TABALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	Tabalumab (human mab)	25137	Homo sapiens	Homo sapiens
+BLISIBIMOD	protein	-imod	immunomodulators	-imod	NA	Blisibimod (mab)	24797	Homo sapiens	Homo sapiens
+TADEKINIG ALFA	protein	NA	NA	NA	NA	NA	24551	Uncategorized	NA
+CEPEGINTERFERON ALFA-2B	protein	-peg-	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-peg-	NA	NA	26379	Homo sapiens	Homo sapiens
+CORTICORELIN	protein	-relin	prehormones or hormone-release stimulating peptides	-relin	NA	NA	24439	Uncategorized	NA
+METENKEFALIN	protein	-kef-	enkephalin agonists (various indications)	-kef-	NA	NA	24628	Uncategorized	NA
+TERTOMOTIDE	protein	-tide	peptides	-tide	NA	NA	24657	Peptide	NA
+OZARELIX	protein	-relix	hormone-release inhibiting peptides	-relix	NA	NA	24661	Uncategorized	NA
+CONBERCEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: vascular endothelial growth factor (VEGF) receptors	-cept (-bercept)	NA	Conbercept (mab)	24662	Homo sapiens	Homo sapiens
+NEPIDERMIN	protein	-ermin	growth factors: epidermal growth factors	-ermin (-dermin)	NA	NA	24663	Uncategorized	NA
+VATREPTACOG ALFA (ACTIVATED)	protein	NA	NA	NA	NA	NA	24679	Uncategorized	NA
+VATREPTACOG ALFA (ACTIVATED)	protein	NA	NA	NA	NA	NA	24678	Uncategorized	NA
+TRIDECACTIDE	protein	-tide	peptides: synthetic corticotropins	-tide (-actide)	NA	NA	24722	Peptide	NA
+SERELAXIN	protein	NA	NA	NA	NA	NA	24747	Uncategorized	NA
+SERELAXIN	protein	NA	NA	NA	NA	NA	24746	Uncategorized	NA
+EPAFIPASE	protein	-ase	enzymes	-ase	NA	NA	24450	Uncategorized	NA
+RANPIRNASE	protein	-ase	enzymes	-ase	NA	NA	24460	Uncategorized	NA
+TREBANANIB	protein	-anib	angiogenesis inhibitors	-anib	NA	Trebananib (mab)	24783	Homo sapiens	Homo sapiens
+CINTREDEKIN BESUDOTOX	protein	-kin	interleukins	-kin	NA	NA	24765	Uncategorized	NA
+TALACTOFERRIN ALFA	protein	NA	NA	NA	NA	NA	24771	Uncategorized	NA
+THROMBOMODULIN ALFA	protein	NA	NA	NA	Homo sapiens	Thrombomodulin alfa	24772	Uncategorized	NA
+YTTRIUM Y 90 CLIVATUZUMAB TETRAXETAN	protein	-mab; -mab; -xetan	monoclonal antibodies: fully human; monoclonal antibodies: humanized; chelating agents	-mab (-umab); -mab (-zumab); -xetan	NA	NA	24949	Uncategorized	NA
+YTTRIUM Y 90 CLIVATUZUMAB TETRAXETAN	protein	-mab; -mab; -xetan	monoclonal antibodies: fully human; monoclonal antibodies: humanized; chelating agents	-mab (-umab); -mab (-zumab); -xetan	NA	NA	24948	Uncategorized	NA
+IODINE I 124 GIRENTUXIMAB	protein	io-; -mab	iodine-containing contrast media; monoclonal antibodies: chimeric	io-; -mab (-ximab)	NA	NA	24675	Uncategorized	NA
+IODINE I 124 GIRENTUXIMAB	protein	io-; -mab	iodine-containing contrast media; monoclonal antibodies: chimeric	io-; -mab (-ximab)	NA	NA	24669	Uncategorized	NA
+TIFACOGIN	protein	NA	NA	NA	NA	NA	24519	Uncategorized	NA
+AVOTERMIN	protein	-ermin; -ermin	growth factors: bone morphogenetic proteins; growth factors: transforming growth factors	-ermin (-otermin); -ermin (-termin)	NA	NA	24523	Uncategorized	NA
+ALFIMEPRASE	protein	-ase	enzymes	-ase	NA	NA	24526	Uncategorized	NA
+CAROTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	TRC-105 (chimeric mab)	25152	Chimeric	Chimeric
+CAROTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	TRC-105 (chimeric mab)	25153	Chimeric	Chimeric
+LERONLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	PRO-140 (humanized mab)	25377	Humanized	Humanized
+LERONLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	PRO-140 (humanized mab)	25375	Humanized	Humanized
+PAMREVLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	FG-3019 (mab)	25087	Homo sapiens	Homo sapiens
+PAMREVLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	FG-3019 (mab)	25086	Homo sapiens	Homo sapiens
+OTILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	MOR-103 (human mab)	25316	Homo sapiens	Homo sapiens
+OTILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	MOR-103 (human mab)	25315	Homo sapiens	Homo sapiens
+INCLACUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Inclacumab (human mab)	26612	Homo sapiens	Homo sapiens
+INCLACUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Inclacumab (human mab)	26611	Homo sapiens	Homo sapiens
+FASINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Fasinumab (human mab)	26606	Homo sapiens	Homo sapiens
+FASINUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	Homo sapiens	Fasinumab (human mab)	26605	Homo sapiens	Homo sapiens
+VILOBELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	CaCP29 (mab)	25868	Chimeric	Chimeric
+VILOBELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	CaCP29 (mab)	25869	Chimeric	Chimeric
+BERMEKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	RA-18C3 (mab)	25283	Humanized	Humanized
+BERMEKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	RA-18C3 (mab)	25282	Humanized	Humanized
+DALANTERCEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: transforming growth factor receptors	-cept (-tercept)	NA	Delantercept (mab)	26544	Homo sapiens	Homo sapiens
+TOPSALYSIN	protein	-sal-	anti-inflammatory agents (salicylic acid derivatives)	-sal-	NA	Pore-forming protein (synthetic proaerolysin) fusion protein with prostate-specific antigen (human)	24798	Aeromonas hydrophila	Aeromonas hydrophila
+TRENONACOG ALFA	protein	NA	NA	NA	NA	Trenonacog alfa	24852	Uncategorized	NA
+TECEMOTIDE	protein	-tide	peptides	-tide	NA	Tecemotide	24861	Peptide	NA
+PEGARGIMINASE	protein	-ase; peg-	enzymes; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-ase; peg-	NA	Pegargiminase (pegylated arginine deiminase)	24899	Uncategorized	NA
+BOCOCIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Bococizumab (humanized mab)	24806	Humanized	Humanized
+BOCOCIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	Bococizumab (humanized mab)	24805	Humanized	Humanized
+VONAPANITASE	protein	-ase	enzymes	-ase	NA	NA	24925	Uncategorized	NA
+ISUNAKINRA	protein	-kinra	interleukin receptor antagonists: interleukin-1 (IL-1) receptor antagonists	-kinra (-nakinra)	NA	NA	24926	Uncategorized	NA
+EMACTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	24872	Humanized	Humanized
+EMACTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	24871	Humanized	Humanized
+DEPATUXIZUMAB MAFODOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	NA	25789	Chimeric Humanized	Chimeric Humanized
+DEPATUXIZUMAB MAFODOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	NA	24964	Chimeric Humanized	Chimeric Humanized
+ADAGLOXAD SIMOLENIN	protein	NA	NA	NA	NA	NA	24997	Uncategorized	NA
+ADAGLOXAD SIMOLENIN	protein	NA	NA	NA	NA	NA	24999	Uncategorized	NA
+REVEGLUCOSIDASE ALFA	protein	-ase	enzymes	-ase	NA	NA	24977	Uncategorized	NA
+SOMAVARATAN	protein	som-	growth hormone derivatives	som-	NA	NA	24996	Uncategorized	NA
+UTOMILUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	24932	Homo sapiens	Homo sapiens
+UTOMILUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	24933	Homo sapiens	Homo sapiens
+LENZILUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	24935	Homo sapiens	Homo sapiens
+LENZILUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	24934	Homo sapiens	Homo sapiens
+SUPTAVUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	24984	Homo sapiens	Homo sapiens
+SUPTAVUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	24983	Homo sapiens	Homo sapiens
+LITIFILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26527	Humanized	Humanized
+LITIFILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26526	Humanized	Humanized
+BIRTAMIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25186	Chimeric Humanized	Chimeric Humanized
+BIRTAMIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25185	Chimeric Humanized	Chimeric Humanized
+BRAZIKUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25014	Homo sapiens	Homo sapiens
+BRAZIKUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25013	Homo sapiens	Homo sapiens
+ANDECALIXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	25176	Chimeric	Chimeric
+ANDECALIXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	25175	Chimeric	Chimeric
+GALINPEPIMUT-S	protein	NA	NA	NA	NA	NA	27010	Uncategorized	NA
+GALINPEPIMUT-S	protein	NA	NA	NA	NA	NA	27471	Uncategorized	NA
+GALINPEPIMUT-S	protein	NA	NA	NA	NA	NA	26904	Uncategorized	NA
+GALINPEPIMUT-S	protein	NA	NA	NA	NA	NA	25021	Uncategorized	NA
+FORIGERIMOD ACETATE	protein	-imod	immunomodulators	-imod	NA	NA	24781	Uncategorized	NA
+NAVICIXIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25066	Chimeric Humanized	Chimeric Humanized
+NAVICIXIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25068	Chimeric Humanized	Chimeric Humanized
+NAVICIXIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25065	Chimeric Humanized	Chimeric Humanized
+NAVICIXIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25067	Chimeric Humanized	Chimeric Humanized
+MODOTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	25062	Chimeric	Chimeric
+MODOTUXIMAB	protein	-mab	monoclonal antibodies: chimeric	-mab (-ximab)	NA	NA	25061	Chimeric	Chimeric
+PEGILODECAKIN	protein	-kin; peg-	interleukins: interleukin-10 analogues and derivatives; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-kin (-decakin); peg-	NA	NA	25093	Uncategorized	NA
+SUVRATOXUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25126	Homo sapiens	Homo sapiens
+SUVRATOXUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25125	Homo sapiens	Homo sapiens
+ROVALPITUZUMAB TESIRINE	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25121	Humanized	Humanized
+ROVALPITUZUMAB TESIRINE	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25120	Humanized	Humanized
+NIVOBOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	25768	Uncategorized	NA
+NIVOBOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	27824	Uncategorized	NA
+NIVOBOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	26676	Uncategorized	NA
+NIVOBOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	26677	Uncategorized	NA
+NIVOBOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	26674	Uncategorized	NA
+NIVOBOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	27823	Uncategorized	NA
+NIVOBOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	26673	Uncategorized	NA
+OLECLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25078	Homo sapiens	Homo sapiens
+OLECLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25079	Homo sapiens	Homo sapiens
+ROSMANTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25114	Humanized	Humanized
+ROSMANTUZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25113	Humanized	Humanized
+TELISOTUZUMAB VEDOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	NA	25129	Humanized	Humanized
+TELISOTUZUMAB VEDOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	NA	25128	Humanized	Humanized
+EDOTREOTIDE	protein	-tide	peptides: inhibition of growth hormone release	-tide (-reotide)	NA	NA	24366	Peptide	NA
+PENPULIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26090	Chimeric Humanized	Chimeric Humanized
+PENPULIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26581	Chimeric Humanized	Chimeric Humanized
+TOMINERSEN	protein	-rsen	antisense oligonucleotides: neurologic indications	-rsen (-nersen)	NA	NA	25868	Uncategorized	NA
+TOMINERSEN	protein	-rsen	antisense oligonucleotides: neurologic indications	-rsen (-nersen)	NA	NA	25869	Uncategorized	NA
+ABICIPAR PEGOL	protein	peg-	PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	peg-	NA	NA	25491	synthetic construct	synthetic construct
+IZOKIBEP	protein	-bep	bioengineered proteins	-bep	NA	NA	26469	synthetic construct	synthetic construct
+NOGAPENDEKIN ALFA	protein	-kin	interleukins	-kin	NA	NA	25902	Homo sapiens	Homo sapiens
+BULEVIRTIDE	protein	-tide; -vir-	peptides: antiviral peptides; antivirals	-tide (-virtide); -vir-	NA	NA	26088	Uncategorized	NA
+ZILTIVEKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26723	Homo sapiens Humanized	Homo sapiens Humanized
+ZILTIVEKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26721	Homo sapiens Humanized	Homo sapiens Humanized
+GLEPAGLUTIDE	protein	-tide	peptides: glucagon-like peptide (GLP) analogs	-tide (-glutide)	NA	NA	25230	GLP analogs	NA
+CLESROVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26514	Homo sapiens	Homo sapiens
+CLESROVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26091	Homo sapiens	Homo sapiens
+VIBOSTOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26061	Humanized	Humanized
+VIBOSTOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26060	Humanized	Humanized
+PEGTIBATINASE	protein	-ase; peg-	enzymes; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-ase; peg-	NA	NA	26580	Uncategorized	NA
+ZINPENTRAXIN ALFA	protein	NA	NA	NA	NA	NA	25945	Homo sapiens	Homo sapiens
+SINTILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26246	Homo sapiens	Homo sapiens
+SINTILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26245	Homo sapiens	Homo sapiens
+SPARTALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25426	Humanized	Humanized
+SPARTALIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	25425	Humanized	Humanized
+SEMZUVOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26425	Chimeric	Chimeric
+SEMZUVOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26426	Chimeric	Chimeric
+ZIMBERELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26324	Homo sapiens	Homo sapiens
+ZIMBERELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26326	Homo sapiens	Homo sapiens
+CENDAKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25712	Humanized	Humanized
+CENDAKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25713	Humanized	Humanized
+BALSTILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25557	Homo sapiens	Homo sapiens
+BALSTILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25476	Homo sapiens	Homo sapiens
+LIRENTELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26300	Humanized	Humanized
+LIRENTELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26301	Humanized	Humanized
+TALDEFGROBEP ALFA	protein	-bep	bioengineered proteins	-bep	NA	NA	26924	Homo sapiens	Homo sapiens
+EXEBACASE	protein	-ase	enzymes	-ase	NA	NA	27454	Uncategorized	NA
+NOMACOPAN	protein	-copan	complement receptor antagonists/complement inhibitors	-copan	NA	NA	25308	Uncategorized	NA
+AVEXITIDE	protein	-tide	peptides	-tide	NA	NA	25555	Peptide	NA
+FELADILIMAB	protein	-dil-; -mab	vasodilators (undefined group); monoclonal antibodies	-dil-; -mab	NA	NA	26227	Humanized	Humanized
+FELADILIMAB	protein	-dil-; -mab	vasodilators (undefined group); monoclonal antibodies	-dil-; -mab	NA	NA	26225	Humanized	Humanized
+MAGROLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25783	Chimeric Humanized	Chimeric Humanized
+MAGROLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25784	Chimeric Humanized	Chimeric Humanized
+IODINE I 131 APAMISTAMAB	protein	io-; -mab	iodine-containing contrast media; monoclonal antibodies	io-; -mab	NA	NA	25778	Uncategorized	NA
+IODINE I 131 APAMISTAMAB	protein	io-; -mab	iodine-containing contrast media; monoclonal antibodies	io-; -mab	NA	NA	25777	Uncategorized	NA
+CETRELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25285	Homo sapiens	Homo sapiens
+CETRELIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25284	Homo sapiens	Homo sapiens
+BINTRAFUSP ALFA	protein	-fusp	fusion proteins	-fusp	NA	NA	26069	Homo sapiens	Homo sapiens
+BINTRAFUSP ALFA	protein	-fusp	fusion proteins	-fusp	NA	NA	26071	Homo sapiens	Homo sapiens
+TIRAGOLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25439	Homo sapiens	Homo sapiens
+TIRAGOLUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	25437	Homo sapiens	Homo sapiens
+BEMPEGALDESLEUKIN	protein	-kin; -peg-	interleukins: interleukin-2 analogues and derivatives; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-kin (-leukin); -peg-	NA	NA	25721	Homo sapiens	Homo sapiens
+ODRONEXTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25403	Homo sapiens	Homo sapiens
+ODRONEXTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25404	Homo sapiens	Homo sapiens
+ODRONEXTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25400	Homo sapiens	Homo sapiens
+FIANLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25358	Homo sapiens	Homo sapiens
+FIANLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25357	Homo sapiens	Homo sapiens
+TUSAMITAMAB RAVTANSINE	protein	-mab; -tansine	monoclonal antibodies; maytansinoid derivatives	-mab; -tansine	NA	NA	25871	Chimeric	Chimeric
+TUSAMITAMAB RAVTANSINE	protein	-mab; -tansine	monoclonal antibodies; maytansinoid derivatives	-mab; -tansine	NA	NA	25806	Chimeric	Chimeric
+GARETOSMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27816	Humanized	Humanized
+GARETOSMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25363	Humanized	Humanized
+TRASTUZUMAB DUOCARMAZINE	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	27422	Humanized	Humanized
+TRASTUZUMAB DUOCARMAZINE	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26835	Humanized	Humanized
+SASANLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26866	Humanized	Humanized
+SASANLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25423	Humanized	Humanized
+NARSOPLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25390	Homo sapiens	Homo sapiens
+NARSOPLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25387	Homo sapiens	Homo sapiens
+NIPOCALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25900	Homo sapiens	Homo sapiens
+NIPOCALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25901	Homo sapiens	Homo sapiens
+TIMBETASIN ACETATE	protein	NA	NA	NA	NA	NA	25999	Uncategorized	NA
+RELABOTULINUMTOXINA	protein	NA	NA	NA	NA	NA	25913	Uncategorized	NA
+APITEGROMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25551	Homo sapiens	Homo sapiens
+APITEGROMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25469	Homo sapiens	Homo sapiens
+BENTRACIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25622	Homo sapiens	Homo sapiens
+BENTRACIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25479	Homo sapiens	Homo sapiens
+DAZODALIBEP	protein	-bep	bioengineered proteins	-bep	NA	NA	25762	synthetic construct	synthetic construct
+IANALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	26099	Homo sapiens	Homo sapiens
+IANALUMAB	protein	-mab	monoclonal antibodies: fully human	-mab (-umab)	NA	NA	26096	Homo sapiens	Homo sapiens
+ASTEGOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25709	Homo sapiens	Homo sapiens
+ASTEGOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25710	Homo sapiens	Homo sapiens
+TANFANERCEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: tumor necrosis factor receptors	-cept (-nercept)	NA	NA	25792	Homo sapiens	Homo sapiens
+EFRUXIFERMIN	protein	ef-; -ermin	Fc fusion protein; growth factors: fibroblast growth factors	ef-; -ermin (-fermin)	NA	NA	27317	Homo sapiens	Homo sapiens
+CADONILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26090	Chimeric Humanized	Chimeric Humanized
+CADONILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26513	Chimeric Humanized	Chimeric Humanized
+BATIRAXCEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified	-cept	NA	NA	25565	Homo sapiens	Homo sapiens
+SURZEBICLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25795	Homo sapiens Humanized	Homo sapiens Humanized
+SURZEBICLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25794	Homo sapiens Humanized	Homo sapiens Humanized
+PEGOZAFERMIN	protein	-ermin; peg-	growth factors: fibroblast growth factors; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer	-ermin (-fermin); peg-	NA	NA	25587	Homo sapiens	Homo sapiens
+LUTIKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	27719	Humanized	Humanized
+LUTIKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	26584	Humanized	Humanized
+LUTIKIZUMAB	protein	-mab; -mab	monoclonal antibodies: fully human; monoclonal antibodies: humanized	-mab (-umab); -mab (-zumab)	NA	NA	27778	Humanized	Humanized
+TRENIBOTULINUMTOXINE	protein	NA	NA	NA	NA	NA	25804	Uncategorized	NA
+SABATOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26244	Humanized	Humanized
+SABATOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26242	Humanized	Humanized
+ITEPEKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26296	Homo sapiens Humanized	Homo sapiens Humanized
+ITEPEKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26293	Homo sapiens Humanized	Homo sapiens Humanized
+PATRITUMAB DERUXTECAN	protein	-mab; -tecan	monoclonal antibodies: fully human; antineoplastics (camptothecin derivatives)	-mab (-umab); -tecan	NA	NA	26754	Homo sapiens	Homo sapiens
+PATRITUMAB DERUXTECAN	protein	-mab; -tecan	monoclonal antibodies: fully human; antineoplastics (camptothecin derivatives)	-mab (-umab); -tecan	NA	NA	26755	Homo sapiens	Homo sapiens
+CASIRIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26141	Homo sapiens	Homo sapiens
+CASIRIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26072	Homo sapiens	Homo sapiens
+IMDEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26233	Homo sapiens	Homo sapiens
+IMDEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26232	Homo sapiens	Homo sapiens
+CILGAVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26147	Homo sapiens	Homo sapiens
+CILGAVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26145	Homo sapiens	Homo sapiens
+TIXAGEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26452	Homo sapiens	Homo sapiens
+TIXAGEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26450	Homo sapiens	Homo sapiens
+BAMLANIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25690	Homo sapiens	Homo sapiens
+BAMLANIVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25688	Homo sapiens	Homo sapiens
+AMUBARVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25513	Homo sapiens	Homo sapiens
+AMUBARVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25511	Homo sapiens	Homo sapiens
+ROMLUSEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25723	Homo sapiens	Homo sapiens
+ROMLUSEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25726	Homo sapiens	Homo sapiens
+DOMVANALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27300	Humanized	Humanized
+DOMVANALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26013	Humanized	Humanized
+OCIPERLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25525	Humanized	Humanized
+OCIPERLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25523	Humanized	Humanized
+QUAVONLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25652	Humanized	Humanized
+QUAVONLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25649	Humanized	Humanized
+BOTENSILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27147	Homo sapiens	Homo sapiens
+BOTENSILIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27103	Homo sapiens	Homo sapiens
+LATOZINEMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26519	Homo sapiens	Homo sapiens
+LATOZINEMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26516	Homo sapiens	Homo sapiens
+IMSIDOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26292	Chimeric Humanized	Chimeric Humanized
+IMSIDOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26236	Chimeric Humanized	Chimeric Humanized
+DEPEMOKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26567	Humanized	Humanized
+DEPEMOKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26565	Humanized	Humanized
+EFPEGLENATIDE	protein	ef-; -peg-; -tide	Fc fusion protein; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; peptides: exendin-4-derivatives	ef-; -peg-; -tide (-enatide)	NA	NA	26217	Heloderma suspectum	Heloderma suspectum
+EFPEGLENATIDE	protein	ef-; -peg-; -tide	Fc fusion protein; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer; peptides: exendin-4-derivatives	ef-; -peg-; -tide (-enatide)	NA	NA	27525	Heloderma suspectum	Heloderma suspectum
+ETESEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26224	Homo sapiens	Homo sapiens
+ETESEVIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26223	Homo sapiens	Homo sapiens
+TOZORAKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25801	Homo sapiens Humanized	Homo sapiens Humanized
+TOZORAKIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26990	Homo sapiens Humanized	Homo sapiens Humanized
+BATOCLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25691-27671	Homo sapiens	Homo sapiens
+BATOCLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25692	Homo sapiens	Homo sapiens
+LEMZOPARLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26521	Homo sapiens Humanized	Homo sapiens Humanized
+LEMZOPARLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26520	Homo sapiens Humanized	Homo sapiens Humanized
+CAGRILINTIDE	protein	-tide	peptides: amylin derivatives or mimics	-tide (-lintide)	NA	NA	27108	Peptide	NA
+BELZUPACAP SAROTALOCAN	protein	-cap	viral capsids: papillomavirus	-cap (-pacap)	NA	NA	25621	Uncategorized	NA
+BELZUPACAP SAROTALOCAN	protein	-cap	viral capsids: papillomavirus	-cap (-pacap)	NA	NA	25619	Uncategorized	NA
+MUPADOLIMAB	protein	-adol-; -mab	analgesics (mixed opiate receptor agonists/antagonists); monoclonal antibodies	-adol-; -mab	NA	NA	26174	Humanized	Humanized
+MUPADOLIMAB	protein	-adol-; -mab	analgesics (mixed opiate receptor agonists/antagonists); monoclonal antibodies	-adol-; -mab	NA	NA	26173	Humanized	Humanized
+BELRESTOTUG	protein	NA	NA	NA	NA	NA	25571	Homo sapiens	Homo sapiens
+BELRESTOTUG	protein	NA	NA	NA	NA	NA	25570	Homo sapiens	Homo sapiens
+SOCAZOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25738	Homo sapiens Humanized	Homo sapiens Humanized
+SOCAZOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25739	Homo sapiens Humanized	Homo sapiens Humanized
+ECNOGLUTIDE	protein	-tide	peptides: glucagon-like peptide (GLP) analogs	-tide (-glutide)	NA	NA	26032	GLP analogs	NA
+FREXALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26118	Chimeric	Chimeric
+FREXALIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26116	Chimeric	Chimeric
+SOZINIBERCEPT	protein	-cept	receptor molecules or membrane ligands, natural, modified or modified: vascular endothelial growth factor (VEGF) receptors	-cept (-bercept)	NA	NA	26428	Homo sapiens	Homo sapiens
+TARCOCIMAB TEDROMER	protein	-mab; -mer	monoclonal antibodies; polymers	-mab; -mer	NA	NA	26931	Humanized	Humanized
+TARCOCIMAB TEDROMER	protein	-mab; -mer	monoclonal antibodies; polymers	-mab; -mer	NA	NA	26930	Humanized	Humanized
+BARZOLVOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25563	Chimeric	Chimeric
+BARZOLVOLIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	25562	Chimeric	Chimeric
+DISITAMAB VEDOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies	-dotin; -mab	NA	NA	27755	Humanized	Humanized
+DISITAMAB VEDOTIN	protein	-dotin; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies	-dotin; -mab	NA	NA	27752	Humanized	Humanized
+GEFURULIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27530	Chimeric	Chimeric
+IFINATAMAB DERUXTECAN	protein	-mab; -tecan	monoclonal antibodies; antineoplastics (camptothecin derivatives)	-mab; -tecan	NA	NA	26184	Humanized	Humanized
+IFINATAMAB DERUXTECAN	protein	-mab; -tecan	monoclonal antibodies; antineoplastics (camptothecin derivatives)	-mab; -tecan	NA	NA	26182	Humanized	Humanized
+MAZDUTIDE	protein	-tide	peptides: oxyntomodulin analogs	-tide (-dutide)	NA	NA	26585	Peptide	NA
+VOLRUSTOMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	27139	Homo sapiens Humanized	Homo sapiens Humanized
+VOLRUSTOMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	27736	Homo sapiens Humanized	Homo sapiens Humanized
+VOLRUSTOMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	27735	Homo sapiens Humanized	Homo sapiens Humanized
+VOLRUSTOMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	25881	Homo sapiens Humanized	Homo sapiens Humanized
+LINVOSELTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27706	Homo sapiens	Homo sapiens
+LINVOSELTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27005	Homo sapiens	Homo sapiens
+LINVOSELTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27707	Homo sapiens	Homo sapiens
+IZALONTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26744	Chimeric Humanized	Chimeric Humanized
+IZALONTAMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26257	Chimeric Humanized	Chimeric Humanized
+REMTERNETUG	protein	NA	NA	NA	NA	NA	25658	Homo sapiens	Homo sapiens
+REMTERNETUG	protein	NA	NA	NA	NA	NA	25656	Homo sapiens	Homo sapiens
+RETATRUTIDE	protein	-tide	peptides	-tide	NA	NA	25659	Peptide	NA
+TARCOCIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26931	Humanized	Humanized
+TARCOCIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	26930	Humanized	Humanized
+FRENESLERBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26652	Homo sapiens	Homo sapiens
+FRENESLERBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27797	Homo sapiens	Homo sapiens
+MEVONLERBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26907	Homo sapiens	Homo sapiens
+MEVONLERBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26905	Homo sapiens	Homo sapiens
+RILVEGOSTOMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	27736	Homo sapiens Humanized	Homo sapiens Humanized
+RILVEGOSTOMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	27735	Homo sapiens Humanized	Homo sapiens Humanized
+RILVEGOSTOMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	27647	Homo sapiens Humanized	Homo sapiens Humanized
+RILVEGOSTOMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	27648	Homo sapiens Humanized	Homo sapiens Humanized
+BRENETAFUSP	protein	-fusp	fusion proteins	-fusp	NA	NA	27189	Humanized	Humanized
+BRENETAFUSP	protein	-fusp	fusion proteins	-fusp	NA	NA	27191	Humanized	Humanized
+ERSODETUG	protein	NA	NA	NA	NA	NA	27689	Homo sapiens Humanized	Homo sapiens Humanized
+ERSODETUG	protein	NA	NA	NA	NA	NA	27687	Homo sapiens Humanized	Homo sapiens Humanized
+SURVODUTIDE	protein	-tide	peptides: oxyntomodulin analogs	-tide (-dutide)	NA	NA	26709	Peptide	NA
+SURVODUTIDE	protein	-tide	peptides: oxyntomodulin analogs	-tide (-dutide)	NA	NA	26707	Peptide	NA
+SURVODUTIDE	protein	-tide	peptides: oxyntomodulin analogs	-tide (-dutide)	NA	NA	26706	Peptide	NA
+SACITUZUMAB TIRUMOTECAN	protein	-mab; -mab; -tecan	monoclonal antibodies: fully human; monoclonal antibodies: humanized; antineoplastics (camptothecin derivatives)	-mab (-umab); -mab (-zumab); -tecan	NA	NA	27743	Humanized	Humanized
+SACITUZUMAB TIRUMOTECAN	protein	-mab; -mab; -tecan	monoclonal antibodies: fully human; monoclonal antibodies: humanized; antineoplastics (camptothecin derivatives)	-mab (-umab); -mab (-zumab); -tecan	NA	NA	27742	Humanized	Humanized
+SIGVOTATUG VEDOTIN	protein	-dotin	synthetic analogs of the dolastatin series	-dotin	NA	NA	27828	Humanized	Humanized
+SIGVOTATUG VEDOTIN	protein	-dotin	synthetic analogs of the dolastatin series	-dotin	NA	NA	27827	Humanized	Humanized
+ETENTAMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	27560	Homo sapiens Humanized	Homo sapiens Humanized
+ETENTAMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	25444	Homo sapiens Humanized	Homo sapiens Humanized
+ETENTAMIG	protein	-mig	monoclonal antibody, multiple immunoglobulin	-mig	NA	NA	26541	Homo sapiens Humanized	Homo sapiens Humanized
+GOTISTOBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26664	Humanized	Humanized
+GOTISTOBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26662	Humanized	Humanized
+NARLUMOSBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26959	Homo sapiens	Homo sapiens
+NARLUMOSBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26957	Homo sapiens	Homo sapiens
+ANSELAMIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27663	Chimeric	Chimeric
+ANSELAMIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27660	Chimeric	Chimeric
+VAMIKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26945	Chimeric Humanized	Chimeric Humanized
+VAMIKIBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	26943	Chimeric Humanized	Chimeric Humanized
+TRASTUZUMAB VEDOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	NA	27422	Humanized	Humanized
+TRASTUZUMAB VEDOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	NA	26838	Humanized	Humanized
+RILIPRUBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27640	Chimeric	Chimeric
+RILIPRUBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27564	Chimeric	Chimeric
+ENLONSTOBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27684	Homo sapiens	Homo sapiens
+ENLONSTOBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27611	Homo sapiens	Homo sapiens
+BENMELSTOBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27101	Humanized	Humanized
+BENMELSTOBART	protein	-bart	monoclonal antibody, engineered or artificial immunoglobulins	-bart	NA	NA	27099	Humanized	Humanized
+GIMISTOTUG	protein	NA	NA	NA	NA	NA	25205	Humanized	Humanized
+GIMISTOTUG	protein	NA	NA	NA	NA	NA	25204	Humanized	Humanized
+SILTARTOXATUG	protein	NA	NA	NA	NA	NA	26270	Homo sapiens	Homo sapiens
+SILTARTOXATUG	protein	NA	NA	NA	NA	NA	26269	Homo sapiens	Homo sapiens
+TRASTUZUMAB ENVEDOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	NA	27420	Humanized	Humanized
+TRASTUZUMAB ENVEDOTIN	protein	-dotin; -mab; -mab	synthetic analogs of the dolastatin series; monoclonal antibodies: fully human; monoclonal antibodies: humanized	-dotin; -mab (-umab); -mab (-zumab)	NA	NA	27418	Humanized	Humanized
+BECOTATUG VEDOTIN	protein	-dotin	synthetic analogs of the dolastatin series	-dotin	NA	NA	25064	Humanized	Humanized
+BECOTATUG VEDOTIN	protein	-dotin	synthetic analogs of the dolastatin series	-dotin	NA	NA	25042	Humanized	Humanized
+IVONESCIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27771	Chimeric Humanized	Chimeric Humanized
+IVONESCIMAB	protein	-mab	monoclonal antibodies	-mab	NA	NA	27769	Chimeric Humanized	Chimeric Humanized

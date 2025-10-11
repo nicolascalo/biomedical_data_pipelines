@@ -1,0 +1,1664 @@
+INN	Species
+abagovomab	Mus musculus
+abatacept	Homo sapiens
+abazistobart	Chimeric Humanized
+abciximab	Chimeric
+abdakibart	Humanized
+abelacimab	Homo sapiens
+abicipar pegol	synthetic construct
+abiprubart	Humanized
+abituzumab	Humanized
+abrezekimab	Humanized
+abrilumab	Homo sapiens
+acapatamab	Chimeric Humanized
+acasunlimab	Homo sapiens Humanized
+acazicolcept	Homo sapiens
+acimtamig	Homo sapiens Chimeric
+acinterferon alfa	Homo sapiens
+acmucabtagene autoleucel	Chimeric
+acrixolimab	Homo sapiens
+actinium (225Ac) alpitatug satetraxetan	Humanized
+actinium (225Ac) lintuzumab satetraxetan	Humanized
+actinium (225Ac) pelgifatamab mopaxetan	Homo sapiens
+actoxumab	Homo sapiens
+adakitug	Homo sapiens
+adalimumab	Homo sapiens
+adalimumab beta	Homo sapiens
+adalimumab fosimdesonide	Homo sapiens
+adebrelimab	Chimeric Humanized
+adecatumumab	Homo sapiens
+adezkibart	Homo sapiens
+adimanebart	Humanized
+adintrevimab	Homo sapiens
+aducanumab	Homo sapiens
+afamitresgene autoleucel	Homo sapiens
+afasevikumab	Homo sapiens
+afelimomab	Mus musculus
+afimkibart	Humanized
+aflibercept	Homo sapiens
+alacizumab pegol	Humanized
+albiglutide	Homo sapiens
+albinterferon alfa-2b	Homo sapiens
+albipagrastim alfa	Homo sapiens
+albusomatropin	Homo sapiens
+albutrepenonacog alfa	Homo sapiens
+alcestobart	Homo sapiens
+aldafermin	Homo sapiens
+aldastotug	Homo sapiens
+aldesleukin	Homo sapiens
+alefacept	Homo sapiens
+alemtuzumab	Humanized
+alemtuzumab beta	Humanized
+aletekitug	Humanized
+alextatug	Homo sapiens
+alirocumab	Homo sapiens
+alnuctamab	Chimeric Humanized
+alomfilimab	Homo sapiens
+alpitatug	Humanized
+alsevalimab	Homo sapiens
+altumomab	Mus musculus
+alunacedase alfa	Homo sapiens
+alvircept sudotox	Pseudomonas aeruginosa Homo sapiens
+amatuximab	Chimeric
+amdokitug	Chimeric Humanized
+amivantamab	Homo sapiens
+amlenetug	Homo sapiens
+amlitelimab	Homo sapiens Humanized
+amostomig	Humanized
+amrecibart	Homo sapiens
+amtabafusp alfa	Humanized
+amubarvimab	Homo sapiens
+amulirafusp alfa	Chimeric
+anafiltamig	Homo sapiens Humanized
+anakinra	Homo sapiens
+anatumomab mafenatox	Mus musculus
+anbalcabtagene autoleucel	Chimeric
+anbenitamab	Humanized
+anbenitamab repodatecan	Humanized
+andecaliximab	Chimeric
+anetumab corixetan	Homo sapiens
+anetumab ravtansine	Homo sapiens
+anflekitug	Chimeric
+anifrolumab	Homo sapiens
+anitocabtagene autoleucel	Chimeric
+anivovetmab	Chimeric
+anrukinzumab	Humanized
+anselamimab	Chimeric
+ansipastobart	Homo sapiens
+ansuvimab	Humanized
+anumigilimab	Homo sapiens
+anvatabart opadotin	Humanized
+anvatabart pactil	Humanized
+anzurstobart	Homo sapiens
+anzutresgene autoleucel	Homo sapiens
+apitegromab	Homo sapiens
+aplitabart	Humanized
+apolizumab	Humanized
+aprutumab	Homo sapiens
+aprutumab ixadotin	Homo sapiens
+arcitumomab	Mus musculus
+arcotatug	Homo sapiens
+arcotatug tavatecan	Homo sapiens
+arlocabtagene autoleucel	Chimeric
+armocibart	Chimeric
+arumakimig	Homo sapiens
+ascrinvacumab	Homo sapiens
+asedebart	Humanized
+aselizumab	Humanized
+asfotase alfa	Homo sapiens
+astegolimab	Homo sapiens
+asunercept	Homo sapiens
+atacicept	Homo sapiens
+atenastobart	Homo sapiens
+atezolizumab	Humanized
+atibuclimab	Chimeric
+atidortoxumab	Homo sapiens
+atigotatug	Humanized
+atinumab	Homo sapiens
+atisnolerbart	Homo sapiens
+atoltivimab	Homo sapiens
+atorolimumab	Homo sapiens
+avdoralimab	Homo sapiens
+avelumab	Homo sapiens
+avitotamig	Humanized
+avizakimab	Humanized
+axatilimab	Humanized
+axicabtagene ciloleucel	Chimeric
+azercabtagene zapreleucel	Chimeric
+azerutamig	Homo sapiens Humanized
+azintuxizumab	Chimeric Humanized
+azintuxizumab vedotin	Chimeric Humanized
+azirkitug	Humanized
+bafisontamab	Homo sapiens Humanized
+balekafusp alfa	Humanized
+balertatug	Chimeric Humanized
+baloncibart	Homo sapiens
+baloramotide	Homo sapiens
+balstilimab	Homo sapiens
+balugrastim	Homo sapiens
+baminercept	Homo sapiens
+bamlanivimab	Homo sapiens
+bapineuzumab	Humanized
+bapotulimab	Homo sapiens
+barecetamab	Homo sapiens
+barzolvolimab	Chimeric
+basiliximab	Chimeric
+basiliximab sarotalocan	Chimeric
+batiraxcept	Homo sapiens
+batoclimab	Homo sapiens
+bavituximab	Chimeric
+bavunalimab	Chimeric Humanized
+bebtelovimab	Homo sapiens
+becotatug	Humanized
+becotatug vedotin	Humanized
+bectumomab	Mus musculus
+bedinvetmab	Canis lupus familiaris
+befovacimab	Homo sapiens Humanized
+begelomab	Mus musculus
+belacabnagene franleucel	Chimeric
+belantamab	Humanized
+belantamab mafodotin	Humanized
+belatacept	Homo sapiens
+belimumab	Homo sapiens
+belrestotug	Homo sapiens
+beludavimab	Homo sapiens
+bemarituzumab	Humanized
+bempegaldesleukin	Homo sapiens
+bempikibart	Homo sapiens
+benmelstobart	Humanized
+benralizumab	Humanized
+bentracimab	Homo sapiens
+benufutamab	Chimeric Humanized
+bepranemab	Humanized
+berlimatoxumab	Homo sapiens
+bermekimab	Humanized
+bersanlimab	Homo sapiens
+bertilimumab	Homo sapiens
+besilesomab	Mus musculus
+besufetamig	Homo sapiens
+besvatresgene autoleucel	Homo sapiens
+betifisolimab	Chimeric
+betinukibart	Chimeric Humanized
+bevacizumab	Humanized
+bevacizumab beta	Humanized
+bevacizumab gamma	Humanized
+bevifimod	Staphylococcus aureus
+bexatamig	Humanized
+bexmarilimab	Humanized
+bezetabart	Homo sapiens
+bezetabart debotansine	Homo sapiens
+bezlotoxumab	Homo sapiens
+biciromab	Mus musculus
+bifarcept	Homo sapiens
+bifikafusp alfa	Homo sapiens
+bimagrumab	Homo sapiens
+bimekizumab	Humanized
+bintrafusp alfa	Homo sapiens
+birinkibart	Homo sapiens
+birtamimab	Chimeric Humanized
+bivatuzumab	Humanized
+bizaxofusp	Homo sapiens
+bleselumab	Homo sapiens
+blinatumomab	Mus musculus
+blisibimod	Homo sapiens
+blontuvetmab	Caninized
+blosozumab	Humanized
+bococizumab	Humanized
+bocunebart	Humanized
+bosakitug	Humanized
+boserolimab	Chimeric Humanized
+botensilimab	Homo sapiens
+brazikumab	Homo sapiens
+brelovitug	Homo sapiens
+bremzalerbart	Homo sapiens
+brenetafusp	Humanized
+brentuximab vedotin	Chimeric
+brexucabtagene autoleucel	Chimeric
+briakinumab	Homo sapiens
+briobacept	Homo sapiens
+briquilimab	Chimeric Humanized
+brivekimig	Chimeric Humanized
+brivestobart	Homo sapiens
+brodalumab	Homo sapiens
+brolucizumab	Humanized
+brontictuzumab	Humanized
+budigalimab	Chimeric Humanized
+budoprutug	Chimeric
+bulumtatug	Chimeric Humanized
+bulumtatug fuvedotin	Chimeric Humanized
+burfiralimab	Humanized
+burosumab	Homo sapiens
+cabiralizumab	Humanized
+cabotamig	Humanized
+cadonilimab	Chimeric Humanized
+cafelkibart	Chimeric
+calotatug	Homo sapiens
+calotatug ginistinag	Homo sapiens
+calpurbatug	Homo sapiens
+camidanlumab	Homo sapiens
+camidanlumab tesirine	Homo sapiens
+camoteskimab	Homo sapiens
+camrelizumab	Humanized
+camtarkibart	Humanized
+canakinumab	Homo sapiens
+canrivitug	Homo sapiens
+cantuzumab mertansine	Humanized
+cantuzumab ravtansine	Humanized
+canvircept	Homo sapiens
+caplacizumab	Humanized
+capromab	Mus musculus
+carlumab	Homo sapiens
+carotuximab	Chimeric
+casdozokitug	Homo sapiens
+casirivimab	Homo sapiens
+catumaxomab	Mus musculus Hybrid Rattus norvegicus Sprague Dawley
+caxmotabart	Humanized
+caxmotabart entudotin	Humanized
+cedelizumab	Humanized
+cemacabtagene ansegedleucel	Chimeric
+cemavafusp	Mus musculus
+cemiplimab	Homo sapiens
+cendakimab	Humanized
+cenvacibart	Homo sapiens
+cenzestotug	Chimeric Humanized
+cepeginterferon alfa-2b	Homo sapiens
+cepeprubart	Chimeric Humanized
+cergutuzumab amunaleukin	Humanized
+certolizumab pegol	Humanized
+cesnicabtagene autoleucel	Chimeric
+cetrelimab	Homo sapiens
+cetuximab	Chimeric
+cetuximab beta	Chimeric
+cetuximab sarotalocan	Chimeric
+cevostamab	Chimeric Humanized
+choriogonadotropin beta	Homo sapiens
+cibisatamab	Humanized
+cibotercept	Homo sapiens
+ciduvectamig	Homo sapiens
+cifurtilimab	Homo sapiens
+ciletatug	Humanized
+ciletatug vedotin	Humanized
+cilgavimab	Homo sapiens
+ciltacabtagene autoleucel	Chimeric
+ciltistotug	Chimeric
+cinpanemab	Humanized
+cinrebafusp alfa	Chimeric
+cirevetmab	Caninized
+citatuzumab bogatox	Humanized
+cixutumumab	Homo sapiens
+cizutamig	Humanized
+claseprubart	Homo sapiens
+clazakizumab	Humanized
+clenoliximab	Chimeric
+clervonafusp alfa	Humanized
+clesitamig	Humanized
+clesrovimab	Homo sapiens
+cliramitug	Homo sapiens
+clivatuzumab tetraxetan	Humanized
+cobolimab	Humanized
+codrituzumab	Humanized
+cofetuzumab	Humanized
+cofetuzumab pelidotin	Humanized
+coltuximab ravtansine	Chimeric
+comekibart	Humanized
+conatumumab	Homo sapiens
+conbercept	Homo sapiens
+concizumab	Humanized
+coprelotamab	Humanized
+coramitug	Chimeric
+corifollitropin alfa	Homo sapiens
+cosfroviximab	Chimeric
+cosibelimab	Homo sapiens
+crebankitug	Homo sapiens
+crefmirlimab	Chimeric Humanized
+crenezumab	Humanized
+crexavibart	Homo sapiens
+crizanlizumab	Humanized
+crotedumab	Homo sapiens
+crovalimab	Chimeric Humanized
+crusekitug	Humanized
+cudarolimab	Homo sapiens
+cugrastomig	Homo sapiens Chimeric Humanized
+cusatuzumab	Humanized
+dacetuzumab	Humanized
+daclizumab	Humanized
+daclizumab beta	Humanized
+dafsolimab	Mus musculus
+dafsolimab setaritox	Mus musculus
+dalantercept	Homo sapiens
+dalcinonacog alfa	Homo sapiens
+dalidnetug	Humanized
+dalnicastobart	Homo sapiens
+dalotuzumab	Humanized
+dalucabtagene autoleucel	Chimeric
+dalutrafusp alfa	Humanized
+danburstotug	Homo sapiens
+danvilostomig	Homo sapiens Humanized
+dapirolizumab pegol	Humanized
+daratumumab	Homo sapiens
+darbepoetin alfa	Homo sapiens
+daretabart	Chimeric
+dargistotug	Homo sapiens
+datopotamab	Humanized
+datopotamab deruxtecan	Humanized
+davoceticept	Homo sapiens
+davutamig	Homo sapiens
+daxdilimab	Homo sapiens
+dazodalibep	synthetic construct
+dazukibart	Humanized
+dectrekumab	Homo sapiens
+delpacibart	Humanized
+delpacibart braxlosiran	Humanized
+delpacibart etedesiran	Humanized
+delpacibart zotadirsen	Humanized
+demcizumab	Humanized
+demupitamab	Homo sapiens
+denecimig	Homo sapiens
+denikitug	Chimeric
+denileukin diftitox	Corynebacterium diphtheriae Homo sapiens
+denintuzumab mafodotin	Humanized
+denosumab	Homo sapiens
+denrakibart	Homo sapiens
+depatuxizumab	Chimeric Humanized
+depatuxizumab mafodotin	Chimeric Humanized
+depemokimab	Humanized
+detumomab	Mus musculus
+devextinetug	Chimeric
+dezamizumab	Humanized
+dibotatug	Homo sapiens
+dilpacimab	Humanized
+dinutuximab	Chimeric
+dinutuximab beta	Chimeric
+diridavumab	Homo sapiens
+disitamab	Humanized
+disitamab vedotin	Humanized
+divozilimab	Chimeric Humanized
+docaravimab	Mus musculus
+domagrozumab	Humanized
+domvanalimab	Humanized
+donanemab	Humanized
+donitabart	Chimeric Humanized
+donzakimig	Humanized
+dorlimomab aritox	Mus musculus
+dostarlimab	Humanized
+dovanvetmab	Felinized
+dresbuxelimab	Humanized
+drotokibart	Humanized
+drozitumab	Homo sapiens
+dulaglutide	Homo sapiens
+duligotuzumab	Humanized
+dupilumab	Homo sapiens
+durcabtagene autoleucel	Chimeric
+durvalumab	Homo sapiens
+dusigitumab	Homo sapiens
+duvakitug	Homo sapiens
+duvortuxizumab	Chimeric Humanized
+ebdarokimab	Humanized
+eblasakimab	Homo sapiens
+ebrasodebart	Homo sapiens
+ebribafusp alfa	Chimeric
+ebronucimab	Homo sapiens
+eciskafusp alfa	Humanized
+ecleralimab	Homo sapiens Humanized
+eclutatug	Humanized
+ecromeximab	Chimeric
+eculizumab	Humanized
+edobacomab	Mus musculus
+edrecolomab	Mus musculus
+efalizumab	Humanized
+efanesoctocog alfa	Homo sapiens
+efaprinermin alfa	Homo sapiens
+efarindodekin alfa	Homo sapiens
+efavaleukin alfa	Homo sapiens
+efbalropendekin alfa	Homo sapiens
+efbemalenograstim alfa	Homo sapiens
+efclarofusp alfa	Homo sapiens
+efdamrofusp alfa	Homo sapiens
+efdelikofusp alfa	Homo sapiens
+efdoralprin alfa	Homo sapiens
+efercoleukin alfa	Homo sapiens
+efgartigimod alfa	Homo sapiens
+efgitasialase alfa	Homo sapiens
+efgivanermin alfa	Homo sapiens
+efimosfermin alfa	Homo sapiens
+efineptakin alfa	Homo sapiens
+efinopegdutide	Homo sapiens
+efitazanamivir alfa	Homo sapiens
+efizonerimod alfa	Homo sapiens
+eflapegrastim	Homo sapiens
+eflepedocokin alfa	Homo sapiens
+eflimrufusp alfa	Homo sapiens
+eflumenibep alfa	Homo sapiens
+efmarodocokin alfa	Homo sapiens
+efmedaglutide alfa	Homo sapiens
+efmirenpase alfa	Homo sapiens
+efmitermant alfa	Homo sapiens
+efmoroctocog alfa	Homo sapiens
+efparepoetin alfa	Homo sapiens
+efpegerglucagon	Homo sapiens
+efpeglenatide	Heloderma suspectum
+efpegsomatropin	Homo sapiens
+efpixileukin alfa	Homo sapiens
+efprezimod alfa	Homo sapiens
+efranarelaxin alfa	Homo sapiens
+efrilacedase alfa	Homo sapiens
+efruxifermin	Homo sapiens
+efsubaglutide alfa	Homo sapiens
+efsudenermin alfa	Homo sapiens
+eftansomatropin alfa	Homo sapiens
+eftilagimod alfa	Homo sapiens
+eftozanermin alfa	Homo sapiens
+eftrenonacog alfa	Homo sapiens
+efungumab	Homo sapiens
+efzilonkofusp alfa	Homo sapiens
+efzimfotase alfa	Homo sapiens
+efzofitimod	Homo sapiens
+eglatoprutug	Humanized
+elarekibep	Homo sapiens
+elatatug	Chimeric Humanized
+elatatug vedotin	Chimeric Humanized
+eldelumab	Homo sapiens
+elegrobart	Chimeric
+elezanumab	Homo sapiens
+elgemtumab	Homo sapiens
+elipovimab	Homo sapiens
+elipunercept	Homo sapiens
+elotuzumab	Humanized
+elranatamab	Homo sapiens Humanized
+elritercept	Homo sapiens
+elsilimomab	Mus musculus
+eltivutabart	Homo sapiens
+eltrekibart	Humanized
+eluvixtamab	Chimeric Humanized
+elzocabtagene autoleucel	Chimeric
+emactuzumab	Humanized
+emapalumab	Homo sapiens
+emaretamig	Chimeric Humanized
+emerfetamab	Chimeric Humanized
+emfizatamab	Homo sapiens Humanized
+emibetuzumab	Humanized
+emicabtagene leucel	Chimeric
+emicizumab	Humanized
+emiltatug	Homo sapiens
+emiltatug ledadotin	Homo sapiens
+emirodatamab	Homo sapiens Chimeric Humanized
+empasiprubart	Humanized
+emugrobart	Humanized
+emunkitug	Humanized
+emzotamig	Humanized
+enapotamab	Homo sapiens
+enapotamab vedotin	Homo sapiens
+enavatuzumab	Humanized
+encelimab	Humanized
+enfortumab vedotin	Homo sapiens
+englumafusp alfa	Humanized
+enibarcimab	Chimeric Humanized
+enlimomab	Mus musculus
+enlimomab pegol	Mus musculus
+enlonstobart	Homo sapiens
+enoblituzumab	Humanized
+enokizumab	Humanized
+enoticumab	Homo sapiens
+enristomig	Humanized
+ensavatatug	Humanized
+ensituximab	Chimeric
+ensovibep	synthetic construct
+enuzovimab	Homo sapiens
+envafolimab	Chimeric
+enzelkitug	Humanized
+epacmarstobart	Chimeric Humanized
+epcoritamab	Homo sapiens Chimeric
+epitumomab	Mus musculus
+epitumomab cituxetan	Mus musculus
+epoetin alfa	Homo sapiens
+epoetin beta	Homo sapiens
+epratuzumab	Humanized
+eptacog alfa (activated)	Homo sapiens
+eptacog alfa pegol (activated)	Homo sapiens
+eptacog beta (activated)	Homo sapiens
+eptinezumab	Humanized
+equecabtagene autoleucel	Chimeric
+eramkafusp alfa	Chimeric
+erenumab	Homo sapiens
+erfonrilimab	Chimeric Humanized
+erlizumab	Humanized
+ersodetug	Homo sapiens Humanized
+ertumaxomab	Mus musculus Hybrid Rattus norvegicus Sprague Dawley
+erzotabart	Homo sapiens
+etakafusp alfa	Humanized
+etalanetug	Humanized
+etanercept	Homo sapiens
+etaracizumab	Humanized
+etentamig	Homo sapiens Humanized
+etesevimab	Homo sapiens
+etevritamab	Chimeric Humanized
+etigilimab	Humanized
+etivelcabtagene erigedleucel	Chimeric
+etokimab	Humanized
+etrolizumab	Humanized
+etuptamig	Chimeric Humanized
+eurestobart	Humanized
+evalstotug	Humanized
+evinacumab	Homo sapiens
+evolocumab	Homo sapiens
+evoncabtagene pazurgedleucel	Chimeric
+evorpacept	Homo sapiens
+evunzekibart	Homo sapiens
+exbivirumab	Homo sapiens
+exerenibart	Homo sapiens
+exidavnemab	Chimeric Humanized
+exlinkibart	Humanized
+ezabenlimab	Humanized
+falbikitug	Humanized
+fanastomig	Chimeric Humanized
+faralimomab	Mus musculus
+faricimab	Homo sapiens Humanized
+farletuzumab	Humanized
+farletuzumab ecteribulin	Humanized
+fasinumab	Homo sapiens
+favezelimab	Humanized
+fazpilodemab	Chimeric Humanized
+feladilimab	Humanized
+felcorekibart	Humanized
+felmetatug	Homo sapiens
+felmetatug vedotin	Homo sapiens
+felvizumab	Humanized
+felzartamab	Humanized
+fencabtagene autoleucel	Chimeric
+fepixnebart	Humanized
+fetrastobart	Homo sapiens
+fetrastobart vedotin	Homo sapiens
+fezakinumab	Homo sapiens
+fianlimab	Homo sapiens
+ficerafusp alfa	Chimeric
+ficlatuzumab	Humanized
+fidasimtamab	Homo sapiens Humanized
+figitumumab	Homo sapiens
+filgrastim	Homo sapiens
+finotonlimab	Chimeric Humanized
+firastotug	Humanized
+firicabtagene autoleucel	Chimeric
+firivumab	Homo sapiens
+firsekibart	Homo sapiens
+fiztasovimab	Homo sapiens
+flanvotumab	Homo sapiens
+fletikumab	Homo sapiens
+flotetuzumab	Mus musculus Humanized
+fontolizumab	Humanized
+foralumab	Homo sapiens
+foravirumab	Homo sapiens
+forimtamig	Homo sapiens Humanized
+fremanezumab	Humanized
+freneslerbart	Homo sapiens
+fresolimumab	Homo sapiens
+frexalimab	Chimeric
+froniglutide	Homo sapiens
+frovocimab	Humanized
+frunevetmab	Felinized
+fulranumab	Homo sapiens
+futermestotug	Humanized
+futuximab	Chimeric
+gacovetug	Chimeric
+galcanezumab	Humanized
+galegenimab	Humanized
+galiximab	Humanized
+galvokimig	Humanized
+gamgertamig	Chimeric Humanized
+gancotamab	Homo sapiens
+ganitumab	Homo sapiens
+gantenerumab	Homo sapiens
+garadacimab	Humanized
+garetatug	Humanized
+garetatug rezetecan	Humanized
+garetosmab	Humanized
+garivulimab	Humanized
+gaspantatug	Homo sapiens
+gatipotuzumab	Humanized
+gatralimab	Chimeric Humanized
+gavilimomab	Mus musculus
+gavocabtagene autoleucel	Chimeric
+gedivumab	Homo sapiens
+gefurulimab	Chimeric
+gemtuzumab	Humanized
+gemtuzumab ozogamicin	Humanized
+geptanolimab	Chimeric Humanized
+gevokizumab	Humanized
+giloralimab	Chimeric Humanized
+gilvetmab	Caninized
+gimistotug	Humanized
+gimsilumab	Homo sapiens
+gimvekibart	Humanized
+ginisortamab	Homo sapiens
+girancitug	Homo sapiens
+girentuximab	Chimeric
+givastomig	Humanized
+givopegsomatropin	Homo sapiens
+glarivibart	Homo sapiens
+glembatumumab	Homo sapiens
+glembatumumab vedotin	Homo sapiens
+glenzocimab	Humanized
+glofitamab	Humanized
+glucagon	Homo sapiens
+gocatamig	Chimeric Humanized
+goflikicept	Homo sapiens
+golimumab	Homo sapiens
+golocdacimab	Homo sapiens
+gontivimab	Lama glama
+gorivitug	Homo sapiens
+gosuranemab	Chimeric
+gotistobart	Humanized
+gremubamab	Homo sapiens Humanized
+gresonitamab	Homo sapiens Chimeric Humanized
+greziprubart	Homo sapiens
+grisnilimab	Mus musculus
+grisnilimab setaritox	Mus musculus
+gruticibart	Chimeric
+gulgafafusp alfa	Humanized
+gumokimab	Chimeric Humanized
+guselkumab	Homo sapiens
+ianalumab	Homo sapiens
+ibalizumab	Humanized
+ibentatug	Chimeric
+ibramvibart	Homo sapiens
+ibritumomab tiuxetan	Mus musculus
+icrucumab	Homo sapiens
+idactamab	Homo sapiens
+idarucizumab	Humanized
+idecabtagene vicleucel	Chimeric
+ieramilimab	Humanized
+ifabotuzumab	Humanized
+ifinatamab	Humanized
+ifinatamab deruxtecan	Humanized
+igovomab	Mus musculus
+iladatuzumab	Humanized
+iladatuzumab vedotin	Humanized
+iluzanebart	Homo sapiens
+imalumab	Homo sapiens
+imaprelimab	Humanized
+imciromab	Mus musculus
+imdevimab	Homo sapiens
+imelciment	Homo sapiens
+imeroprubart	Homo sapiens
+imgatuzumab	Humanized
+imneskibart	Humanized
+imsidolimab	Chimeric Humanized
+imvotamab	Homo sapiens Chimeric Humanized
+imvucabtagene geleucel	Chimeric
+imzokitug	Humanized
+inaticabtagene autoleucel	Chimeric
+inbakicept	Homo sapiens
+inclacumab	Homo sapiens
+inclocibart	Homo sapiens
+indatuximab ravtansine	Chimeric
+indemakitug	Homo sapiens
+indenebart	Homo sapiens
+indusatumab	Homo sapiens
+indusatumab vedotin	Homo sapiens
+inebilizumab	Humanized
+inezetamab	Homo sapiens
+infliximab	Chimeric
+infliximab beta	Chimeric
+ingitamig	Homo sapiens
+inlecitug	Chimeric
+inolimomab	Mus musculus
+inotuzumab ozogamicin	Humanized
+inpegsomatropin	Homo sapiens
+insulin	Homo sapiens
+insulin eflivet	Canis lupus familiaris
+insulin efsitora alfa	Homo sapiens
+intetumumab	Homo sapiens
+invikafusp alfa	Humanized
+invobenitug	Humanized
+iodine (124I) girentuximab	Chimeric
+iodine (131I) apamistamab	Mus musculus
+iodine (131I) derlotuximab biotin	Chimeric
+ipafricept	Homo sapiens
+iparomlimab	Chimeric Humanized
+ipilimumab	Homo sapiens
+ipsoprubart	Homo sapiens
+iratumumab	Homo sapiens
+isatuximab	Chimeric
+iscalimab	Homo sapiens
+isecarosmab	Lama glama Humanized
+ispectamab debotansine	Humanized
+ispectamab tazide	Humanized
+istiratumab	Homo sapiens
+isuventatug	Homo sapiens Chimeric
+itanistomig	Homo sapiens Humanized
+itepekimab	Homo sapiens Humanized
+itezocabtagene autoleucel	Chimeric
+itolizumab	Humanized
+ivicentamab	Humanized
+ivonescimab	Chimeric Humanized
+ivuxolimab	Homo sapiens
+ixekizumab	Humanized
+ixotatug	Chimeric
+ixotatug vedotin	Chimeric
+izalontamab	Chimeric Humanized
+izalontamab brengitecan	Homo sapiens Chimeric
+izastobart	Homo sapiens
+izeltabart	Humanized
+izeltabart tapatansine	Humanized
+izenivetmab	Caninized
+izokibep	synthetic construct
+izuralimab	Chimeric Humanized
+keliximab	Chimeric
+labetuzumab	Humanized
+labetuzumab govitecan	Humanized
+lacnotuzumab	Humanized
+lacutamab	Chimeric Humanized
+ladiratuzumab	Humanized
+ladiratuzumab vedotin	Humanized
+lafuvitug	Homo sapiens
+lampalizumab	Humanized
+lanadelumab	Homo sapiens
+lancastotug	Humanized
+landogrozumab	Humanized
+lanerkitug	Homo sapiens
+laprituximab	Chimeric
+laprituximab emtansine	Chimeric
+larcaviximab	Chimeric
+larnefpendekin alfa	Homo sapiens
+lasmecabtagene timgedleucel	Chimeric
+lasrekibart	Humanized
+latarcibart	Homo sapiens
+latikafusp	Homo sapiens
+latozinemab	Homo sapiens
+laventatug	Humanized
+laventatug tivedotin	Humanized
+lazatatug	Chimeric
+lebrikizumab	Humanized
+lecanemab	Chimeric Humanized
+lecankitug	Humanized
+lecomkafusp alfa	Humanized
+ledelabricin alfa	Homo sapiens
+ledostomig	Chimeric Humanized
+lemalesomab	Mus musculus
+lemzoparlimab	Homo sapiens Humanized
+lenercept	Homo sapiens
+lenvervimab	Humanized
+lenzilumab	Homo sapiens
+lepunafusp alfa	Humanized
+lerdelimumab	Homo sapiens
+lerodalcibep	synthetic construct
+leronlimab	Humanized
+lesabelimab	Homo sapiens
+lesigercept	Homo sapiens
+lesofavumab	Homo sapiens
+letaplimab	Homo sapiens
+letetresgene autoleucel	Homo sapiens
+letolizumab	Humanized
+levilimab	Chimeric Humanized
+lexatumumab	Homo sapiens
+libevitug	Homo sapiens
+libivirumab	Homo sapiens
+licaminlimab	Humanized
+lifastuzumab vedotin	Humanized
+ligelizumab	Humanized
+ligufalimab	Chimeric
+lilotomab	Mus musculus
+linavonkibart	Homo sapiens
+linclatamig	Humanized
+lintuzumab	Humanized
+linvoseltamab	Homo sapiens
+lipustobart	Humanized
+lirentelimab	Humanized
+lirilumab	Homo sapiens
+liscastobart	Humanized
+lisocabtagene maraleucel	Chimeric
+litifilimab	Humanized
+livmoniplimab	Chimeric Humanized
+lixarkitug	Homo sapiens
+lixarkitug samrotecan	Homo sapiens
+lixisenatide	Heloderma suspectum
+lixudebart	Humanized
+lodapolimab	Homo sapiens
+lodelcizumab	Humanized
+lofacimig	Humanized
+lokivetmab	Caninized
+lomtegovimab	Homo sapiens
+lomvastomig	Humanized
+loncastuximab	Chimeric
+loncastuximab tesirine	Chimeric
+lonigutamab	Humanized
+lonigutamab ugodotin	Humanized
+lorigerlimab	Homo sapiens Humanized
+lorukafusp alfa	Chimeric
+lorvotuzumab mertansine	Humanized
+losatuxizumab	Chimeric Humanized
+losatuxizumab vedotin	Chimeric Humanized
+lotivibart	Homo sapiens
+lucatumumab	Homo sapiens
+lucorafusp alfa	Humanized
+lulizumab pegol	Humanized
+lumiliximab	Humanized
+lumistobart	Humanized
+lumivatamig	Chimeric Humanized
+lumocabtagene geleucel	Chimeric
+lumretuzumab	Humanized
+lumrotatug	Humanized
+lunaxafusp	Chimeric
+lunlekitug	Homo sapiens
+lunsekimig	Homo sapiens Chimeric
+lupartumab	Homo sapiens
+lupartumab amadotin	Homo sapiens
+luspatercept	Homo sapiens
+lusvertikimab	Humanized
+lutetium (177lu) lilotomab satetraxetan	Mus musculus
+lutetium (177Lu) rosopatamab tetraxetan	Chimeric
+lutikizumab	Humanized
+luvagrobart	Humanized
+luveltamab tazevibulin	Humanized
+luveltamab tazide	Humanized
+macitegtagene autoleucel	Chimeric
+maftivimab	Homo sapiens
+magrolimab	Chimeric Humanized
+manelimab	Homo sapiens
+manfidokimab	Humanized
+mapatumumab	Homo sapiens
+maplirpacept	Homo sapiens
+margetuximab	Chimeric
+maridebart	Homo sapiens
+maridebart cafraglutide	Homo sapiens
+marlotamig	Homo sapiens
+marstacimab	Homo sapiens
+masavibart	Homo sapiens
+maslimomab	Mus musculus
+matuzumab	Humanized
+mavrilimumab	Homo sapiens
+mavrostobart	Chimeric
+mazorelvimab	Chimeric Humanized
+mecbotamab	Humanized
+mecbotamab vedotin	Humanized
+melredableukin alfa	Homo sapiens
+melrilimab	Homo sapiens
+mepolizumab	Humanized
+merinetug	Chimeric Humanized
+metelimumab	Homo sapiens
+mevonlerbart	Homo sapiens
+mezagitamab	Humanized
+mibavademab	Homo sapiens Humanized
+micvotabart	Homo sapiens
+micvotabart pelidotin	Homo sapiens
+milatuzumab	Humanized
+minretumomab	Mus musculus
+mipasetamab	Humanized
+mipasetamab uzoptirine	Humanized
+mipeginterferon alfa-2b	Homo sapiens
+mipetresgene autoleucel	Homo sapiens
+mipletamig	Homo sapiens Humanized
+miptenalimab	Chimeric Humanized
+mirikizumab	Humanized
+mirococept	Homo sapiens
+miromavimab	Mus musculus
+mirvetuximab	Chimeric
+mirvetuximab soravtansine	Chimeric
+mirzotamab	Chimeric Humanized
+mirzotamab clezutoclax	Chimeric Humanized
+misitatug	Chimeric
+misitatug blivedotin	Chimeric
+mitazalimab	Humanized
+mitumomab	Mus musculus
+mivocabtagene autoleucel	Chimeric
+mocertatug	Humanized
+mocertatug rezetecan	Humanized
+modakafusp alfa	Humanized
+modotuximab	Chimeric
+moflerafusp alfa	Homo sapiens Humanized
+mogamulizumab	Humanized
+monalizumab	Humanized
+moponetug	Chimeric
+morolimumab	Homo sapiens
+mosunetuzumab	Humanized
+motacabtagene lurevgedleucel	Chimeric
+motavizumab	Humanized
+moxetumomab pasudotox	Mus musculus
+mozistobart	Humanized
+mozistobart zoratolimod	Humanized
+mupadolimab	Humanized
+murlentamab	Humanized
+muromonab-CD3	Mus musculus
+muzastotug	Humanized
+nacolomab tafenatox	Mus musculus
+nadecnemab	Homo sapiens
+nadunolimab	Humanized
+namilumab	Homo sapiens
+nanrilkefusp alfa	Homo sapiens
+naptumomab estafenatox	Mus musculus
+naratuximab	Chimeric
+naratuximab emtansine	Chimeric
+narlumosbart	Homo sapiens
+narnatumab	Homo sapiens
+narsoplimab	Homo sapiens
+natalizumab	Humanized
+navenibart	Humanized
+navicixizumab	Chimeric Humanized
+navivumab	Homo sapiens
+naxitamab	Chimeric
+nebacumab	Homo sapiens
+nebaprubart	Humanized
+nebokitug	Chimeric
+nebratamig	Humanized
+necitumumab	Homo sapiens
+negalstobart	Homo sapiens
+nelistotug	Homo sapiens
+nelmastobart	Humanized
+nelvutamig	Homo sapiens Humanized
+nemolizumab	Humanized
+nemvaleukin alfa	Homo sapiens
+nendocabtagene onogedleucel	Chimeric
+nepuvibart	Homo sapiens
+nerelimomab	Mus musculus
+nesfrotamig	Homo sapiens Humanized
+nespecabtagene autoleucel	Chimeric
+nesvacumab	Homo sapiens
+netakimab	Homo sapiens Chimeric
+nezastomig	Homo sapiens
+nezutatug	Humanized
+nimacimab	Humanized
+nimotuzumab	Humanized
+nipocalimab	Homo sapiens
+nirsevimab	Humanized
+nisevokitug	Homo sapiens
+nisfevitug	Homo sapiens
+nivatrotamab	Chimeric Humanized
+nivisnebart	Homo sapiens
+nivolumab	Homo sapiens
+nofazinlimab	Humanized
+nogapendekin alfa	Homo sapiens
+nolavetbart	Caninized
+nomlabofusp	Homo sapiens
+nonacog gamma	Homo sapiens
+notiretatug	Homo sapiens
+notiretatug rezetecan	Homo sapiens
+nurulimab	Homo sapiens
+nuvustotug	Homo sapiens
+obecabtagene autoleucel	Chimeric
+oberotatug	Homo sapiens
+oberotatug ravtansine	Homo sapiens
+obertamig	Homo sapiens
+obexelimab	Chimeric
+obiltoxaximab	Chimeric
+obinutuzumab	Humanized
+obrindatamab	Chimeric Humanized
+obrixtamig	Homo sapiens Chimeric
+ocankitug	Humanized
+ocaratuzumab	Humanized
+ociperlimab	Humanized
+ocrelizumab	Humanized
+odesivimab	Homo sapiens
+odronextamab	Homo sapiens
+odulimomab	Mus musculus
+ofatumumab	Homo sapiens
+ogalvibart	Homo sapiens
+olamkicept	Homo sapiens
+olaratumab	Homo sapiens
+oleclumab	Homo sapiens
+olendalizumab	Humanized
+olintatug	Chimeric Humanized
+olintatug tesirine	Chimeric Humanized
+olinvacimab	Humanized
+olitresgene autoleucel	Homo sapiens
+olmocabtagene autoleucel	Chimeric
+oloctinebart	Humanized
+olokizumab	Humanized
+olsutamig	Homo sapiens
+omalizumab	Humanized
+omburtamab	Mus musculus
+omectatug	Humanized
+omfiloctocog alfa	Homo sapiens
+omodenbamab	Homo sapiens
+omoprubart	Humanized
+ompekimig	Humanized
+onartuzumab	Humanized
+onercept	Homo sapiens
+onfekafusp alfa	Homo sapiens
+ongericimab	Humanized
+ontamalimab	Homo sapiens
+ontorpacept	Homo sapiens
+ontuxizumab	Chimeric Humanized
+onvapegleukin alfa	Homo sapiens
+onvatilimab	Homo sapiens
+opamtistomig	Homo sapiens Humanized
+opelkibart	Homo sapiens
+opelkibart elmanitin	Homo sapiens
+opicinumab	Homo sapiens
+opinercept	Homo sapiens
+oportuzumab monatox	Humanized
+opucolimab	Homo sapiens Humanized
+opugotamig	Chimeric
+opugotamig olatansine	Chimeric
+ordastobart	Humanized
+ordesekimab	Homo sapiens
+oregovomab	Mus musculus
+oreptacog alfa	Homo sapiens
+orilanolimab	Chimeric
+ormutivimab	Homo sapiens
+orticumab	Homo sapiens
+orvacabtagene autoleucel	Chimeric
+osemitamab	Humanized
+osencabtagene autoleucel	Chimeric
+osocimab	Homo sapiens
+otelixizumab	Chimeric Humanized
+otilimab	Homo sapiens
+otlertuzumab	Humanized
+oturkibart	Humanized
+oxelumab	Homo sapiens
+ozanezumab	Humanized
+ozekibart	Humanized
+ozoralizumab	Humanized
+ozureprubart	Humanized
+ozuriftamab	Chimeric Humanized
+ozuriftamab vedotin	Chimeric Humanized
+pabinafusp alfa	Humanized
+pacanalotamab	Chimeric Humanized
+pacibekitug	Homo sapiens
+pacmilimab	Homo sapiens
+pagibaximab	Chimeric
+palivizumab	Humanized
+palsucibep pegol	Homo sapiens
+palverafusp alfa	Humanized
+pamlectabart	Humanized
+pamlectabart tismanitin	Humanized
+pamrevlumab	Homo sapiens
+pamvatamig	Homo sapiens
+panitumumab	Homo sapiens
+panobacumab	Homo sapiens
+paridiprubart	Humanized
+parsatuzumab	Humanized
+pascolizumab	Humanized
+pasotuxizumab	Chimeric Humanized
+pasritamig	Homo sapiens Humanized
+patecibart	Humanized
+pateclizumab	Humanized
+patritumab	Homo sapiens
+patritumab deruxtecan	Homo sapiens
+pavurutamab	Chimeric Humanized
+peclacabtagene geleucel	Chimeric
+pegacaristim	Homo sapiens
+pegaldesleukin	Homo sapiens
+pegbelfermin	Homo sapiens
+pegdinetanib	Homo sapiens
+pegenzileukin	Homo sapiens
+pegfilgrastim	Homo sapiens
+peginterferon alfa-2a	Homo sapiens
+peginterferon alfacon-2	Homo sapiens
+peginterferon beta-1a	Homo sapiens
+peginterferon lambda-1a	Homo sapiens
+pegozafermin	Homo sapiens
+pegrizeprument	Chimeric
+pegsunercept	Homo sapiens
+pelgifatamab	Homo sapiens
+pelgifatamab corixetan	Homo sapiens
+peluntamig	Chimeric Humanized
+pembrolizumab	Humanized
+pemivibart	Homo sapiens
+penpulimab	Chimeric Humanized
+pepinemab	Chimeric Humanized
+perakizumab	Humanized
+perenostobart	Homo sapiens
+peresolimab	Humanized
+persicabtagene lemgedleucel	Chimeric
+pertuzumab	Humanized
+pertuzumab zuvotolimod	Humanized
+petosemtamab	Homo sapiens
+pexelizumab	Humanized
+pezatresgene leucel	Homo sapiens
+picankibart	Humanized
+pidilizumab	Humanized
+pimivalimab	Homo sapiens
+pimurutamab	Humanized
+pinatuzumab vedotin	Humanized
+pivekimab	Chimeric Humanized
+pivekimab sunirine	Chimeric Humanized
+placulumab	Homo sapiens
+plamotamab	Chimeric Humanized
+plixacabtagene autoleucel	Chimeric
+plonmarlimab	Humanized
+plozalizumab	Humanized
+plozalizumab plevistinag	Humanized
+plutavimab	Homo sapiens
+podentamig	Chimeric
+polatuzumab vedotin	Humanized
+polzastobart	Humanized
+pomlucabtagene autoleucel	Chimeric
+ponezumab	Humanized
+ponsegromab	Homo sapiens Humanized
+ponumkibart	Humanized
+porgaviximab	Chimeric
+porustobart	Homo sapiens
+posdinemab	Humanized
+posnafusp alfa	Humanized
+potravitug	Homo sapiens
+povetacicept	Homo sapiens
+povovetug	Chimeric
+pozelimab	Homo sapiens
+pradusinstobart	Homo sapiens Humanized
+prafnosbart	Humanized
+praluzatamab	Humanized
+praluzatamab ravtansine	Humanized
+prasinezumab	Humanized
+precemtabart	Homo sapiens
+precemtabart tocentecan	Homo sapiens
+prezalumab	Homo sapiens
+priliximab	Chimeric
+pritoxaximab	Chimeric
+pritumumab	Homo sapiens
+prizloncabtagene autoleucel	Chimeric
+produvofusp	Humanized
+prolgolimab	Homo sapiens Chimeric
+prulacabtagene leucel	Chimeric
+pucotenlimab	Chimeric
+pulocimab	Homo sapiens Humanized
+pumitamig	Humanized
+puxitatug	Homo sapiens
+puxitatug samrotecan	Homo sapiens
+quavonlimab	Humanized
+quetmolimab	Chimeric Humanized
+quilizumab	Humanized
+quisovalimab	Homo sapiens
+racotumomab	Mus musculus
+rademikibart	Homo sapiens
+radretumab	Homo sapiens
+rafivirumab	Homo sapiens
+ragifilimab	Humanized
+ragistomig	Humanized
+ralpancizumab	Humanized
+raludotatug	Humanized
+raludotatug deruxtecan	Humanized
+ralzapastotug	Humanized
+ramantamig	Homo sapiens
+ramatercept	Homo sapiens
+ramucirumab	Homo sapiens
+ranevetmab	Caninized
+ranibizumab	Humanized
+ranicabtagene autoleucel	Chimeric
+rapaprutug	Homo sapiens
+rapcabtagene autoleucel	Chimeric
+ravagalimab	Humanized
+ravulizumab	Humanized
+raxibacumab	Homo sapiens
+recaticimab	Chimeric Humanized
+recibokibart	Humanized
+recifercept	Homo sapiens
+redalsomatropin alfa	Homo sapiens
+refanezumab	Humanized
+reflocibart	Humanized
+regavirumab	Homo sapiens
+regdanvimab	Homo sapiens Humanized
+relatlimab	Homo sapiens
+relfovetmab	Felinized
+relmacabtagene autoleucel	Chimeric
+remternetug	Homo sapiens
+remtolumab	Homo sapiens
+remzistotug	Homo sapiens
+renvistobart	Homo sapiens
+reozalimab	Homo sapiens
+resecabtagene autoleucel	Chimeric
+reslizumab	Humanized
+resugosbart	Humanized
+retavibart	Homo sapiens
+retifanlimab	Chimeric Humanized
+retlirafusp alfa	Homo sapiens
+revbekitug	Chimeric
+revdofilimab	Chimeric
+rezetamig	Homo sapiens
+rezorstobart	Homo sapiens
+rezpegaldesleukin	Homo sapiens
+ribrecabtagene autoleucel	Chimeric
+ricefidase	Streptococcus equi subsp. zooepidemicus H70
+riliprubart	Chimeric
+rilogrotug	Humanized
+rilonacept	Homo sapiens
+rilotumumab	Homo sapiens
+riltovetbart	Caninized
+rilunermin alfa	Homo sapiens
+rilvegostomig	Homo sapiens Humanized
+rimteravimab	Chimeric
+rinatabart	Homo sapiens
+rinatabart sesutecan	Homo sapiens
+rinucumab	Homo sapiens
+rinvatercept	Homo sapiens
+ripafollitropin alfa (bovine)	Homo sapiens Bos taurus Hybrid
+ripertamab	Chimeric
+risankizumab	Humanized
+risvutatug	Homo sapiens
+risvutatug rezetecan	Homo sapiens
+rituximab	Chimeric
+rivabazumab	Humanized
+rivabazumab pegol	Humanized
+robatumumab	Homo sapiens
+rocatinlimab	Homo sapiens
+roconkibart	Chimeric Humanized
+roledumab	Homo sapiens
+rolinsatamab	Chimeric
+rolinsatamab talirine	Chimeric
+rolistobart	Humanized
+roltotatug	Humanized
+roltotatug vedotin	Humanized
+romilkimab	Chimeric Humanized
+romiplostim	Homo sapiens
+romlusevimab	Homo sapiens
+romosozumab	Humanized
+rondecabtagene autoleucel	Chimeric
+rontalizumab	Humanized
+ropeginterferon alfa-2b	Homo sapiens
+rosmantuzumab	Humanized
+rosnilimab	Humanized
+rosopatamab	Chimeric
+rosopatamab tetraxetan	Chimeric
+rovalpituzumab	Humanized
+rovalpituzumab tesirine	Humanized
+rovelizumab	Humanized
+rozanolixizumab	Chimeric Humanized
+rozibafusp alfa	Homo sapiens
+rulonilimab	Chimeric
+runimotamab	Chimeric Humanized
+runitresgene leucel	Homo sapiens
+ruplizumab	Humanized
+ruxoprubart	Chimeric
+ruzaltatug	Homo sapiens
+ruzaltatug rezetecan	Homo sapiens
+sabatolimab	Humanized
+sabestomig	Homo sapiens Humanized
+sabirnetug	Humanized
+sacituzumab	Humanized
+sacituzumab drozuntecan	Humanized
+sacituzumab govitecan	Humanized
+sacituzumab tirumotecan	Humanized
+safimestomig	Humanized
+samalizumab	Humanized
+samatatug	Homo sapiens
+samatatug zovodotin	Homo sapiens
+sampeginterferon beta-1a	Homo sapiens
+samrotamab	Chimeric Humanized
+samrotamab vedotin	Chimeric Humanized
+sanritatug	Chimeric
+sarilumab	Homo sapiens
+sasanlimab	Humanized
+satralizumab	Humanized
+satricabtagene autoleucel	Chimeric
+satumomab	Mus musculus
+secukinumab	Homo sapiens
+selcodebart	Humanized
+selicrelumab	Homo sapiens
+semorinemab	Chimeric Humanized
+semzuvolimab	Chimeric
+seniprutug	Humanized
+serclutamab	Chimeric Humanized
+serclutamab talirine	Chimeric Humanized
+seribantumab	Homo sapiens
+serplulimab	Humanized
+sersacabtagene autoleucel	Chimeric
+setoxaximab	Chimeric
+setrusumab	Homo sapiens
+sevirumab	Homo sapiens
+sibeprenlimab	Humanized
+sibrotuzumab	Humanized
+sifalimumab	Homo sapiens
+sifarobocept	Homo sapiens
+sigvotatug	Humanized
+sigvotatug vedotin	Humanized
+silevimig	Homo sapiens
+siltartoxatug	Homo sapiens
+siltuximab	Chimeric
+simaravibart	Homo sapiens
+simlukafusp alfa	Homo sapiens
+simridarlimab	Homo sapiens Humanized
+simtuzumab	Humanized
+sintilimab	Homo sapiens
+sipavibart	Homo sapiens
+siplizumab	Humanized
+sirexatamab	Humanized
+sirtratumab	Homo sapiens
+sirtratumab vedotin	Homo sapiens
+sirukumab	Homo sapiens
+socazolimab	Homo sapiens Humanized
+soficabtagene geleucel	Chimeric
+sofituzumab vedotin	Humanized
+solabafusp alfa	Humanized
+solanezumab	Humanized
+solitomab	Mus musculus
+solnerstotug	Homo sapiens
+solrikitug	Humanized
+somatropin	Homo sapiens
+sonavibart	Homo sapiens
+sonefpeglutide	Homo sapiens
+sonelokimab	Humanized Vicugna pacos (alpaca)
+sonesitatug	Humanized
+sonesitatug vedotin	Humanized
+sontuzumab	Humanized
+sotatercept	Homo sapiens
+sotevtamab	Humanized
+sotiburafusp alfa	Humanized
+sotigalimab	Humanized
+sotrovimab	Homo sapiens
+sovipostobart	Homo sapiens
+sovipostobart beta	Homo sapiens
+sozinibercept	Homo sapiens
+spartalizumab	Humanized
+spesolimab	Chimeric Humanized
+spevatamig	Chimeric Humanized
+stamulumab	Homo sapiens
+stapokibart	Humanized
+suciraslimab	Chimeric
+sudubrilimab	Humanized
+sugemalimab	Homo sapiens
+sulesomab	Mus musculus
+sunakiment	Homo sapiens
+suptavumab	Homo sapiens
+surovatamig	Homo sapiens Humanized
+surzebiclimab	Homo sapiens Humanized
+sutacimig	Humanized
+sutimlimab	Chimeric Humanized
+suvemcitug	Humanized
+suvizumab	Humanized
+suvonstobart	Chimeric Humanized
+suvratoxumab	Homo sapiens
+suvutresgene autoleucel	Homo sapiens
+tabalumab	Homo sapiens
+tabirafusp alfa	Homo sapiens
+tabirafusp alfa tedromer	Homo sapiens
+tabituximab	Chimeric
+tabituximab barzuxetan	Chimeric
+tacatresgene autoleucel	Homo sapiens
+tadocizumab	Humanized
+tafasitamab	Humanized
+tafolecimab	Homo sapiens
+tagitanlimab	Humanized
+tagmokitug	Homo sapiens
+tagraxofusp	Homo sapiens
+talacotuzumab	Humanized
+taldefgrobep alfa	Homo sapiens
+talicabtagene autoleucel	Chimeric
+talizumab	Humanized
+talquetamab	Chimeric Humanized
+tambotatug	Homo sapiens
+tambotatug pelitecan	Homo sapiens
+tamgiblimab	Homo sapiens
+tamrintamab	Humanized
+tamrintamab pamozirine	Humanized
+tamtuvetmab	Caninized
+tanezumab	Humanized
+tanfanercept	Homo sapiens
+tanruprubart	Chimeric
+taplitumomab paptox	Mus musculus
+tarcocimab	Humanized
+tarcocimab tedromer	Humanized
+tarextumab	Homo sapiens
+tarlatamab	Chimeric Humanized
+tarperprumig	Humanized
+tavolimab	Chimeric Humanized
+tazlestobart	Humanized
+tebentafusp	Humanized
+tebotelimab	Humanized
+tebrocabtagene autoleucel	Chimeric
+tecaginlimab	Humanized
+technetium (99mTc) fanolesomab	Mus musculus
+technetium (99mTc) nofetumomab merpentan	Mus musculus
+technetium (99mTc) pintumomab	Mus musculus
+teclistamab	Homo sapiens Chimeric
+tecotabart	Humanized
+tecotabart vedotin	Humanized
+teduglutide	Homo sapiens
+tefibazumab	Humanized
+tegoprubart	Chimeric
+telazorlimab	Humanized
+telikibart	Homo sapiens
+telimomab aritox	Mus musculus
+telisotuzumab	Humanized
+telisotuzumab adizutecan	Humanized
+telisotuzumab vedotin	Humanized
+telitacicept	Homo sapiens
+temelimab	Humanized
+temtokibart	Humanized
+tenatumomab	Mus musculus
+teneliximab	Chimeric
+tengonermin	Homo sapiens
+tepilukimig	Humanized
+teplizumab	Humanized
+tepoditamab	Homo sapiens
+teprotumumab	Homo sapiens
+teropavimab	Humanized
+tesidolumab	Homo sapiens
+tesnatilimab	Homo sapiens
+tezatabep matraxetan	synthetic construct
+tezepelumab	Homo sapiens
+tibulizumab	Humanized
+ticalicibart	Homo sapiens
+tidutamab	Chimeric Humanized
+tifalibep	synthetic construct
+tifcemalimab	Chimeric
+tigatuzumab	Humanized
+tilatamig	Homo sapiens
+tilatamig samrotecan	Homo sapiens
+tilavonemab	Chimeric
+tildrakizumab	Humanized
+tilogotamab	Humanized
+tilrekimig	Homo sapiens Humanized
+tilvestamab	Humanized
+timcevibart	Homo sapiens
+timdarpacept	Homo sapiens
+timigutuzumab	Humanized
+timolumab	Homo sapiens
+tinocabtagene autoleucel	Chimeric
+tinurilimab	Humanized
+tiragolumab	Homo sapiens
+tirnovetmab	Chimeric Caninized
+tisagenlecleucel	Chimeric
+tislelizumab	Humanized
+tisotumab	Homo sapiens
+tisotumab vedotin	Homo sapiens
+tividenofusp alfa	Homo sapiens
+tixagevimab	Homo sapiens
+tixentamig	Homo sapiens Chimeric
+tixestobart	Homo sapiens
+tizetatug	Humanized
+tizetatug rezetecan	Humanized
+tobemstomig	Humanized
+tobevibart	Homo sapiens
+tocilizumab	Humanized
+tolododekin alfa	Homo sapiens
+tomaralimab	Chimeric
+tomuzotuximab	Chimeric
+topsalysin	Aeromonas hydrophila
+toralizumab	Humanized
+torapsel	Homo sapiens
+toripalimab	Humanized
+torudokimab	Homo sapiens Humanized
+torvutatug	Homo sapiens
+torvutatug samrotecan	Homo sapiens
+tosatoxumab	Homo sapiens
+tositumomab	Mus musculus
+tovecimig	Homo sapiens Humanized
+tovetumab	Homo sapiens
+tozorakimab	Homo sapiens Humanized
+trabikibart	Homo sapiens
+tralokinumab	Homo sapiens
+transferrin aldifitox	Corynebacterium diphtheriae Homo sapiens
+trastuzumab	Humanized
+trastuzumab beta	Humanized
+trastuzumab botidotin	Humanized
+trastuzumab brengitecan	Humanized
+trastuzumab bultecan	Humanized
+trastuzumab corixetan	Humanized
+trastuzumab deruxtecan	Humanized
+trastuzumab duocarmazine	Humanized
+trastuzumab emtansine	Humanized
+trastuzumab envedotin	Humanized
+trastuzumab imbotolimod	Humanized
+trastuzumab pamirtecan	Humanized
+trastuzumab rezetecan	Humanized
+trastuzumab vedotin	Humanized
+traxivitug	Homo sapiens
+trebananib	Homo sapiens
+tregalizumab	Humanized
+tremelimumab	Homo sapiens
+trevogrumab	Homo sapiens
+trevotamig	Chimeric Humanized
+trinbelimab	Homo sapiens
+trontinemab	Humanized
+trosunilimab	Chimeric Humanized
+trovocabtagene autoleucel	Chimeric
+trovostobart	Homo sapiens
+tucotuzumab celmoleukin	Humanized
+tulinercept	Homo sapiens
+tulisokibart	Humanized
+tuparstobart	Humanized
+turenkibart	Humanized
+turmetabart	Humanized
+turmetabart adizutecan	Humanized
+tusamitamab	Chimeric
+tusamitamab ravtansine	Chimeric
+tuvirumab	Homo sapiens
+tuvonralimab	Homo sapiens Humanized
+ubamatamab	Homo sapiens Humanized
+ubletamig	Homo sapiens
+ublituximab	Chimeric
+ucenprubart	Humanized
+ulenistamab	Humanized
+uliledlimab	Chimeric Humanized
+ulocuplumab	Homo sapiens
+ulviprubart	Humanized
+umesolerbart	Homo sapiens
+umikibart	Humanized
+umizortamig	Chimeric Humanized
+unasnemab	Chimeric Humanized
+upanovimab	Chimeric
+upinitatug	Chimeric Humanized
+upinitatug rilsodotin	Chimeric Humanized
+uprevstobart	Humanized
+urabrelimab	Homo sapiens
+urelumab	Homo sapiens
+urtoxazumab	Humanized
+usilnetug	Chimeric Humanized
+ustekinumab	Homo sapiens
+utomilumab	Homo sapiens
+uzatresgene autoleucel	Homo sapiens
+vadacabtagene leraleucel	Chimeric
+vadastuximab	Chimeric
+vadastuximab talirine	Chimeric
+valanafusp alfa	Chimeric
+valziflocept	Homo sapiens
+vamikibart	Chimeric Humanized
+vandortuzumab vedotin	Humanized
+vantictumab	Homo sapiens
+vanucizumab	Humanized
+vanutide cridificar	Corynebacterium diphtheriae Homo sapiens
+vapaliximab	Chimeric
+varisacumab	Homo sapiens
+varlilumab	Homo sapiens
+varnimcabtagene autoleucel	Chimeric
+varokibart	Homo sapiens
+varsetatug	Humanized
+varsetatug masetecan	Humanized
+vasigrobart	Homo sapiens
+vatelizumab	Humanized
+vebanvibart	Homo sapiens
+vecantoxatug	Humanized
+vedolizumab	Humanized
+velaprumig	Chimeric Humanized
+veligrotug	Chimeric
+velinotamig	Homo sapiens
+veltuzumab	Humanized
+velvakiment	Homo sapiens
+vemzatatug	Humanized
+vemzatatug vedotin	Humanized
+venanprubart	Humanized
+vensobafusp alfa	Humanized
+vepalimomab	Mus musculus
+vepsitamab	Chimeric Humanized
+verekitug	Homo sapiens
+verenafusp alfa	Chimeric
+verpasep caltespen	Mycobacterium tuberculosis variant bovis Alphapapillomavirus 9
+verzistobart	Homo sapiens
+vesencumab	Homo sapiens
+vevoctadekin	Homo sapiens
+vibecotamab	Chimeric
+vibostolimab	Humanized
+vilamakitug	Homo sapiens Humanized
+vilastobart	Humanized
+vilobelimab	Chimeric
+vimekofusp	Vibrio cholerae Homo sapiens
+vipalanebart	Homo sapiens
+visilizumab	Humanized
+vislarafusp alfa	Humanized
+vispacabtagene regedleucel	Chimeric
+visugromab	Chimeric Humanized
+vixarelimab	Homo sapiens
+vixticibart	Homo sapiens
+vixtimotamab	Homo sapiens Chimeric
+vobarilizumab	Humanized
+vobramitamab	Humanized
+vobramitamab duocarmazine	Humanized
+vobramitamab tavatecan	Humanized
+vofatamab	Humanized
+volagidemab	Homo sapiens
+volamcabtagene durzigedleucel	Chimeric
+volenrelaxin	Humanized
+volociximab	Chimeric
+volrustomig	Homo sapiens Humanized
+vonlerolizumab	Humanized
+vonsetamig	Homo sapiens
+vopikitug	Homo sapiens
+vopratelimab	Humanized
+vorsetuzumab	Humanized
+vorsetuzumab mafodotin	Humanized
+votumumab	Homo sapiens
+voxalatamab	Homo sapiens Chimeric Humanized
+vudalimab	Chimeric Humanized
+vulinacimab	Homo sapiens
+vunakizumab	Humanized
+xaluritamig	Homo sapiens
+xeligekimab	Humanized
+xentuzumab	Homo sapiens
+xirestomig	Homo sapiens
+yttrium (90Y) clivatuzumab tetraxetan	Humanized
+yttrium (90Y) tacatuzumab tetraxetan	Humanized
+zadoprubart	Humanized
+zagotenemab	Humanized
+zalfermin	Homo sapiens
+zalifrelimab	Homo sapiens
+zaltenibart	Chimeric Humanized
+zalutumumab	Homo sapiens
+zamerovimab	Humanized
+zampilimab	Chimeric Humanized
+zamristobart	Chimeric Humanized
+zamtocabtagene autoleucel	Chimeric
+zamubafusp alfa	Humanized
+zanidatamab	Humanized
+zanidatamab zovodotin	Humanized
+zanolimumab	Homo sapiens
+zansecimab	Humanized
+zarutatug	Humanized
+zarutatug vedotin	Humanized
+zeleciment	Chimeric Humanized
+zeleciment basivarsen	Chimeric Humanized
+zeleciment rostudirsen	Chimeric Humanized
+zelminemab	Humanized
+zeluvalimab	Homo sapiens Humanized
+zemlikafusp alfa	Homo sapiens
+zemocimig	Homo sapiens Humanized
+zenocutuzumab	Humanized
+zeripatamig	Homo sapiens
+zevorcabtagene autoleucel	Chimeric
+zifibancimig	Humanized
+zigakibart	Humanized
+zilovertamab	Humanized
+zilovertamab vedotin	Humanized
+ziltivekimab	Homo sapiens Humanized
+zimberelimab	Homo sapiens
+zinlirvimab	Homo sapiens
+zinpentraxin alfa	Homo sapiens
+ziralimumab	Homo sapiens
+zirconium (89Zr) crefmirlimab berdoxam	Chimeric Humanized
+zirconium (89Zr) girentuximab senvedoxam	Chimeric
+zolacabtagene autoleucel	Chimeric
+zolbetuximab	Chimeric
+zolimomab aritox	Mus musculus
+zoninterferon alfa-2b	Homo sapiens
+zovostotug	Homo sapiens
+zuberitamab	Chimeric
+zubotamig	Homo sapiens Chimeric
+zugocabtagene geleucel	Chimeric
+zumilokibart	Humanized

@@ -1,0 +1,5 @@
+filename	netmhciipan_version	peptide_length	brackets	identity	score_total	hotspot_max	sequence	prediction_type
+OrionAnalogs_hGHSR_Ghrelin_1PXX_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hGhrelin-1P05	1	1	LFWWFPSPEHQRVQQRKESKKPPAKLQPR	ba
+OrionAnalogs_hGHSR_Ghrelin_1PXX_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hGhrelin-1P05-G	1	1	LFWWFPSPEHQRVQQRKESKKPPAKLQPRGWS	ba
+OrionAnalogs_hGHSR_Ghrelin_1PXX_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hGhrelin-1P14	1	1	RGWWFWSPEHQRVQQRKESKKPPAKLQPR	ba
+OrionAnalogs_hGHSR_Ghrelin_1PXX_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hGhrelin-1P14-G	1	1	RGWWFWSPEHQRVQQRKESKKPPAKLQPRGWS	ba

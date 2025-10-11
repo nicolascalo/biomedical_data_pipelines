@@ -1,0 +1,5 @@
+filename	netmhciipan_version	peptide_length	brackets	identity	score_total	hotspot_max	sequence	prediction_type
+OrionAnalogs_CCR5_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hCCL5	0	0	SPYSSDTTPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVTRKNRQVCANPEKKWVREYINSLEMS	ba
+OrionAnalogs_CCR5_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hCCL5-5P12	4	2	QGPPLMATQSCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVTRKNRQVCANPEKKWVREYINSLEMS	ba
+OrionAnalogs_CCR5_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hCCL5-5P14	3	3	QGPPLMSLQVCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVTRKNRQVCANPEKKWVREYINSLEMS	ba
+OrionAnalogs_CCR5_hits.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	hCCL5-6P4	13	6	QGPPGDIVLACCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVTRKNRQVCANPEKKWVREYINSLEMS	ba

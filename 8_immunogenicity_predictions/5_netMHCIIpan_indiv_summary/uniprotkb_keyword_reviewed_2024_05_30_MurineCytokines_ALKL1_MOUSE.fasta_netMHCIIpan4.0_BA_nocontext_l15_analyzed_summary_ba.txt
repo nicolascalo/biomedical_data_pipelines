@@ -1,0 +1,2 @@
+filename	netmhciipan_version	peptide_length	brackets	identity	score_total	hotspot_max	sequence	prediction_type
+uniprotkb_keyword_reviewed_2024_05_30_MurineCytokines_ALKL1_MOUSE.fasta_netMHCIIpan4.0_BA_nocontext_l15_formated.txt	4	15	non-binder (0) >5%, weak binder (1) >2.5%, medium binder (2) >1%, strong binder (3) <=1%	ALKL1_MOUSE	191	49	MWLTKPSTPVSALLLLALALSPPGTQGRPQRSLAARVAELRPELFLPVTGTRLPPRASRSTEIFPRDLTLKDKFIKHFTGPVTFSAECSKHFHRLYHNTRDCSTPAYYKRCARLLTRLAVSPLCSQT	ba
