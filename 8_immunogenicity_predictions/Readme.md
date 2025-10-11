@@ -56,7 +56,10 @@ Creating an analysis pipeline for the immunogenicity prediction of protein seque
 
 ### :twisted_rightwards_arrows: Pre-processing
 
-- Splitting of combined .fasta files into a single file for each sequence
+- AnalysisPipeline_Immunogenicity_UniprotMouse_20240528.R
+  - Splitting of combined .fasta files into a single .fasta file for each sequence
+- AnalysisPipeline_Immunogenicity_chEMBL_data_mining_20240528.R
+  - Web scrapping of chEMBL and output of the retrieved sequences into single .fasta files 
 
 ### :abacus: Protein sequence immunogenicity prediction
 
