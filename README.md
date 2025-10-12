@@ -41,7 +41,7 @@ A pipeline to aggregate and analyze complete datasets of high-throughput screeni
 
 <img width="2000" height="616" alt="image" src="https://github.com/user-attachments/assets/d090020c-203f-4a7a-8a13-2650234a0514" />
 
-## :hot_face: Further characterization - Immunogenicity predictions (WIP)
+## :hot_face: Further characterization - Immunogenicity predictions
 
 A pipeline to predict immunogenicity risk scores for proteins based on their sequences
 
