@@ -1,3 +1,7 @@
+# :bangbang: Disclaimer
+
+Due to the proprietary nature of the code of this pipeline and the confidential nature of the shown experimental results, I am only able to provide an exemple of raw/processed/analyzed data for anonymized molecules.
+
 # :paintbrush: Graphical summary
 
 <img width="2000" height="551" alt="image" src="https://github.com/user-attachments/assets/235e9646-6d7d-4b79-af7e-8bdf2ae74fcc" />
