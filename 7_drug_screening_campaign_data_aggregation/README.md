@@ -59,16 +59,20 @@ Creating an analysis pipeline for the aggregation and integration of individual 
   - Table of contents
   - Global Summaries
     - Agonist mode vs Antagonist mode integration
+    	- <img width="1900" height="1303" alt="image" src="https://github.com/user-attachments/assets/8694e66d-ed6c-4050-8208-d7b4d9f2d83c" />
     - Analysis of agonist mode only
   - Super-agonists, Analysis of agonist mode only
     - Summaries
+    	- <img width="1282" height="608" alt="image" src="https://github.com/user-attachments/assets/58cef73f-ee8c-4774-95f3-7e729c8d9270" />
     - Dose-response curves
+    	- <img width="1841" height="1303" alt="image" src="https://github.com/user-attachments/assets/0e34be53-27e0-4241-9ade-2b42560365ac" />
   - Super-agonists, Agonist mode vs antagonist mode integration
     - Summaries
-	  - Dose-response curves
+	- Dose-response curves
   - Antagonists, Agonist mode vs antagonist mode integration
     - Summaries
-	  - Dose-response curves
+	- Dose-response curves
+  		- <img width="1754" height="1241" alt="image" src="https://github.com/user-attachments/assets/45c2c347-5fff-48ca-aa60-853693067be0" />
   - Quality control
   - Dose-response curves, all conditions
     - Dose-response curves, mean +/- SEM
@@ -77,6 +81,7 @@ Creating an analysis pipeline for the aggregation and integration of individual 
     - Dose-response curves, mean +/- SEM
     - Dose-response curves, dot plots
   - Summary tables, all conditions
+  	- <img width="1310" height="1302" alt="image" src="https://github.com/user-attachments/assets/336147b7-3087-4afe-b342-50a9d7c64c5d" />
   - Heat maps
     
 - .csv files for the processed data
