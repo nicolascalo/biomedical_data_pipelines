@@ -12,7 +12,7 @@ Manual processing of the screening data had become unsustainable (one week of wo
 
 Creating an analysis pipeline for the processing of individual drug screening experiments answering the following requirements:
 - Open source and free-to-use software ecosystem
-- Ease of use for users with limited skills in computers use but possibility of tuning the parameters of the analysis
+- Ease of use for users with limited skills in computers use, but option to tune the parameters of the analysis
 - Reproducibility of the analysis and traceability of the raw data
 - Automated data processing and interactive display of the results
   
