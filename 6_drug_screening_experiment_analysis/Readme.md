@@ -88,22 +88,25 @@ Creating an analysis pipeline for the processing of individual drug screening ex
   - Plate layout before and after name condition cleaning
   - Signal vs time graphing
     - Whole plate
-    - <img width="1576" height="1096" alt="image" src="https://github.com/user-attachments/assets/8d6e4542-dd00-42f1-b3f6-779089605f45" />
+      - <img width="1576" height="1096" alt="image" src="https://github.com/user-attachments/assets/8d6e4542-dd00-42f1-b3f6-779089605f45" />
 
     - Individual conditions
-    - <img width="1579" height="803" alt="image" src="https://github.com/user-attachments/assets/33ff5728-009e-46f8-9631-897b37587069" />
+      - <img width="1579" height="803" alt="image" src="https://github.com/user-attachments/assets/33ff5728-009e-46f8-9631-897b37587069" />
 
   - Dose-response analysis results:
     - Curves
-    - <img width="720" height="410" alt="image" src="https://github.com/user-attachments/assets/a1bd2712-b51d-4acd-9005-9502c8feea11" />
+      - <img width="720" height="410" alt="image" src="https://github.com/user-attachments/assets/a1bd2712-b51d-4acd-9005-9502c8feea11" />
+      
     - Curve metrics
-   
-    - <img width="1235" height="849" alt="image" src="https://github.com/user-attachments/assets/1662c1c5-8f6f-4d63-8c1e-fa324ffe653c" />
+      - <img width="1235" height="849" alt="image" src="https://github.com/user-attachments/assets/1662c1c5-8f6f-4d63-8c1e-fa324ffe653c" />
 
     - Tables
+      - <img width="1972" height="874" alt="image" src="https://github.com/user-attachments/assets/b5884470-fc02-4211-9d70-d831ca661540" />
+
   - Z-factor calculations
   - Quality control tables
   - Data processing and analysis parameters
+    - <img width="1815" height="302" alt="image" src="https://github.com/user-attachments/assets/25414f40-05cc-494e-bd97-26f8307b2457" />
   - Raw data files (disabled in this repository)
 - Prepopulated .pzfx Graphpad Prism files with the dose response curve data
 - .csv and binary files for the processed data
