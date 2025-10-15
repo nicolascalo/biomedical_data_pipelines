@@ -42,7 +42,7 @@ Creating an analysis pipeline for the processing of individual drug screening ex
 - Embedding of the raw data files and source code inside the report
 - Graphical and numeric details of all the processing steps
 - Details of the screening device parameters extracted from raw data files
-- Details of the analysis parameters
+- Details of the analysis parameters included in the html report
 - Possibility of excluding data points from the analysis but still displaying them 
 
 ## :gear::chart_with_upwards_trend: Automated data processing and interactive display of the results
