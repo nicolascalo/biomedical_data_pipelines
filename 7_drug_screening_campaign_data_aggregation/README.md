@@ -1,6 +1,6 @@
 # :bangbang: Disclaimer
 
-The file included in this folder has been anonimized, which introduced some artifacts in the provided exmeple document.
+Due to the proprietary nature of the code of this pipeline and the confidential nature of the shown experimental results, I am only able to provide an exemple of raw/processed/analyzed data for anonymized molecules (which introduced some artifacts in the provided exemple document).
 
 # :paintbrush: Graphical summary
 
