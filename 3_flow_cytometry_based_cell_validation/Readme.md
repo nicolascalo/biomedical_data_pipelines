@@ -6,7 +6,7 @@
 
 The drug discovery platform I belonged to was using flow cytometry to validate the expression of target receptors on the cells destined to be used in the phage display selection process.
 
-However, Cytexpert, the software used to pilot the Cytoflex flow cytometer used for routine work, required manual handling of every single sample for their analysis and had only limited plotting and export functions, making the task tedious and very time-consuming. Furthermore, analysis parameters such as gating boundaries were left to the user appreciation, leading to a lack of analysis standardization within the platform.   
+However, Cytexpert, the software used to pilot the Cytoflex flow cytometer used for routine work, required manual handling of every single sample for their analysis and had only limited plotting and export functions, making the task tedious and very time-consuming. Furthermore, analysis parameters such as gating boundaries were left to the user appreciation, leading to a lack of analysis standardization within the platform.
 
 # :ballot_box_with_check: Task
 
@@ -34,7 +34,7 @@ Creating an analysis pipeline for the processing of individual flow cytometry ex
 - Output of a software-unbound html interactive report that contains the complete analysis
 - Automated installation of needed packages and dependencies
 - Possibility to copy and export filtered tables directly from the report as .xls, .csv or .pdf files
-- Possibility to analyze multiple plates at once and outputing a single html report
+- Possibility to analyze multiple plates at once and outputting a single html report
 
 ## :male_detective: Reproducibility of the analysis and traceability of the raw data
 
@@ -54,7 +54,7 @@ Creating an analysis pipeline for the processing of individual flow cytometry ex
 - After aggregation of all samples
   - Graphing of cell populations based on user-defined parameters
   - Static and interactive plots of statistics (*e.g,*, median fluorescence intensity, etc.) for the chosen fluorescence channels
-  - Filterable and downloadable tables for event counts at each steps of the analysis, individual sample statistics, and replicate sample statistics 
+  - Filterable and downloadable tables for event counts at each step of the analysis, individual sample statistics, and replicate sample statistics 
 
 # :bar_chart: Results
 
@@ -100,7 +100,7 @@ Creating an analysis pipeline for the processing of individual flow cytometry ex
       - <img width="1798" height="532" alt="image" src="https://github.com/user-attachments/assets/4de2998f-a413-48a9-8e1a-766e3e1a1d86" />
   - Parameters of the analysis
     - <img width="1787" height="341" alt="image" src="https://github.com/user-attachments/assets/a0698506-bdf3-4714-aed3-2da7319bec26" />
-- .csv files for the processed data
+- .csv files for processed data
 
 ## :keyboard: Parametrization of the report
 
