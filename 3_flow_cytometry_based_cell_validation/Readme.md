@@ -1,3 +1,7 @@
+# :bangbang: Disclaimer
+
+Due to the proprietary nature of the code of this pipeline, I am only able to provide an exemple of raw/processed/analyzed data. An additional R script (CCR5_CellScreen_targeted_graphing.R) for the graphing of selected samples and its associated output .png files are also provided.
+
 # :paintbrush: Graphical summary
 
 <img width="1917" height="695" alt="image" src="https://github.com/user-attachments/assets/d718397b-227b-42f5-8d20-77b031ad64cc" />
